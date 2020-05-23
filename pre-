@@ -1,0 +1,32 @@
+
+import pyTextMiner as ptm
+
+corpus=ptm.CorpusFromFieldDelimitedFile('./Z_SortedTXTs/cnn_date_content.txt',1)
+
+#stemming 사용
+"""
+pipeline = ptm.Pipeline(ptm.splitter.NLTK(),
+                        ptm.tokenizer.Word(),
+                        ptm.helper.StopwordFilter(file='C:/Users/松旼/PycharmProjects/pyTextMiner/stopwords/stopwordsEng.txt'),
+                        ptm.stemmer.Porter())
+result = pipeline.processCorpus(corpus)
+print('== Splitting Sentence + Tokenizing + Stopwords Removal + Stemming : Porter ==')
+print(result)
+print()
+
+"""
+#lemmatization 사용
+pipeline = ptm.Pipeline(ptm.splitter.NLTK(),
+                        ptm.tokenizer.Word(),
+                        ptm.tagger.NLTK(),
+                        ptm.lemmatizer.WordNet(),
+                        ptm.helper.POSFilter('N*', 'J*', 'R*', 'V*'),
+                        ptm.helper.SelectWordOnly(),
+                        ptm.helper.StopwordFilter(file='C:/Users/松旼/PycharmProjects/pyTextMiner/stopwords/stopwordsEng.txt'),
+                        ptm.ngram.NGramTokenizer(1, 2))
+
+result = pipeline.processCorpus(corpus)
+
+print('== Splitting Sentence + Tokenizing + Stopwords Removal + POS Tagging + Lemmatization ==')
+print(result)
+print()
