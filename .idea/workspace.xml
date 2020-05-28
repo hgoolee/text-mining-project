@@ -24,21 +24,9 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5fe76381-ef0d-405d-b9d4-fea48157a89e" name="Default Changelist" comment="Add ngram, tagger and more news sources">
+    <list default="true" id="5fe76381-ef0d-405d-b9d4-fea48157a89e" name="Default Changelist" comment="Create mongo folder and add files">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
-    <list id="b0ef9500-2e05-4e52-8bf5-c6109ed41980" name="Connect project to MongoDB" comment="Connect project to MongoDB">
-      <change afterPath="$PROJECT_DIR$/mongo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mongo_dropDB.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mongo_find.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mongo_insert.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mongo_update.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wordcloud_generate.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/preprocess/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/preprocess/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test1.py" beforeDir="false" afterPath="$PROJECT_DIR$/test1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,27 +41,6 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="LineStatusTrackerManager">
-    <file path="$PROJECT_DIR$/.idea/workspace.xml">
-      <ranges>
-        <range start1="2" end1="2" start2="2" end2="25" changelist="b0ef9500-2e05-4e52-8bf5-c6109ed41980" />
-        <range start1="4" end1="4" start2="27" end2="40" changelist="5fe76381-ef0d-405d-b9d4-fea48157a89e" />
-        <range start1="10" end1="10" start2="46" end2="51" changelist="b0ef9500-2e05-4e52-8bf5-c6109ed41980" />
-        <range start1="23" end1="24" start2="64" end2="128" changelist="b0ef9500-2e05-4e52-8bf5-c6109ed41980" />
-        <range start1="45" end1="45" start2="149" end2="170" changelist="b0ef9500-2e05-4e52-8bf5-c6109ed41980" />
-        <range start1="47" end1="47" start2="172" end2="173" changelist="5fe76381-ef0d-405d-b9d4-fea48157a89e" />
-        <range start1="48" end1="48" start2="174" end2="177" changelist="5fe76381-ef0d-405d-b9d4-fea48157a89e" />
-        <range start1="63" end1="63" start2="192" end2="204" changelist="b0ef9500-2e05-4e52-8bf5-c6109ed41980" />
-        <range start1="65" end1="65" start2="206" end2="210" changelist="5fe76381-ef0d-405d-b9d4-fea48157a89e" />
-        <range start1="73" end1="74" start2="218" end2="223" changelist="5fe76381-ef0d-405d-b9d4-fea48157a89e" />
-        <range start1="76" end1="78" start2="225" end2="227" changelist="5fe76381-ef0d-405d-b9d4-fea48157a89e" />
-        <range start1="80" end1="82" start2="229" end2="231" changelist="5fe76381-ef0d-405d-b9d4-fea48157a89e" />
-        <range start1="84" end1="86" start2="233" end2="235" changelist="5fe76381-ef0d-405d-b9d4-fea48157a89e" />
-        <range start1="88" end1="89" start2="237" end2="238" changelist="5fe76381-ef0d-405d-b9d4-fea48157a89e" />
-        <range start1="97" end1="97" start2="246" end2="250" changelist="5fe76381-ef0d-405d-b9d4-fea48157a89e" />
-      </ranges>
-    </file>
-  </component>
   <component name="ProjectId" id="1cJPpdpo7EXyZ63XxgZhdpIJU68" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -84,6 +51,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunManager" selected="Python.test1">
     <configuration name="mongo_find" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -193,8 +161,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.wordcloud_generate" />
         <item itemvalue="Python.test1" />
+        <item itemvalue="Python.wordcloud_generate" />
         <item itemvalue="Python.mongo_update" />
         <item itemvalue="Python.mongo_insert" />
         <item itemvalue="Python.mongo_find" />
@@ -219,7 +187,14 @@
       <option name="project" value="LOCAL" />
       <updated>1590657994727</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Create mongo folder and add files">
+      <created>1590673307007</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1590673307007</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -237,13 +212,15 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Connect project to MongoDB" />
     <MESSAGE value="Add ngram, tagger and more news sources" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add ngram, tagger and more news sources" />
+    <MESSAGE value="Edit workspace.xml" />
+    <MESSAGE value="Create mongo folder and add files" />
+    <option name="LAST_COMMIT_MESSAGE" value="Create mongo folder and add files" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="480" y="0" key="CommitChangelistDialog2" timestamp="1590658023079">
+    <state x="480" y="0" key="CommitChangelistDialog2" timestamp="1590677219066">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state x="480" y="0" key="CommitChangelistDialog2/0.0.1920.1032@0.0.1920.1032" timestamp="1590658023079" />
+    <state x="480" y="0" key="CommitChangelistDialog2/0.0.1920.1032@0.0.1920.1032" timestamp="1590677219066" />
     <state x="686" y="192" key="FileChooserDialogImpl" timestamp="1590247949277">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
@@ -252,30 +229,38 @@
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
     <state x="778" y="387" key="Github.ShareDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1590244060644" />
-    <state width="1874" height="258" key="GridCell.Tab.0.bottom" timestamp="1590657726602">
+    <state width="1874" height="258" key="GridCell.Tab.0.bottom" timestamp="1590671657556">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state width="1874" height="258" key="GridCell.Tab.0.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1590657726602" />
-    <state width="1874" height="258" key="GridCell.Tab.0.center" timestamp="1590657726602">
+    <state width="1874" height="258" key="GridCell.Tab.0.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1590671657556" />
+    <state width="1874" height="258" key="GridCell.Tab.0.center" timestamp="1590671657556">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state width="1874" height="258" key="GridCell.Tab.0.center/0.0.1920.1032@0.0.1920.1032" timestamp="1590657726602" />
-    <state width="1874" height="258" key="GridCell.Tab.0.left" timestamp="1590657726601">
+    <state width="1874" height="258" key="GridCell.Tab.0.center/0.0.1920.1032@0.0.1920.1032" timestamp="1590671657556" />
+    <state width="1874" height="258" key="GridCell.Tab.0.left" timestamp="1590671657555">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state width="1874" height="258" key="GridCell.Tab.0.left/0.0.1920.1032@0.0.1920.1032" timestamp="1590657726601" />
-    <state width="1874" height="258" key="GridCell.Tab.0.right" timestamp="1590657726602">
+    <state width="1874" height="258" key="GridCell.Tab.0.left/0.0.1920.1032@0.0.1920.1032" timestamp="1590671657555" />
+    <state width="1874" height="258" key="GridCell.Tab.0.right" timestamp="1590671657556">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state width="1874" height="258" key="GridCell.Tab.0.right/0.0.1920.1032@0.0.1920.1032" timestamp="1590657726602" />
+    <state width="1874" height="258" key="GridCell.Tab.0.right/0.0.1920.1032@0.0.1920.1032" timestamp="1590671657556" />
     <state x="184" y="81" key="MergeDialog" timestamp="1590657598568">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
     <state x="184" y="81" key="MergeDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1590657598568" />
-    <state x="452" y="181" key="Vcs.Push.Dialog.v2" timestamp="1590658240862">
+    <state x="344" y="56" key="SettingsEditor" timestamp="1590674350174">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state x="452" y="181" key="Vcs.Push.Dialog.v2/0.0.1920.1032@0.0.1920.1032" timestamp="1590658240862" />
+    <state x="344" y="56" key="SettingsEditor/0.0.1920.1032@0.0.1920.1032" timestamp="1590674350174" />
+    <state x="452" y="181" key="Vcs.Push.Dialog.v2" timestamp="1590673575813">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="452" y="181" key="Vcs.Push.Dialog.v2/0.0.1920.1032@0.0.1920.1032" timestamp="1590673575813" />
+    <state x="676" y="156" key="git4idea.branch.GitSmartOperationDialog" timestamp="1590673841599">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="676" y="156" key="git4idea.branch.GitSmartOperationDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1590673841599" />
     <state x="592" y="252" key="git4idea.merge.GitPullDialog" timestamp="1590248231027">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
