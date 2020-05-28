@@ -1,0 +1,12 @@
+﻿Major Changes & Updates
+/* ALL MAJOR CHANGES MUST BE CLEARLY EXPLAINED IN THIS FILE */
+
+# 0528
+1) 프로젝트를 MongoDB에 연결하고 해당되는 파일 추가(5개)
+2) process 폴더에 ngram과 tagger 추가
+3) data 폴더에 신문기사 원본 파일 추가(7개)
+4) result 폴더 추가(전처리가 완료된 신문기사를 저장할 폴더)
+5) test1.py 수정 - 신문기사를 날짜 별로 분리할 수 있도록 함
+6) test2.py 추가(pymongo 연습용) - 사용하지 않음
+7) wordcloud_generate.py 추가(기존 test1.py에서 Word Cloud 부분 분리)
+8) HISTORY.txt 추가
