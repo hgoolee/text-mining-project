@@ -2,7 +2,7 @@
 /* ALL MAJOR CHANGES MUST BE CLEARLY EXPLAINED IN THIS FILE */
 
 # 0528
-1) 프로젝트를 MongoDB에 연결하고 해당되는 파일 추가(5개)
+1) 프로젝트를 MongoDB에 연결하고 mongo 폴더에 해당되는 파일 추가(5개)
 2) process 폴더에 ngram과 tagger 추가
 3) data 폴더에 신문기사 원본 파일 추가(7개)
 4) result 폴더 추가(전처리가 완료된 신문기사를 저장할 폴더)

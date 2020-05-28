@@ -1,4 +1,4 @@
-from mongo import *
+from mongo.mongo import *
 from mongoengine import *
 import datetime
 

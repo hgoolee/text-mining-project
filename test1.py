@@ -1,6 +1,6 @@
 # -*- encoding:utf8 -*-
 import preprocess as pre
-from mongo import *
+from mongo.mongo import *
 from mongoengine import *
 import datetime
 import os
