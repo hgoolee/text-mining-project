@@ -1,10 +1,12 @@
 from preprocess.counter import *
 from preprocess.helper import *
 from preprocess.lemmatizer import *
+from preprocess.ngram import *
 from preprocess.splitter import *
 from preprocess.stemmer import *
+from preprocess.tagger import *
 from preprocess.tokenizer import *
-# from preprocess.ngram import *
+# can add as needed
 
 from os import listdir
 from nltk.corpus import stopwords

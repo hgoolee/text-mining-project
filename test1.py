@@ -1,16 +1,56 @@
 # -*- encoding:utf8 -*-
 import preprocess as pre
+from mongo import *
+from mongoengine import *
+import datetime
+import os
+
+
+# Get news articles from MongoDB by date
+def get_by_date(year, month, day):
+    connect("news_scraping", host="localhost", port=27017)
+
+    articles = Article.objects(date=datetime.datetime(int(year), int(month), int(day)))
+
+    filePath = "./data/" + year + month + day + "_data.txt"
+    file = open(filePath, "w", encoding='utf8')
+
+    print("Total of %d documents\n" % articles.count())
+    for article in articles:
+        file.write(article.content)
+        print(article.content)
+
+    file.close()
+    disconnect()
+
+
+# TODO: Choose a date to extract news articles
+year = "2020"
+month = "05"
+day = "15"
+
+get_by_date(year, month, day)
 
 user_dict = './user_dic.txt'
 
+# TODO: Customize pre-processing pipeline
 pipeline = pre.Pipeline(pre.splitter.NLTK(),
                         pre.tokenizer.WordPos(),
+                        pre.lemmatizer.WordNet(),
                         pre.helper.POSFilter('N*|J*|R*|V*'),
                         pre.helper.SelectWordOnly(),
                         pre.helper.StopwordFilter(file='./stopwordsEng.txt'),
+                        pre.ngram.NGramTokenizer(1, 2),
                         pre.counter.WordCounter())
 
-corpus = pre.CorpusFromFieldDelimitedFile('./data/sampleEng.txt', 0)
+filePath1 = "./data/" + year + month + day + "_data.txt"
+
+corpus = pre.CorpusFromFieldDelimitedFile(filePath1, 0)
+
+if os.path.exists(filePath1):
+    os.remove(filePath1)
+else:
+    print("File does not exist!")
 
 result = pipeline.processCorpus(corpus)
 
@@ -32,27 +72,14 @@ for doc in result:
 
 word_freq = []
 for key, value in term_counts.items():
-    word_freq.append((value,key))
+    word_freq.append((value, key))
 
 word_freq.sort(reverse=True)
 print(word_freq)
 
-f = open("demo_result.txt", "w", encoding='utf8')
+filePath2 = "./result/" + year + month + day + "_result.txt"
+
+f = open(filePath2, "w", encoding='utf8')
 for pair in word_freq:
     f.write(pair[1] + '\t' + str(pair[0]) + '\n')
 f.close()
-
-from wordcloud import WordCloud
-
-wordcloud = WordCloud().generate(doc_collection)
-
-import matplotlib.pyplot as plt
-
-wordcloud = WordCloud(max_font_size=40,
-                      background_color='white',
-                      collocations=False,
-                      font_path='C:/Windows/Fonts/malgun.ttf').generate(doc_collection)
-plt.figure()
-plt.imshow(wordcloud, interpolation="bilinear")
-plt.axis("off")
-plt.show()
