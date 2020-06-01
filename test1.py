@@ -1,85 +1,63 @@
 # -*- encoding:utf8 -*-
 import preprocess as pre
-from mongo.mongo import *
+from controlDB import *
 from mongoengine import *
 import datetime
-import os
+from preprocessByDate import process_by_date
+from preprocessByCategory import process_by_category
+from preprocessBySource import process_by_source
+from wordcloud_generate import generate_wordcloud
 
+# TODO: Choose a filter to execute
+# mode is 1 -- filter by date
+# mode is 2 -- filter by category
+# mode is 3 -- filter by source
+mode = 3
 
-# Get news articles from MongoDB by date
-def get_by_date(year, month, day):
-    connect("news_scraping", host="localhost", port=27017)
+# TODO: Select whether to generate Word Cloud
+# True -- Generate Word Cloud
+# False -- Do not generate Word Cloud
+generateWordCloud = False
 
-    articles = Article.objects(date=datetime.datetime(int(year), int(month), int(day)))
+if mode == 1:
+    # TODO: Choose a range of dates to extract news articles
+    #  Extract every article from startYear/startMonth/startDay to endYear/endMonth/endDay
+    startYear = "2020"
+    startMonth = "05"
+    startDay = "13"
 
-    filePath = "./data/" + year + month + day + "_data.txt"
-    file = open(filePath, "w", encoding='utf8')
+    endYear = "2020"
+    endMonth = "05"
+    endDay = "15"
 
-    print("Total of %d documents\n" % articles.count())
-    for article in articles:
-        file.write(article.content)
-        print(article.content)
+    start_date = datetime.datetime(int(startYear), int(startMonth), int(startDay))
+    end_date = datetime.datetime(int(endYear), int(endMonth), int(endDay))
+    one_day = datetime.timedelta(days=1)
 
-    file.close()
-    disconnect()
+    current_date = start_date
+    while current_date <= end_date:
+        doc_collection = process_by_date(str(current_date.year), str(current_date.month).zfill(2), str(current_date.day).zfill(2))
+        if generateWordCloud:
+            generate_wordcloud(doc_collection)
+        current_date += one_day
 
+elif mode == 2:
+    # TODO: Choose categories to extract news articles
+    categoryArray = ["mask"]
 
-# TODO: Choose a date to extract news articles
-year = "2020"
-month = "05"
-day = "15"
+    for category in categoryArray:
+        doc_collection = process_by_category(category)
+        if generateWordCloud:
+            generate_wordcloud(doc_collection)
 
-get_by_date(year, month, day)
+elif mode == 3:
+    # TODO: Choose sources to extract news articles
+    sourceArray = ["Chicago Tribune"]
 
-user_dict = './user_dic.txt'
+    for source in sourceArray:
+        doc_collection = process_by_source(source)
+        if generateWordCloud:
+            generate_wordcloud(doc_collection)
 
-# TODO: Customize pre-processing pipeline
-pipeline = pre.Pipeline(pre.splitter.NLTK(),
-                        pre.tokenizer.WordPos(),
-                        pre.lemmatizer.WordNet(),
-                        pre.helper.POSFilter('N*|J*|R*|V*'),
-                        pre.helper.SelectWordOnly(),
-                        pre.helper.StopwordFilter(file='./stopwordsEng.txt'),
-                        pre.ngram.NGramTokenizer(1, 2),
-                        pre.counter.WordCounter())
-
-filePath1 = "./data/" + year + month + day + "_data.txt"
-
-corpus = pre.CorpusFromFieldDelimitedFile(filePath1, 0)
-
-if os.path.exists(filePath1):
-    os.remove(filePath1)
 else:
-    print("File does not exist!")
-
-result = pipeline.processCorpus(corpus)
-
-print(result)
-print()
-
-doc_collection = ''
-term_counts = {}
-for doc in result:
-    for sent in doc:
-        for _str in sent:
-            term_counts[_str[0]] = term_counts.get(_str[0], 0) + int(_str[1])
-            freq = range(int(_str[1]))
-            co = ''
-            for n in freq:
-                co += ' ' + _str[0]
-
-            doc_collection += ' ' + co
-
-word_freq = []
-for key, value in term_counts.items():
-    word_freq.append((value, key))
-
-word_freq.sort(reverse=True)
-print(word_freq)
-
-filePath2 = "./result/" + year + month + day + "_result.txt"
-
-f = open(filePath2, "w", encoding='utf8')
-for pair in word_freq:
-    f.write(pair[1] + '\t' + str(pair[0]) + '\n')
-f.close()
+    print("Mode is not defined!")
