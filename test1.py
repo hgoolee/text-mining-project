@@ -3,16 +3,18 @@ import preprocess as pre
 from controlDB import *
 from mongoengine import *
 import datetime
+from preprocessByDateRange import process_by_date_range
 from preprocessByDate import process_by_date
 from preprocessByCategory import process_by_category
 from preprocessBySource import process_by_source
 from wordcloud_generate import generate_wordcloud
 
 # TODO: Choose a filter to execute
-# mode is 1 -- filter by date
-# mode is 2 -- filter by category
-# mode is 3 -- filter by source
-mode = 3
+# mode is 1 -- filter by date range (whole period)
+# mode is 2 -- filter by date (each date)
+# mode is 3 -- filter by category
+# mode is 4 -- filter by source
+mode = 1
 
 # TODO: Select whether to generate Word Cloud
 # True -- Generate Word Cloud
@@ -21,6 +23,26 @@ generateWordCloud = False
 
 if mode == 1:
     # TODO: Choose a range of dates to extract news articles
+    #  Output TWO files - 1) articles of the whole period  2) pre-processed result of the whole period
+    #  Extract every article from startYear/startMonth/startDay to endYear/endMonth/endDay
+    startYear = "2020"
+    startMonth = "04"
+    startDay = "15"
+
+    endYear = "2020"
+    endMonth = "05"
+    endDay = "15"
+
+    start_date = datetime.datetime(int(startYear), int(startMonth), int(startDay))
+    end_date = datetime.datetime(int(endYear), int(endMonth), int(endDay))
+
+    doc_collection = process_by_date_range(start_date, end_date)
+    if generateWordCloud:
+        generate_wordcloud(doc_collection)
+
+elif mode == 2:
+    # TODO: Choose a range of dates to extract news articles
+    #  Output MULTIPLE files - Each file consists of pre-processed result of each date
     #  Extract every article from startYear/startMonth/startDay to endYear/endMonth/endDay
     startYear = "2020"
     startMonth = "05"
@@ -41,7 +63,7 @@ if mode == 1:
             generate_wordcloud(doc_collection)
         current_date += one_day
 
-elif mode == 2:
+elif mode == 3:
     # TODO: Choose categories to extract news articles
     categoryArray = ["mask"]
 
@@ -50,7 +72,7 @@ elif mode == 2:
         if generateWordCloud:
             generate_wordcloud(doc_collection)
 
-elif mode == 3:
+elif mode == 4:
     # TODO: Choose sources to extract news articles
     sourceArray = ["Chicago Tribune"]
 

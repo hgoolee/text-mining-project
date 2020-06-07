@@ -4,8 +4,8 @@
 - [x] Getting Started
 - [x] Scraping
 - [x] Data Pre-processing
-- [ ] Count Occurrence (Word Cloud)
-- [ ] Co-occurence
+- [x] Count Occurrence (Word Cloud)
+- [ ] Co-occurrence
 - [ ] Sentiment Analysis
 - [ ] Topic Modelling
 - [ ] Result Interpretation
@@ -35,7 +35,7 @@
 ### 0601
 1. renamed `mongo` folder to `controlDB`
 1. resolved import error by adding `__init__.py` file to `controlDB` folder
-1. added `processByDate.py`, `processByCategory.py`, `processBySource.py` files
+1. added `preprocessByDate.py`, `preprocessByCategory.py`, `preprocessBySource.py` files
 1. enabled additional features in `test1.py`
    * pre-process by *date*(a range of dates instead of a single date) - when *mode* is 1
    * pre-process by *category* - when *mode* is 2
@@ -45,3 +45,18 @@
 1. edited `README.md` - made the format more organised
 1. removed `HISTORY.txt`
 1. renamed `+a` folder to `sample`
+
+### 0607
+1. created `preprocessByDateRange.py`
+1. enabled additional features in `test1.py`
+   * pre-process by *date range* - when *mode* is 1
+     * output TWO files in total
+     * output a SINGLE file consisting of all news articles of the given date range
+     * output a SINGLE file consisting of pre-processed result of the given date range
+1. updated mode number in `test1.py`
+    * pre-process by *date* - when *mode* is 2
+    * pre-process by *category* - when *mode* is 3
+    * pre-process by *source* - when *mode* is 4
+
+### 0611
+1. create `sentiment` folder
