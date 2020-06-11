@@ -7,6 +7,7 @@ from preprocessByDateRange import process_by_date_range
 from preprocessByDate import process_by_date
 from preprocessByCategory import process_by_category
 from preprocessBySource import process_by_source
+from preprocessByKeyword import process_by_keyword
 from wordcloud_generate import generate_wordcloud
 
 # TODO: Choose a filter to execute
@@ -14,7 +15,8 @@ from wordcloud_generate import generate_wordcloud
 # mode is 2 -- filter by date (each date)
 # mode is 3 -- filter by category
 # mode is 4 -- filter by source
-mode = 1
+# mode is 5 -- filter by keyword (case insensitive)
+mode = 5
 
 # TODO: Select whether to generate Word Cloud
 # True -- Generate Word Cloud
@@ -78,6 +80,15 @@ elif mode == 4:
 
     for source in sourceArray:
         doc_collection = process_by_source(source)
+        if generateWordCloud:
+            generate_wordcloud(doc_collection)
+
+elif mode == 5:
+    # TODO: Choose keywords (case insensitive) to extract news articles
+    keywordArray = ["South Korea", "mask"]
+
+    for keyword in keywordArray:
+        doc_collection = process_by_keyword(keyword)
         if generateWordCloud:
             generate_wordcloud(doc_collection)
 

@@ -59,4 +59,10 @@
     * pre-process by *source* - when *mode* is 4
 
 ### 0611
-1. create `sentiment` folder
+1. created `sentimentAnalysis` folder and added `englishDictionarySentimentAnalyzer.py`
+1. created `preprocessByKeyword.py`
+1. added additional features to `test1.py`
+   * pre-process by *keyword* - when *mode* is 5
+1. created `countWordOccurrence.py`
+   * count the occurrence of the given substring in each article
+1. created `WebScraper` folder and added `collector` module - not going to be used
