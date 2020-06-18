@@ -73,3 +73,101 @@ class KoreanLemmatizer:
         #for word in args[0]:
         #    lemmatized.append(self.inst.lemmatize(word))
         return self.inst.lemmatize(args[0])
+
+class SejongPOSLemmatizer:
+    IN_TYPE = [list, tuple]
+    OUT_TYPE = [list, tuple]
+
+    def __init__(self):
+        from soylemma import Lemmatizer
+        self.lemmatizer = Lemmatizer(dictionary_name='default')
+
+    def __call__(self, *args, **kwargs):
+        inst = []
+        for i, word_tuple in enumerate(args[0]):
+            print(str(word_tuple))
+            word = word_tuple[0]
+            pos = word_tuple[1]
+            if str(pos).startswith('XSA+') or str(pos).startswith('XSV+'):
+                lemmatized = self.lemmatizer.lemmatize(word)
+                if len(lemmatized) > 1:
+                    if (lemmatized[0][0] is '히다' and lemmatized[1][0] is '한다') or (lemmatized[1][0] is '히다' and lemmatized[0][0] is '한다'):
+                        if (i > 0):
+                            if str(args[0][i-1][1]).startswith('N'):
+                                pre_term = inst[len(inst)-1]
+                                inst.remove(pre_term)
+                                inst.append((pre_term[0]+lemmatized[1][0],pre_term[1]))
+
+                    else:
+                        if (i > 0):
+                            if str(args[0][i-1][1]).startswith('N'):
+                                pre_term = inst[len(inst)-1]
+                                inst.remove(pre_term)
+                                inst.append((pre_term[0]+lemmatized[0][0],pre_term[1]))
+
+                elif len(lemmatized) == 1:
+                    if (i > 0):
+                        if str(args[0][i - 1][1]).startswith('N'):
+                            pre_term = inst[len(inst) - 1]
+
+                            inst.remove(pre_term)
+                            inst.append((pre_term[0] + lemmatized[0][0], pre_term[1]))
+            elif str(pos) == 'XSA' or str(pos) == 'XSV':
+                lemmatized = self.lemmatizer.lemmatize(word)
+                if len(lemmatized) > 1:
+                    if (lemmatized[0][0] is '히다' and lemmatized[1][0] is '한다') or (lemmatized[1][0] is '히다' and lemmatized[0][0] is '한다'):
+                        if (i > 0):
+                            if str(args[0][i-1][1]).startswith('N'):
+                                pre_term = inst[len(inst)-1]
+                                inst.remove(pre_term)
+                                inst.append((pre_term[0]+lemmatized[1][0],pre_term[1]))
+
+                    else:
+                        if (i > 0):
+                            if str(args[0][i-1][1]).startswith('N'):
+                                pre_term = inst[len(inst)-1]
+                                inst.remove(pre_term)
+                                inst.append((pre_term[0]+lemmatized[0][0],pre_term[1]))
+                elif len(lemmatized) == 1:
+                    if (i > 0):
+                        if str(args[0][i - 1][1]).startswith('N'):
+                            pre_term = inst[len(inst) - 1]
+                            inst.remove(pre_term)
+                            inst.append((pre_term[0] + lemmatized[0][0], pre_term[1]))
+            elif str(pos).startswith('VV+') or str(pos).startswith('VA+'):
+                lemmatized = self.lemmatizer.lemmatize(word)
+                print(str(lemmatized))
+                if len(lemmatized) > 1:
+                    if (lemmatized[0][0] is '히다' and lemmatized[1][0] is '한다') or (lemmatized[1][0] is '히다' and lemmatized[0][0] is '한다'):
+                        if (i > 0):
+                            if str(args[0][i-1][1]).startswith('N'):
+                                pre_term = inst[len(inst) - 1]
+                                inst.remove(pre_term)
+                                inst.append((pre_term[0]+lemmatized[1][0],pre_term[1]))
+                        else:
+                            inst.append((lemmatized[0][0],pos))
+                    else:
+                        if (i > 0):
+                            if str(args[0][i-1][1]).startswith('N'):
+                                pre_term = inst[len(inst)-1]
+                                inst.remove(pre_term)
+                                inst.append((pre_term[0]+lemmatized[0][0],pre_term[1]))
+                        else:
+                            inst.append((lemmatized[0][0],pos))
+                elif len(lemmatized) == 1:
+                    if (i > 0):
+                        if str(args[0][i - 1][1]).startswith('N'):
+                            pre_term = inst[len(inst) - 1]
+                            inst.remove(pre_term)
+                            inst.append((pre_term[0] + lemmatized[0][0], pre_term[1]))
+                    else:
+                        inst.append((lemmatized[0][0], pos))
+            elif str(pos).startswith('VV') or str(pos).startswith('VA'):
+                lemmatized = word + '다'
+                if len(lemmatized) > 0:
+                    inst.append((lemmatized,pos))
+            else:
+                inst.append((word,pos))
+
+        #print(inst)
+        return inst

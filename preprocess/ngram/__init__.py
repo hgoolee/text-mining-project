@@ -5,10 +5,11 @@ class BaseNgram:
     OUT_TYPE = [list, str]
 
 class NGramTokenizer(BaseNgram):
-
-    def __init__(self, min=1, max=2):  #ngramCount=(1,2)  # default는 unigram부터 시작
-        self.ngramCount = max
+    def __init__(self, min=1, ngramCount=3, concat='_'):
+        self.ngramCount = ngramCount
         self.min = min
+        self.converted = []
+        self.concat = concat
 
     def __call__(self, *args, **kwargs):
         converted = []
@@ -17,8 +18,9 @@ class NGramTokenizer(BaseNgram):
             output = list(ngrams((args[0]), i))
             for x in output:
                 if (len(x) > 0):
-                    converted.append("_".join(x))
+                    converted.append(self.concat.join(x))
 
         #print("NGRAM " + str(converted))
+        self.converted = converted
 
         return converted

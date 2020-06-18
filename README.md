@@ -5,8 +5,8 @@
 - [x] Scraping
 - [x] Data Pre-processing
 - [x] Count Occurrence (Word Cloud)
-- [ ] Co-occurrence
-- [ ] Sentiment Analysis
+- [x] Co-occurrence
+- [x] Sentiment Analysis
 - [ ] Topic Modelling
 - [ ] Result Interpretation
 - [ ] Visualization
@@ -17,7 +17,7 @@
 
 ### 0528
 1. 프로젝트를 MongoDB에 연결하고 `mongo` 폴더에 해당되는 파일 추가(5개)
-1. `process` 폴더에 *ngram*과 *tagger* 추가
+1. `preprocess` 폴더에 *ngram*과 *tagger* 추가
 1. `data` 폴더에 신문기사 원본 파일 추가(7개)
 1. `result` 폴더 추가(전처리가 완료된 신문기사를 저장할 폴더)
 1. `test1.py` 수정 - 신문기사를 날짜 별로 분리할 수 있도록 함
@@ -66,3 +66,14 @@
 1. created `countWordOccurrence.py`
    * count the occurrence of the given substring in each article
 1. created `WebScraper` folder and added `collector` module - not going to be used
+
+### 0618
+1. added files in `sentimentAnalysis` folder from our original module
+1. updated `englishDictionarySentimentAnalyzer.py` file
+   * can conduct Sentiment Analysis by size of the window
+1. created `test_englishDictionarySentimentAnalyzer.py` file in `sentimentAnalysis` folder
+1. changed the structure of `data` folder
+   * created `final` folder to save only the final data
+   * created `original` folder to save only the original data
+1. edited `mongo_insert.py` file
+1. updated *lemmatizer* and *ngram* module in `preprocess` folder
