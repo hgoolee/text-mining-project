@@ -77,3 +77,14 @@
    * created `original` folder to save only the original data
 1. edited `mongo_insert.py` file
 1. updated *lemmatizer* and *ngram* module in `preprocess` folder
+
+### 0619
+1. 0611 version이었으나 업로드 되지 않았던 내용 추가+ 새 graphml output들 공유
+1. created 'Cooccurrence' folder
+   * created `graphmlmaker.py` to run create graphml files
+   * ouput file들 중에서 최종 결과물에 사용된 것은 'graphmls_NVJ' folder에 있는 것들
+1. created `test_englishDictionarySentimentAnalyzer.py` file in `preprocess` folder
+   * created `cooccurrence` folder to run 'graphmlmaker.py'
+   * created `graphml` folder to run 'graphmlmaker.py'
+1. changed  '__init__' of `preprocess' folder
+   * added lines that import modules above
