@@ -6,6 +6,8 @@ from preprocess.splitter import *
 from preprocess.stemmer import *
 from preprocess.tagger import *
 from preprocess.tokenizer import *
+from preprocess.cooccurrence import *
+from preprocess.graphml import *
 # can add as needed
 
 from os import listdir
@@ -54,7 +56,6 @@ class Pipeline:
             results.append(inst)
         return results
 
-
 class Corpus:
     def __init__(self, textList):
         self.pair_map = {}
@@ -66,27 +67,19 @@ class Corpus:
     def __len__(self):
         return self.docs.__len__()
 
-
 class CorpusFromFile(Corpus):
     def __init__(self, file):
         self.docs = open(file, encoding='utf-8').readlines()
 
-
 class CorpusFromFieldDelimitedFile(Corpus):
     def __init__(self, file, index):
+        #self.docs = open(file, encoding='utf-8').readlines()
         array = []
-        line_count=0
         with open(file, encoding='utf-8') as ins:
-            for line in ins.readlines():
-                inside=line.split('\t')
-                line_count+=1
-                try:
-                    in_in=inside[index]
-                except IndexError:
-                    print(line_count,'번째 에러 확인, txt 파일의 확인요망')
-                array.append(in_in)
-        self.docs = array
+            for line in ins:
+                array.append(line.split('\t')[index])
 
+        self.docs = array
 
 class CorpusFromFieldDelimitedFileWithYear(Corpus):
     def __init__(self, file, doc_index=1, year_index=0):
@@ -96,43 +89,12 @@ class CorpusFromFieldDelimitedFileWithYear(Corpus):
         with open(file, encoding='utf-8') as ins:
             for line in ins:
                 fields = line.split('\t')
-                try:
-                    array.append(fields[doc_index])
-                    pair_map[id] = fields[year_index]
+                array.append(fields[doc_index])
+                pair_map[id] = fields[year_index]
 
-                    id += 1
-                except IndexError:
-                    print("out of index " + str(id))
-
+                id += 1
         self.docs = array
         self.pair_map = pair_map
-
-
-class CorpusFromFieldDelimitedFileForClassification(Corpus):
-    def __init__(self, file, delimiter='\t',doc_index=1, class_index=0, title_index=-1):
-        array = []
-        id = 0
-        pair_map = {}
-        with open(file, encoding='utf-8') as ins:
-            for line in ins:
-
-                fields = line.split(delimiter)
-                try:
-                    doc = ''
-                    if title_index != -1:
-                        doc += ' ' + fields[title_index]
-
-                    doc += ' ' + fields[doc_index]
-                    array.append(doc.strip())
-                    pair_map[id] = fields[class_index]
-
-                    id += 1
-                except IndexError:
-                    print("out of index " + str(id))
-
-        self.docs = array
-        self.pair_map = pair_map
-
 
 class CorpusFromDirectory(Corpus):
 
@@ -157,5 +119,15 @@ class CorpusFromDirectory(Corpus):
 
             # add to list
             array.append(data)
+
+        self.docs = array
+
+class CorpusFromFieldDelimitedFile_enter(Corpus):
+    def __init__(self, file, index):
+        #self.docs = open(file, encoding='utf-8').readlines()
+        array = []
+        with open(file, encoding='utf-8') as ins:
+            for line in ins:
+                array.append(line.split('\n')[index])
 
         self.docs = array
