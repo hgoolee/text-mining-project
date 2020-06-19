@@ -1,0 +1,7417 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d1" for="edge" attr.name="weight" attr.type="double"/>
+<key id="d0" for="node" attr.name="count" attr.type="int"/>
+<graph edgedefault="undirected"><node id="0100b59s39e">
+  <data key="d0">3</data>
+</node>
+<node id="index">
+  <data key="d0">5</data>
+</node>
+<node id="_aditya">
+  <data key="d0">1</data>
+</node>
+<node id="aditya_munjuluru">
+  <data key="d0">1</data>
+</node>
+<node id="_amid">
+  <data key="d0">1</data>
+</node>
+<node id="amid_crisis">
+  <data key="d0">1</data>
+</node>
+<node id="_clair">
+  <data key="d0">1</data>
+</node>
+<node id="clair_alison">
+  <data key="d0">1</data>
+</node>
+<node id="_comfort">
+  <data key="d0">1</data>
+</node>
+<node id="comfort_reads">
+  <data key="d0">1</data>
+</node>
+<node id="_companies">
+  <data key="d0">1</data>
+</node>
+<node id="companies_warn">
+  <data key="d0">1</data>
+</node>
+<node id="_congress">
+  <data key="d0">2</data>
+</node>
+<node id="congress_protective">
+  <data key="d0">2</data>
+</node>
+<node id="_credit">
+  <data key="d0">29</data>
+</node>
+<node id="credit_andrew">
+  <data key="d0">10</data>
+</node>
+<node id="credit_jennifer">
+  <data key="d0">14</data>
+</node>
+<node id="_donna">
+  <data key="d0">1</data>
+</node>
+<node id="donna_oduca">
+  <data key="d0">2</data>
+</node>
+<node id="_dowjones">
+  <data key="d0">3</data>
+</node>
+<node id="com">
+  <data key="d0">551</data>
+</node>
+<node id="_drugmakers">
+  <data key="d0">2</data>
+</node>
+<node id="drugmakers_overhaul">
+  <data key="d0">2</data>
+</node>
+<node id="_economic">
+  <data key="d0">4</data>
+</node>
+<node id="economic_recovery">
+  <data key="d0">4</data>
+</node>
+<node id="_hogan">
+  <data key="d0">1</data>
+</node>
+<node id="hogan_governor">
+  <data key="d0">1</data>
+</node>
+<node id="_house">
+  <data key="d0">2</data>
+</node>
+<node id="house_democrats">
+  <data key="d0">2</data>
+</node>
+<node id="_kim">
+  <data key="d0">4</data>
+</node>
+<node id="kim_jong">
+  <data key="d0">3</data>
+</node>
+<node id="_live">
+  <data key="d0">1</data>
+</node>
+<node id="live_business">
+  <data key="d0">1</data>
+</node>
+<node id="_managing">
+  <data key="d0">1</data>
+</node>
+<node id="managing_finances">
+  <data key="d0">1</data>
+</node>
+<node id="_martin">
+  <data key="d0">26</data>
+</node>
+<node id="martin_andrew">
+  <data key="d0">6</data>
+</node>
+<node id="martin_timothy">
+  <data key="d0">9</data>
+</node>
+<node id="_navigating">
+  <data key="d0">2</data>
+</node>
+<node id="navigating_life">
+  <data key="d0">2</data>
+</node>
+<node id="_north">
+  <data key="d0">2</data>
+</node>
+<node id="north_kim">
+  <data key="d0">1</data>
+</node>
+<node id="north_leader">
+  <data key="d0">1</data>
+</node>
+<node id="_pennsylvania">
+  <data key="d0">2</data>
+</node>
+<node id="pennsylvania_governor">
+  <data key="d0">2</data>
+</node>
+<node id="_post">
+  <data key="d0">1</data>
+</node>
+<node id="flash">
+  <data key="d0">2</data>
+</node>
+<node id="_potter">
+  <data key="d0">1</data>
+</node>
+<node id="potter_ideal">
+  <data key="d0">1</data>
+</node>
+<node id="_states">
+  <data key="d0">1</data>
+</node>
+<node id="states_roll">
+  <data key="d0">1</data>
+</node>
+<node id="_tests">
+  <data key="d0">2</data>
+</node>
+<node id="tests_treatment">
+  <data key="d0">2</data>
+</node>
+<node id="_texas">
+  <data key="d0">2</data>
+</node>
+<node id="texas_businesses">
+  <data key="d0">2</data>
+</node>
+<node id="_trump">
+  <data key="d0">2</data>
+</node>
+<node id="trump_temporarily">
+  <data key="d0">1</data>
+</node>
+<node id="_understanding">
+  <data key="d0">1</data>
+</node>
+<node id="understanding_">
+  <data key="d0">1</data>
+</node>
+<node id="_virus">
+  <data key="d0">2</data>
+</node>
+<node id="virus_">
+  <data key="d0">2</data>
+</node>
+<node id="virus_latest">
+  <data key="d0">1</data>
+</node>
+<node id="_wsj">
+  <data key="d0">208</data>
+</node>
+<node id="across_asia">
+  <data key="d0">1</data>
+</node>
+<node id="asia_write">
+  <data key="d0">1</data>
+</node>
+<node id="additional">
+  <data key="d0">11</data>
+</node>
+<node id="reporting">
+  <data key="d0">27</data>
+</node>
+<node id="additional_reporting">
+  <data key="d0">11</data>
+</node>
+<node id="reporting_hyunjoo">
+  <data key="d0">3</data>
+</node>
+<node id="reporting_pedro">
+  <data key="d0">1</data>
+</node>
+<node id="aditya">
+  <data key="d0">1</data>
+</node>
+<node id="munjuluru">
+  <data key="d0">1</data>
+</node>
+<node id="munjuluru_bengaluru">
+  <data key="d0">1</data>
+</node>
+<node id="advise">
+  <data key="d0">1</data>
+</node>
+<node id="caution">
+  <data key="d0">2</data>
+</node>
+<node id="advise_caution">
+  <data key="d0">1</data>
+</node>
+<node id="caution_">
+  <data key="d0">1</data>
+</node>
+<node id="afp">
+  <data key="d0">14</data>
+</node>
+<node id="getty">
+  <data key="d0">17</data>
+</node>
+<node id="getty_images">
+  <data key="d0">12</data>
+</node>
+<node id="ailworth">
+  <data key="d0">4</data>
+</node>
+<node id="erin">
+  <data key="d0">4</data>
+</node>
+<node id="akane">
+  <data key="d0">6</data>
+</node>
+<node id="otani">
+  <data key="d0">6</data>
+</node>
+<node id="akane_otani">
+  <data key="d0">6</data>
+</node>
+<node id="otani_">
+  <data key="d0">2</data>
+</node>
+<node id="alexander">
+  <data key="d0">6</data>
+</node>
+<node id="osipovich">
+  <data key="d0">6</data>
+</node>
+<node id="alexander_osipovich">
+  <data key="d0">6</data>
+</node>
+<node id="osipovich_">
+  <data key="d0">2</data>
+</node>
+<node id="alison">
+  <data key="d0">3</data>
+</node>
+<node id="bowen">
+  <data key="d0">2</data>
+</node>
+<node id="alison_bowen">
+  <data key="d0">2</data>
+</node>
+<node id="bowen_caption">
+  <data key="d0">1</data>
+</node>
+<node id="alistair">
+  <data key="d0">2</data>
+</node>
+<node id="bell">
+  <data key="d0">2</data>
+</node>
+<node id="america">
+  <data key="d0">5</data>
+</node>
+<node id="nation">
+  <data key="d0">7</data>
+</node>
+<node id="america_nation">
+  <data key="d0">1</data>
+</node>
+<node id="nation_emerge">
+  <data key="d0">1</data>
+</node>
+<node id="amid">
+  <data key="d0">1</data>
+</node>
+<node id="crisis">
+  <data key="d0">5</data>
+</node>
+<node id="crisis_">
+  <data key="d0">1</data>
+</node>
+<node id="amy">
+  <data key="d0">9</data>
+</node>
+<node id="tennery">
+  <data key="d0">4</data>
+</node>
+<node id="amy_tennery">
+  <data key="d0">4</data>
+</node>
+<node id="tennery_new">
+  <data key="d0">4</data>
+</node>
+<node id="andrew">
+  <data key="d0">38</data>
+</node>
+<node id="cary">
+  <data key="d0">4</data>
+</node>
+<node id="jeong">
+  <data key="d0">25</data>
+</node>
+<node id="restuccia">
+  <data key="d0">8</data>
+</node>
+<node id="restuccia_">
+  <data key="d0">2</data>
+</node>
+<node id="andrew_cary">
+  <data key="d0">4</data>
+</node>
+<node id="cary_robert">
+  <data key="d0">4</data>
+</node>
+<node id="andrew_jeong">
+  <data key="d0">25</data>
+</node>
+<node id="jeong_">
+  <data key="d0">9</data>
+</node>
+<node id="jeong_seoul">
+  <data key="d0">5</data>
+</node>
+<node id="andrew_restuccia">
+  <data key="d0">4</data>
+</node>
+<node id="restuccia_andrew">
+  <data key="d0">2</data>
+</node>
+<node id="restuccia_sabrina">
+  <data key="d0">2</data>
+</node>
+<node id="angeles">
+  <data key="d0">7</data>
+</node>
+<node id="artist">
+  <data key="d0">3</data>
+</node>
+<node id="angeles_artist">
+  <data key="d0">1</data>
+</node>
+<node id="artist_supporter">
+  <data key="d0">1</data>
+</node>
+<node id="anna">
+  <data key="d0">10</data>
+</node>
+<node id="hirtenstein">
+  <data key="d0">3</data>
+</node>
+<node id="joanne">
+  <data key="d0">23</data>
+</node>
+<node id="wsj">
+  <data key="d0">416</data>
+</node>
+<node id="anna_">
+  <data key="d0">2</data>
+</node>
+<node id="anna_joanne">
+  <data key="d0">2</data>
+</node>
+<node id="joanne_chiu">
+  <data key="d0">13</data>
+</node>
+<node id="ansari">
+  <data key="d0">29</data>
+</node>
+<node id="talal">
+  <data key="d0">29</data>
+</node>
+<node id="ansari_">
+  <data key="d0">7</data>
+</node>
+<node id="ansari_talal">
+  <data key="d0">7</data>
+</node>
+<node id="anzolin">
+  <data key="d0">1</data>
+</node>
+<node id="milan">
+  <data key="d0">1</data>
+</node>
+<node id="anzolin_milan">
+  <data key="d0">1</data>
+</node>
+<node id="milan_editing">
+  <data key="d0">1</data>
+</node>
+<node id="apnews">
+  <data key="d0">110</data>
+</node>
+<node id="arian">
+  <data key="d0">4</data>
+</node>
+<node id="campo">
+  <data key="d0">14</data>
+</node>
+<node id="arlola">
+  <data key="d0">1</data>
+</node>
+<node id="rawls">
+  <data key="d0">1</data>
+</node>
+<node id="arlola_rawls">
+  <data key="d0">1</data>
+</node>
+<node id="rawls_photo">
+  <data key="d0">1</data>
+</node>
+<node id="art">
+  <data key="d0">2</data>
+</node>
+<node id="nonprofit">
+  <data key="d0">1</data>
+</node>
+<node id="organization">
+  <data key="d0">1</data>
+</node>
+<node id="art_nonprofit">
+  <data key="d0">1</data>
+</node>
+<node id="nonprofit_artist">
+  <data key="d0">1</data>
+</node>
+<node id="art_organization">
+  <data key="d0">1</data>
+</node>
+<node id="organization_work">
+  <data key="d0">1</data>
+</node>
+<node id="income">
+  <data key="d0">2</data>
+</node>
+<node id="relief">
+  <data key="d0">3</data>
+</node>
+<node id="supporter">
+  <data key="d0">1</data>
+</node>
+<node id="artist_income">
+  <data key="d0">1</data>
+</node>
+<node id="income_pandemic">
+  <data key="d0">1</data>
+</node>
+<node id="artist_relief">
+  <data key="d0">1</data>
+</node>
+<node id="relief_fund">
+  <data key="d0">1</data>
+</node>
+<node id="supporter_art">
+  <data key="d0">1</data>
+</node>
+<node id="asa">
+  <data key="d0">13</data>
+</node>
+<node id="fitch">
+  <data key="d0">13</data>
+</node>
+<node id="fitch_">
+  <data key="d0">3</data>
+</node>
+<node id="asa_fitch">
+  <data key="d0">7</data>
+</node>
+<node id="fitch_asa">
+  <data key="d0">3</data>
+</node>
+<node id="asha">
+  <data key="d0">1</data>
+</node>
+<node id="sistla">
+  <data key="d0">1</data>
+</node>
+<node id="asha_sistla">
+  <data key="d0">1</data>
+</node>
+<node id="sistla_siddharth">
+  <data key="d0">1</data>
+</node>
+<node id="asia">
+  <data key="d0">3</data>
+</node>
+<node id="write">
+  <data key="d0">151</data>
+</node>
+<node id="write_ian">
+  <data key="d0">1</data>
+</node>
+<node id="assas">
+  <data key="d0">2</data>
+</node>
+<node id="france">
+  <data key="d0">2</data>
+</node>
+<node id="panthéon">
+  <data key="d0">2</data>
+</node>
+<node id="assas_france">
+  <data key="d0">1</data>
+</node>
+<node id="france_vision">
+  <data key="d0">1</data>
+</node>
+<node id="asset">
+  <data key="d0">2</data>
+</node>
+<node id="graphic">
+  <data key="d0">10</data>
+</node>
+<node id="asset_graphic">
+  <data key="d0">2</data>
+</node>
+<node id="graphic_currency">
+  <data key="d0">2</data>
+</node>
+<node id="associated">
+  <data key="d0">8</data>
+</node>
+<node id="press">
+  <data key="d0">9</data>
+</node>
+<node id="associated_press">
+  <data key="d0">8</data>
+</node>
+<node id="press_writer">
+  <data key="d0">3</data>
+</node>
+<node id="avantika">
+  <data key="d0">9</data>
+</node>
+<node id="chilkoti">
+  <data key="d0">9</data>
+</node>
+<node id="chilkoti_">
+  <data key="d0">2</data>
+</node>
+<node id="avantika_chilkoti">
+  <data key="d0">5</data>
+</node>
+<node id="chilkoti_avantika">
+  <data key="d0">2</data>
+</node>
+<node id="back_restrictions">
+  <data key="d0">1</data>
+</node>
+<node id="restrictions_lockdowns">
+  <data key="d0">1</data>
+</node>
+<node id="ballhaus">
+  <data key="d0">15</data>
+</node>
+<node id="rebecca">
+  <data key="d0">15</data>
+</node>
+<node id="understanding">
+  <data key="d0">1</data>
+</node>
+<node id="write_rebecca">
+  <data key="d0">1</data>
+</node>
+<node id="ballhaus_">
+  <data key="d0">3</data>
+</node>
+<node id="ballhaus_rebecca">
+  <data key="d0">3</data>
+</node>
+<node id="bat">
+  <data key="d0">1</data>
+</node>
+<node id="expert">
+  <data key="d0">5</data>
+</node>
+<node id="bat_expert">
+  <data key="d0">1</data>
+</node>
+<node id="expert_says">
+  <data key="d0">1</data>
+</node>
+<node id="beijing">
+  <data key="d0">5</data>
+</node>
+<node id="editing">
+  <data key="d0">87</data>
+</node>
+<node id="ben">
+  <data key="d0">9</data>
+</node>
+<node id="chapman">
+  <data key="d0">9</data>
+</node>
+<node id="bender">
+  <data key="d0">5</data>
+</node>
+<node id="mike">
+  <data key="d0">13</data>
+</node>
+<node id="bengaluru">
+  <data key="d0">9</data>
+</node>
+<node id="narendra">
+  <data key="d0">1</data>
+</node>
+<node id="bengaluru_amy">
+  <data key="d0">4</data>
+</node>
+<node id="bengaluru_narendra">
+  <data key="d0">1</data>
+</node>
+<node id="narendra_r">
+  <data key="d0">1</data>
+</node>
+<node id="benoit">
+  <data key="d0">5</data>
+</node>
+<node id="faucon">
+  <data key="d0">5</data>
+</node>
+<node id="betsy">
+  <data key="d0">112</data>
+</node>
+<node id="mckay">
+  <data key="d0">112</data>
+</node>
+<node id="bill_">
+  <data key="d0">2</data>
+</node>
+<node id="blair">
+  <data key="d0">1</data>
+</node>
+<node id="kamin">
+  <data key="d0">1</data>
+</node>
+<node id="blair_kamin">
+  <data key="d0">1</data>
+</node>
+<node id="kamin_morgan">
+  <data key="d0">1</data>
+</node>
+<node id="blue">
+  <data key="d0">2</data>
+</node>
+<node id="flame">
+  <data key="d0">2</data>
+</node>
+<node id="blue_flame">
+  <data key="d0">2</data>
+</node>
+<node id="flame_">
+  <data key="d0">2</data>
+</node>
+<node id="bob">
+  <data key="d0">12</data>
+</node>
+<node id="davis">
+  <data key="d0">22</data>
+</node>
+<node id="bojan">
+  <data key="d0">4</data>
+</node>
+<node id="pancevski">
+  <data key="d0">4</data>
+</node>
+<node id="bolstered">
+  <data key="d0">1</data>
+</node>
+<node id="markets">
+  <data key="d0">1</data>
+</node>
+<node id="bolstered_markets">
+  <data key="d0">1</data>
+</node>
+<node id="markets_selloff">
+  <data key="d0">1</data>
+</node>
+<node id="boston">
+  <data key="d0">12</data>
+</node>
+<node id="william">
+  <data key="d0">19</data>
+</node>
+<node id="caption">
+  <data key="d0">3</data>
+</node>
+<node id="caption_photo">
+  <data key="d0">2</data>
+</node>
+<node id="brad">
+  <data key="d0">1</data>
+</node>
+<node id="haynes">
+  <data key="d0">1</data>
+</node>
+<node id="brad_haynes">
+  <data key="d0">1</data>
+</node>
+<node id="haynes_grant">
+  <data key="d0">1</data>
+</node>
+<node id="brasilia">
+  <data key="d0">3</data>
+</node>
+<node id="eduardo">
+  <data key="d0">1</data>
+</node>
+<node id="brasilia_editing">
+  <data key="d0">1</data>
+</node>
+<node id="editing_brad">
+  <data key="d0">1</data>
+</node>
+<node id="brasilia_eduardo">
+  <data key="d0">1</data>
+</node>
+<node id="eduardo_simoes">
+  <data key="d0">1</data>
+</node>
+<node id="brianna">
+  <data key="d0">4</data>
+</node>
+<node id="abbott">
+  <data key="d0">5</data>
+</node>
+<node id="brunnstrom">
+  <data key="d0">5</data>
+</node>
+<node id="jonathan">
+  <data key="d0">10</data>
+</node>
+<node id="brunnstrom_jonathan">
+  <data key="d0">2</data>
+</node>
+<node id="jonathan_landay">
+  <data key="d0">3</data>
+</node>
+<node id="bruno">
+  <data key="d0">1</data>
+</node>
+<node id="kelly">
+  <data key="d0">1</data>
+</node>
+<node id="bruno_kelly">
+  <data key="d0">1</data>
+</node>
+<node id="kelly_manaus">
+  <data key="d0">1</data>
+</node>
+<node id="buckley">
+  <data key="d0">1</data>
+</node>
+<node id="sarah">
+  <data key="d0">10</data>
+</node>
+<node id="buckley_sarah">
+  <data key="d0">1</data>
+</node>
+<node id="sarah_freishtat">
+  <data key="d0">1</data>
+</node>
+<node id="business">
+  <data key="d0">11</data>
+</node>
+<node id="facts">
+  <data key="d0">2</data>
+</node>
+<node id="tests">
+  <data key="d0">2</data>
+</node>
+<node id="business_">
+  <data key="d0">1</data>
+</node>
+<node id="business_facts">
+  <data key="d0">1</data>
+</node>
+<node id="facts_espa챰ol">
+  <data key="d0">2</data>
+</node>
+<node id="businesses">
+  <data key="d0">2</data>
+</node>
+<node id="defy">
+  <data key="d0">4</data>
+</node>
+<node id="businesses_defy">
+  <data key="d0">2</data>
+</node>
+<node id="defy_shutdown">
+  <data key="d0">2</data>
+</node>
+<node id="cabrera">
+  <data key="d0">1</data>
+</node>
+<node id="paris">
+  <data key="d0">9</data>
+</node>
+<node id="cabrera_paris">
+  <data key="d0">1</data>
+</node>
+<node id="paris_elisa">
+  <data key="d0">1</data>
+</node>
+<node id="caitlin">
+  <data key="d0">15</data>
+</node>
+<node id="mccabe">
+  <data key="d0">5</data>
+</node>
+<node id="ostroff">
+  <data key="d0">10</data>
+</node>
+<node id="calfas">
+  <data key="d0">47</data>
+</node>
+<node id="jennifer">
+  <data key="d0">37</data>
+</node>
+<node id="matthew">
+  <data key="d0">11</data>
+</node>
+<node id="nick">
+  <data key="d0">21</data>
+</node>
+<node id="calfas_">
+  <data key="d0">11</data>
+</node>
+<node id="calfas_jennifer">
+  <data key="d0">11</data>
+</node>
+<node id="calfas_matthew">
+  <data key="d0">3</data>
+</node>
+<node id="matthew_dalton">
+  <data key="d0">5</data>
+</node>
+<node id="calfas_nick">
+  <data key="d0">3</data>
+</node>
+<node id="nick_kostov">
+  <data key="d0">9</data>
+</node>
+<node id="cameron">
+  <data key="d0">5</data>
+</node>
+<node id="moore">
+  <data key="d0">8</data>
+</node>
+<node id="flores">
+  <data key="d0">12</data>
+</node>
+<node id="can_help">
+  <data key="d0">1</data>
+</node>
+<node id="help_empty">
+  <data key="d0">1</data>
+</node>
+<node id="capacity">
+  <data key="d0">1</data>
+</node>
+<node id="country">
+  <data key="d0">18</data>
+</node>
+<node id="capacity_country">
+  <data key="d0">1</data>
+</node>
+<node id="country_today">
+  <data key="d0">1</data>
+</node>
+<node id="photo">
+  <data key="d0">11</data>
+</node>
+<node id="photo_arlola">
+  <data key="d0">1</data>
+</node>
+<node id="photo_john">
+  <data key="d0">1</data>
+</node>
+<node id="robert">
+  <data key="d0">15</data>
+</node>
+<node id="robert_muller">
+  <data key="d0">4</data>
+</node>
+<node id="catcher">
+  <data key="d0">1</data>
+</node>
+<node id="rye">
+  <data key="d0">1</data>
+</node>
+<node id="catcher_rye">
+  <data key="d0">1</data>
+</node>
+<node id="rye_can">
+  <data key="d0">1</data>
+</node>
+<node id="north">
+  <data key="d0">8</data>
+</node>
+<node id="cavale">
+  <data key="d0">1</data>
+</node>
+<node id="shanima">
+  <data key="d0">1</data>
+</node>
+<node id="cavale_shanima">
+  <data key="d0">1</data>
+</node>
+<node id="shanima_a">
+  <data key="d0">1</data>
+</node>
+<node id="cha">
+  <data key="d0">8</data>
+</node>
+<node id="cherry">
+  <data key="d0">4</data>
+</node>
+<node id="raleigh">
+  <data key="d0">4</data>
+</node>
+<node id="cherry_raleigh">
+  <data key="d0">4</data>
+</node>
+<node id="raleigh_frank">
+  <data key="d0">4</data>
+</node>
+<node id="chicago">
+  <data key="d0">6</data>
+</node>
+<node id="china">
+  <data key="d0">8</data>
+</node>
+<node id="health">
+  <data key="d0">13</data>
+</node>
+<node id="china_bat">
+  <data key="d0">1</data>
+</node>
+<node id="chiu">
+  <data key="d0">23</data>
+</node>
+<node id="chiu_">
+  <data key="d0">5</data>
+</node>
+<node id="chiu_akane">
+  <data key="d0">2</data>
+</node>
+<node id="chiu_joanne">
+  <data key="d0">5</data>
+</node>
+<node id="chong">
+  <data key="d0">8</data>
+</node>
+<node id="koh">
+  <data key="d0">12</data>
+</node>
+<node id="chong_koh">
+  <data key="d0">8</data>
+</node>
+<node id="koh_ping">
+  <data key="d0">3</data>
+</node>
+<node id="christian">
+  <data key="d0">3</data>
+</node>
+<node id="schmollinger">
+  <data key="d0">3</data>
+</node>
+<node id="christopher">
+  <data key="d0">8</data>
+</node>
+<node id="weaver">
+  <data key="d0">5</data>
+</node>
+<node id="chuin">
+  <data key="d0">8</data>
+</node>
+<node id="wei">
+  <data key="d0">8</data>
+</node>
+<node id="wei_yap">
+  <data key="d0">4</data>
+</node>
+<node id="chun">
+  <data key="d0">12</data>
+</node>
+<node id="han">
+  <data key="d0">12</data>
+</node>
+<node id="chun_han">
+  <data key="d0">12</data>
+</node>
+<node id="han_wong">
+  <data key="d0">12</data>
+</node>
+<node id="chung">
+  <data key="d0">7</data>
+</node>
+<node id="seoul">
+  <data key="d0">23</data>
+</node>
+<node id="chung_seoul">
+  <data key="d0">2</data>
+</node>
+<node id="seoul_writing">
+  <data key="d0">3</data>
+</node>
+<node id="seoul_yuka">
+  <data key="d0">1</data>
+</node>
+<node id="clair">
+  <data key="d0">1</data>
+</node>
+<node id="cold">
+  <data key="d0">2</data>
+</node>
+<node id="summer">
+  <data key="d0">2</data>
+</node>
+<node id="cold_summer">
+  <data key="d0">2</data>
+</node>
+<node id="summer_heat">
+  <data key="d0">2</data>
+</node>
+<node id="credit">
+  <data key="d0">233</data>
+</node>
+<node id="dasl">
+  <data key="d0">29</data>
+</node>
+<node id="dowjones">
+  <data key="d0">6</data>
+</node>
+<node id="elizabeth">
+  <data key="d0">20</data>
+</node>
+<node id="feliz">
+  <data key="d0">3</data>
+</node>
+<node id="frances">
+  <data key="d0">24</data>
+</node>
+<node id="phred">
+  <data key="d0">16</data>
+</node>
+<node id="sabrina">
+  <data key="d0">8</data>
+</node>
+<node id="understandingtheoutbreak">
+  <data key="d0">42</data>
+</node>
+<node id="virusoutbreak">
+  <data key="d0">42</data>
+</node>
+<node id="com_akane">
+  <data key="d0">2</data>
+</node>
+<node id="com_alexander">
+  <data key="d0">2</data>
+</node>
+<node id="com_andrew">
+  <data key="d0">5</data>
+</node>
+<node id="com_chong">
+  <data key="d0">3</data>
+</node>
+<node id="com_chuin">
+  <data key="d0">2</data>
+</node>
+<node id="com_chun">
+  <data key="d0">3</data>
+</node>
+<node id="com_credit">
+  <data key="d0">118</data>
+</node>
+<node id="credit_anna">
+  <data key="d0">5</data>
+</node>
+<node id="credit_avantika">
+  <data key="d0">3</data>
+</node>
+<node id="credit_caitlin">
+  <data key="d0">5</data>
+</node>
+<node id="credit_ian">
+  <data key="d0">1</data>
+</node>
+<node id="credit_niharika">
+  <data key="d0">5</data>
+</node>
+<node id="credit_paul">
+  <data key="d0">7</data>
+</node>
+<node id="credit_talal">
+  <data key="d0">8</data>
+</node>
+<node id="credit_timothy">
+  <data key="d0">11</data>
+</node>
+<node id="com_dasl">
+  <data key="d0">3</data>
+</node>
+<node id="dasl_yoon">
+  <data key="d0">17</data>
+</node>
+<node id="com_elizabeth">
+  <data key="d0">3</data>
+</node>
+<node id="elizabeth_findell">
+  <data key="d0">8</data>
+</node>
+<node id="com_feliz">
+  <data key="d0">1</data>
+</node>
+<node id="feliz_solomon">
+  <data key="d0">3</data>
+</node>
+<node id="com_frances">
+  <data key="d0">4</data>
+</node>
+<node id="frances_yoon">
+  <data key="d0">11</data>
+</node>
+<node id="com_joanne">
+  <data key="d0">5</data>
+</node>
+<node id="com_matthew">
+  <data key="d0">2</data>
+</node>
+<node id="com_nick">
+  <data key="d0">4</data>
+</node>
+<node id="com_phred">
+  <data key="d0">4</data>
+</node>
+<node id="phred_dvorak">
+  <data key="d0">8</data>
+</node>
+<node id="com_sabrina">
+  <data key="d0">2</data>
+</node>
+<node id="sabrina_siddiqui">
+  <data key="d0">4</data>
+</node>
+<node id="com_sarah">
+  <data key="d0">1</data>
+</node>
+<node id="sarah_nassauer">
+  <data key="d0">2</data>
+</node>
+<node id="comfort">
+  <data key="d0">2</data>
+</node>
+<node id="reads">
+  <data key="d0">1</data>
+</node>
+<node id="reads_catcher">
+  <data key="d0">1</data>
+</node>
+<node id="companies">
+  <data key="d0">1</data>
+</node>
+<node id="warn">
+  <data key="d0">1</data>
+</node>
+<node id="warn_dire">
+  <data key="d0">1</data>
+</node>
+<node id="congress">
+  <data key="d0">2</data>
+</node>
+<node id="protective">
+  <data key="d0">4</data>
+</node>
+<node id="gear">
+  <data key="d0">4</data>
+</node>
+<node id="conran">
+  <data key="d0">1</data>
+</node>
+<node id="conran_photo">
+  <data key="d0">1</data>
+</node>
+<node id="photo_maria">
+  <data key="d0">1</data>
+</node>
+<node id="counties">
+  <data key="d0">2</data>
+</node>
+<node id="plan">
+  <data key="d0">2</data>
+</node>
+<node id="counties_plan">
+  <data key="d0">2</data>
+</node>
+<node id="plan_defy">
+  <data key="d0">2</data>
+</node>
+<node id="country_">
+  <data key="d0">1</data>
+</node>
+<node id="graphics">
+  <data key="d0">3</data>
+</node>
+<node id="power">
+  <data key="d0">4</data>
+</node>
+<node id="today">
+  <data key="d0">7</data>
+</node>
+<node id="country_power">
+  <data key="d0">1</data>
+</node>
+<node id="power_way">
+  <data key="d0">1</data>
+</node>
+<node id="today_state">
+  <data key="d0">1</data>
+</node>
+<node id="coverage">
+  <data key="d0">22</data>
+</node>
+<node id="kim">
+  <data key="d0">26</data>
+</node>
+<node id="coverage_">
+  <data key="d0">3</data>
+</node>
+<node id="craig">
+  <data key="d0">4</data>
+</node>
+<node id="karmin">
+  <data key="d0">4</data>
+</node>
+<node id="crash">
+  <data key="d0">1</data>
+</node>
+<node id="fixes">
+  <data key="d0">1</data>
+</node>
+<node id="crash_fixes">
+  <data key="d0">1</data>
+</node>
+<node id="fixes_bolstered">
+  <data key="d0">1</data>
+</node>
+<node id="ian">
+  <data key="d0">2</data>
+</node>
+<node id="kate">
+  <data key="d0">12</data>
+</node>
+<node id="kathryn">
+  <data key="d0">7</data>
+</node>
+<node id="madeline">
+  <data key="d0">1</data>
+</node>
+<node id="niharika">
+  <data key="d0">7</data>
+</node>
+<node id="paul">
+  <data key="d0">26</data>
+</node>
+<node id="staff">
+  <data key="d0">8</data>
+</node>
+<node id="timothy">
+  <data key="d0">46</data>
+</node>
+<node id="credit_blair">
+  <data key="d0">1</data>
+</node>
+<node id="ian_lovett">
+  <data key="d0">2</data>
+</node>
+<node id="jennifer_calfas">
+  <data key="d0">14</data>
+</node>
+<node id="credit_kathryn">
+  <data key="d0">1</data>
+</node>
+<node id="kathryn_o">
+  <data key="d0">1</data>
+</node>
+<node id="credit_madeline">
+  <data key="d0">1</data>
+</node>
+<node id="madeline_buckley">
+  <data key="d0">1</data>
+</node>
+<node id="niharika_mandhana">
+  <data key="d0">7</data>
+</node>
+<node id="paul_hannon">
+  <data key="d0">7</data>
+</node>
+<node id="credit_rebecca">
+  <data key="d0">2</data>
+</node>
+<node id="rebecca_ballhaus">
+  <data key="d0">9</data>
+</node>
+<node id="credit_staff">
+  <data key="d0">6</data>
+</node>
+<node id="staff_news">
+  <data key="d0">6</data>
+</node>
+<node id="talal_ansari">
+  <data key="d0">15</data>
+</node>
+<node id="timothy_w">
+  <data key="d0">26</data>
+</node>
+<node id="currency">
+  <data key="d0">2</data>
+</node>
+<node id="dollar">
+  <data key="d0">4</data>
+</node>
+<node id="currency_dollar">
+  <data key="d0">2</data>
+</node>
+<node id="dollar_graphic">
+  <data key="d0">2</data>
+</node>
+<node id="cynthia">
+  <data key="d0">9</data>
+</node>
+<node id="osterman">
+  <data key="d0">2</data>
+</node>
+<node id="dalton">
+  <data key="d0">9</data>
+</node>
+<node id="fauci_top">
+  <data key="d0">2</data>
+</node>
+<node id="dalton_">
+  <data key="d0">2</data>
+</node>
+<node id="dalton_matthew">
+  <data key="d0">2</data>
+</node>
+<node id="dan">
+  <data key="d0">8</data>
+</node>
+<node id="frosch">
+  <data key="d0">5</data>
+</node>
+<node id="levin">
+  <data key="d0">2</data>
+</node>
+<node id="daniela">
+  <data key="d0">5</data>
+</node>
+<node id="hernandez">
+  <data key="d0">5</data>
+</node>
+<node id="yoon">
+  <data key="d0">49</data>
+</node>
+<node id="yoon_">
+  <data key="d0">10</data>
+</node>
+<node id="yoon_dasl">
+  <data key="d0">6</data>
+</node>
+<node id="yoon_seoul">
+  <data key="d0">3</data>
+</node>
+<node id="david">
+  <data key="d0">15</data>
+</node>
+<node id="hodari">
+  <data key="d0">5</data>
+</node>
+<node id="david_brunnstrom">
+  <data key="d0">5</data>
+</node>
+<node id="davidson">
+  <data key="d0">4</data>
+</node>
+<node id="river">
+  <data key="d0">10</data>
+</node>
+<node id="davis_">
+  <data key="d0">5</data>
+</node>
+<node id="day">
+  <data key="d0">6</data>
+</node>
+<node id="day_">
+  <data key="d0">1</data>
+</node>
+<node id="dead">
+  <data key="d0">1</data>
+</node>
+<node id="dead_write">
+  <data key="d0">1</data>
+</node>
+<node id="write_timothy">
+  <data key="d0">7</data>
+</node>
+<node id="deanna">
+  <data key="d0">4</data>
+</node>
+<node id="shutdown">
+  <data key="d0">5</data>
+</node>
+<node id="virus">
+  <data key="d0">13</data>
+</node>
+<node id="shutdown_">
+  <data key="d0">2</data>
+</node>
+<node id="defy_virus">
+  <data key="d0">2</data>
+</node>
+<node id="virus_shutdown">
+  <data key="d0">2</data>
+</node>
+<node id="deluxe">
+  <data key="d0">1</data>
+</node>
+<node id="service">
+  <data key="d0">7</data>
+</node>
+<node id="deluxe_service">
+  <data key="d0">1</data>
+</node>
+<node id="service_">
+  <data key="d0">1</data>
+</node>
+<node id="demand">
+  <data key="d0">1</data>
+</node>
+<node id="slowly">
+  <data key="d0">1</data>
+</node>
+<node id="demand_slowly">
+  <data key="d0">1</data>
+</node>
+<node id="slowly_returns">
+  <data key="d0">1</data>
+</node>
+<node id="democrats">
+  <data key="d0">2</data>
+</node>
+<node id="release">
+  <data key="d0">2</data>
+</node>
+<node id="democrats_release">
+  <data key="d0">2</data>
+</node>
+<node id="release_trillion">
+  <data key="d0">2</data>
+</node>
+<node id="devjyot">
+  <data key="d0">3</data>
+</node>
+<node id="ghoshal">
+  <data key="d0">3</data>
+</node>
+<node id="devjyot_ghoshal">
+  <data key="d0">3</data>
+</node>
+<node id="ghoshal_editing">
+  <data key="d0">2</data>
+</node>
+<node id="dion">
+  <data key="d0">5</data>
+</node>
+<node id="nissenbaum">
+  <data key="d0">5</data>
+</node>
+<node id="dire">
+  <data key="d0">1</data>
+</node>
+<node id="disruptions">
+  <data key="d0">1</data>
+</node>
+<node id="dire_disruptions">
+  <data key="d0">1</data>
+</node>
+<node id="disruptions_write">
+  <data key="d0">1</data>
+</node>
+<node id="disappears">
+  <data key="d0">1</data>
+</node>
+<node id="disappears_north">
+  <data key="d0">1</data>
+</node>
+<node id="north_watchers">
+  <data key="d0">1</data>
+</node>
+<node id="write_niharika">
+  <data key="d0">2</data>
+</node>
+<node id="graphic_market">
+  <data key="d0">2</data>
+</node>
+<node id="donna">
+  <data key="d0">2</data>
+</node>
+<node id="oduca">
+  <data key="d0">2</data>
+</node>
+<node id="oduca_credit">
+  <data key="d0">1</data>
+</node>
+<node id="oduca_photo">
+  <data key="d0">1</data>
+</node>
+<node id="drugmakers">
+  <data key="d0">2</data>
+</node>
+<node id="overhaul">
+  <data key="d0">2</data>
+</node>
+<node id="overhaul_sales">
+  <data key="d0">2</data>
+</node>
+<node id="dvorak">
+  <data key="d0">16</data>
+</node>
+<node id="dvorak_">
+  <data key="d0">4</data>
+</node>
+<node id="dvorak_phred">
+  <data key="d0">4</data>
+</node>
+<node id="dwivedi">
+  <data key="d0">4</data>
+</node>
+<node id="ease">
+  <data key="d0">1</data>
+</node>
+<node id="ease_across">
+  <data key="d0">1</data>
+</node>
+<node id="easing">
+  <data key="d0">2</data>
+</node>
+<node id="lockdowns">
+  <data key="d0">5</data>
+</node>
+<node id="easing_lockdowns">
+  <data key="d0">2</data>
+</node>
+<node id="lockdowns_">
+  <data key="d0">2</data>
+</node>
+<node id="economic">
+  <data key="d0">4</data>
+</node>
+<node id="recovery">
+  <data key="d0">4</data>
+</node>
+<node id="recovery_">
+  <data key="d0">4</data>
+</node>
+<node id="euan">
+  <data key="d0">4</data>
+</node>
+<node id="hugh">
+  <data key="d0">4</data>
+</node>
+<node id="london">
+  <data key="d0">7</data>
+</node>
+<node id="mark">
+  <data key="d0">12</data>
+</node>
+<node id="michael">
+  <data key="d0">10</data>
+</node>
+<node id="raju">
+  <data key="d0">4</data>
+</node>
+<node id="rigby">
+  <data key="d0">3</data>
+</node>
+<node id="sam">
+  <data key="d0">13</data>
+</node>
+<node id="editing_bill">
+  <data key="d0">3</data>
+</node>
+<node id="bill_rigby">
+  <data key="d0">3</data>
+</node>
+<node id="editing_christian">
+  <data key="d0">2</data>
+</node>
+<node id="christian_schmollinger">
+  <data key="d0">3</data>
+</node>
+<node id="editing_euan">
+  <data key="d0">4</data>
+</node>
+<node id="euan_rocha">
+  <data key="d0">4</data>
+</node>
+<node id="editing_hugh">
+  <data key="d0">3</data>
+</node>
+<node id="hugh_lawson">
+  <data key="d0">4</data>
+</node>
+<node id="editing_london">
+  <data key="d0">4</data>
+</node>
+<node id="london_team">
+  <data key="d0">4</data>
+</node>
+<node id="editing_raju">
+  <data key="d0">2</data>
+</node>
+<node id="raju_gopalakrishnan">
+  <data key="d0">4</data>
+</node>
+<node id="editing_sam">
+  <data key="d0">3</data>
+</node>
+<node id="sam_holmes">
+  <data key="d0">8</data>
+</node>
+<node id="simoes">
+  <data key="d0">1</data>
+</node>
+<node id="simoes_sao">
+  <data key="d0">1</data>
+</node>
+<node id="eisenhammer">
+  <data key="d0">1</data>
+</node>
+<node id="sao">
+  <data key="d0">2</data>
+</node>
+<node id="eisenhammer_sao">
+  <data key="d0">1</data>
+</node>
+<node id="sao_paulo">
+  <data key="d0">2</data>
+</node>
+<node id="elisa">
+  <data key="d0">1</data>
+</node>
+<node id="elisa_anzolin">
+  <data key="d0">1</data>
+</node>
+<node id="findell">
+  <data key="d0">16</data>
+</node>
+<node id="findell_">
+  <data key="d0">4</data>
+</node>
+<node id="findell_elizabeth">
+  <data key="d0">4</data>
+</node>
+<node id="findell_sarah">
+  <data key="d0">1</data>
+</node>
+<node id="emerge">
+  <data key="d0">1</data>
+</node>
+<node id="emerge_shutdown">
+  <data key="d0">1</data>
+</node>
+<node id="shutdown_something">
+  <data key="d0">1</data>
+</node>
+<node id="emergency">
+  <data key="d0">2</data>
+</node>
+<node id="fund">
+  <data key="d0">2</data>
+</node>
+<node id="emergency_fund">
+  <data key="d0">1</data>
+</node>
+<node id="fund_artist">
+  <data key="d0">1</data>
+</node>
+<node id="empty_hotels">
+  <data key="d0">1</data>
+</node>
+<node id="hotels_offering">
+  <data key="d0">1</data>
+</node>
+<node id="eric">
+  <data key="d0">8</data>
+</node>
+<node id="sylvers">
+  <data key="d0">8</data>
+</node>
+<node id="espa챰ol">
+  <data key="d0">2</data>
+</node>
+<node id="espa챰ol_credit">
+  <data key="d0">1</data>
+</node>
+<node id="espa챰ol_write">
+  <data key="d0">1</data>
+</node>
+<node id="write_andrew">
+  <data key="d0">6</data>
+</node>
+<node id="rocha">
+  <data key="d0">4</data>
+</node>
+<node id="rocha_jane">
+  <data key="d0">2</data>
+</node>
+<node id="rocha_timothy">
+  <data key="d0">1</data>
+</node>
+<node id="evans">
+  <data key="d0">5</data>
+</node>
+<node id="reading_retreating">
+  <data key="d0">1</data>
+</node>
+<node id="says">
+  <data key="d0">1</data>
+</node>
+<node id="says_wuhan">
+  <data key="d0">1</data>
+</node>
+<node id="family">
+  <data key="d0">4</data>
+</node>
+<node id="family_photo">
+  <data key="d0">2</data>
+</node>
+<node id="photo_photo">
+  <data key="d0">2</data>
+</node>
+<node id="fauci">
+  <data key="d0">2</data>
+</node>
+<node id="top_health">
+  <data key="d0">2</data>
+</node>
+<node id="solomon">
+  <data key="d0">3</data>
+</node>
+<node id="solomon_">
+  <data key="d0">1</data>
+</node>
+<node id="finances">
+  <data key="d0">1</data>
+</node>
+<node id="pandemic">
+  <data key="d0">23</data>
+</node>
+<node id="finances_pandemic">
+  <data key="d0">1</data>
+</node>
+<node id="pandemic_">
+  <data key="d0">17</data>
+</node>
+<node id="post">
+  <data key="d0">2</data>
+</node>
+<node id="flash_crash">
+  <data key="d0">1</data>
+</node>
+<node id="fonseca">
+  <data key="d0">1</data>
+</node>
+<node id="rio">
+  <data key="d0">1</data>
+</node>
+<node id="fonseca_rio">
+  <data key="d0">1</data>
+</node>
+<node id="rio_janeiro">
+  <data key="d0">1</data>
+</node>
+<node id="foundation">
+  <data key="d0">1</data>
+</node>
+<node id="los">
+  <data key="d0">7</data>
+</node>
+<node id="foundation_los">
+  <data key="d0">1</data>
+</node>
+<node id="los_angeles">
+  <data key="d0">7</data>
+</node>
+<node id="vision">
+  <data key="d0">1</data>
+</node>
+<node id="vision_power">
+  <data key="d0">1</data>
+</node>
+<node id="yoon_frances">
+  <data key="d0">4</data>
+</node>
+<node id="frank">
+  <data key="d0">4</data>
+</node>
+<node id="pingue">
+  <data key="d0">4</data>
+</node>
+<node id="frank_pingue">
+  <data key="d0">4</data>
+</node>
+<node id="pingue_toronto">
+  <data key="d0">4</data>
+</node>
+<node id="fransiska">
+  <data key="d0">1</data>
+</node>
+<node id="nangoy">
+  <data key="d0">1</data>
+</node>
+<node id="fransiska_nangoy">
+  <data key="d0">1</data>
+</node>
+<node id="nangoy_jakarta">
+  <data key="d0">1</data>
+</node>
+<node id="freishtat">
+  <data key="d0">1</data>
+</node>
+<node id="stacy">
+  <data key="d0">5</data>
+</node>
+<node id="freishtat_stacy">
+  <data key="d0">1</data>
+</node>
+<node id="stacy_st">
+  <data key="d0">1</data>
+</node>
+<node id="friday">
+  <data key="d0">2</data>
+</node>
+<node id="texas">
+  <data key="d0">2</data>
+</node>
+<node id="friday_">
+  <data key="d0">2</data>
+</node>
+<node id="fund_emergency">
+  <data key="d0">1</data>
+</node>
+<node id="supplier">
+  <data key="d0">2</data>
+</node>
+<node id="gear_supplier">
+  <data key="d0">2</data>
+</node>
+<node id="supplier_blue">
+  <data key="d0">2</data>
+</node>
+<node id="gene">
+  <data key="d0">5</data>
+</node>
+<node id="gene_cherry">
+  <data key="d0">4</data>
+</node>
+<node id="georgi">
+  <data key="d0">8</data>
+</node>
+<node id="kantchev">
+  <data key="d0">8</data>
+</node>
+<node id="gerry">
+  <data key="d0">4</data>
+</node>
+<node id="doyle">
+  <data key="d0">4</data>
+</node>
+<node id="images">
+  <data key="d0">12</data>
+</node>
+<node id="gordon">
+  <data key="d0">9</data>
+</node>
+<node id="lubold">
+  <data key="d0">9</data>
+</node>
+<node id="gordon_lubold">
+  <data key="d0">5</data>
+</node>
+<node id="lubold_washington">
+  <data key="d0">3</data>
+</node>
+<node id="governor">
+  <data key="d0">4</data>
+</node>
+<node id="party">
+  <data key="d0">2</data>
+</node>
+<node id="threatens">
+  <data key="d0">2</data>
+</node>
+<node id="governor_threatens">
+  <data key="d0">2</data>
+</node>
+<node id="threatens_counties">
+  <data key="d0">2</data>
+</node>
+<node id="grant">
+  <data key="d0">6</data>
+</node>
+<node id="mccool">
+  <data key="d0">4</data>
+</node>
+<node id="market">
+  <data key="d0">7</data>
+</node>
+<node id="msci">
+  <data key="d0">2</data>
+</node>
+<node id="tracker">
+  <data key="d0">1</data>
+</node>
+<node id="graphic_asset">
+  <data key="d0">2</data>
+</node>
+<node id="market_graphic">
+  <data key="d0">2</data>
+</node>
+<node id="graphic_msci">
+  <data key="d0">2</data>
+</node>
+<node id="msci_country">
+  <data key="d0">2</data>
+</node>
+<node id="graphic_tracker">
+  <data key="d0">1</data>
+</node>
+<node id="tracker_country">
+  <data key="d0">1</data>
+</node>
+<node id="reuters">
+  <data key="d0">5</data>
+</node>
+<node id="greene">
+  <data key="d0">2</data>
+</node>
+<node id="rosemary">
+  <data key="d0">1</data>
+</node>
+<node id="greene_rosemary">
+  <data key="d0">1</data>
+</node>
+<node id="rosemary_sobol">
+  <data key="d0">1</data>
+</node>
+<node id="guide">
+  <data key="d0">2</data>
+</node>
+<node id="state">
+  <data key="d0">9</data>
+</node>
+<node id="guide_state">
+  <data key="d0">2</data>
+</node>
+<node id="state_lockdowns">
+  <data key="d0">2</data>
+</node>
+<node id="halt">
+  <data key="d0">1</data>
+</node>
+<node id="immigration">
+  <data key="d0">1</data>
+</node>
+<node id="halt_immigration">
+  <data key="d0">1</data>
+</node>
+<node id="immigration_u">
+  <data key="d0">1</data>
+</node>
+<node id="wong">
+  <data key="d0">17</data>
+</node>
+<node id="wong_">
+  <data key="d0">6</data>
+</node>
+<node id="hannon">
+  <data key="d0">13</data>
+</node>
+<node id="hannon_">
+  <data key="d0">3</data>
+</node>
+<node id="hannon_paul">
+  <data key="d0">3</data>
+</node>
+<node id="hardik">
+  <data key="d0">4</data>
+</node>
+<node id="vyas">
+  <data key="d0">4</data>
+</node>
+<node id="hardik_vyas">
+  <data key="d0">4</data>
+</node>
+<node id="vyas_simon">
+  <data key="d0">4</data>
+</node>
+<node id="grant_mccool">
+  <data key="d0">4</data>
+</node>
+<node id="map">
+  <data key="d0">3</data>
+</node>
+<node id="officials">
+  <data key="d0">4</data>
+</node>
+<node id="health_officials">
+  <data key="d0">2</data>
+</node>
+<node id="officials_urge">
+  <data key="d0">2</data>
+</node>
+<node id="heat">
+  <data key="d0">2</data>
+</node>
+<node id="week">
+  <data key="d0">8</data>
+</node>
+<node id="heekyong">
+  <data key="d0">9</data>
+</node>
+<node id="yang">
+  <data key="d0">9</data>
+</node>
+<node id="heekyong_yang">
+  <data key="d0">9</data>
+</node>
+<node id="yang_seoul">
+  <data key="d0">2</data>
+</node>
+<node id="help">
+  <data key="d0">2</data>
+</node>
+<node id="hotels">
+  <data key="d0">1</data>
+</node>
+<node id="heritage">
+  <data key="d0">2</data>
+</node>
+<node id="reporting_asha">
+  <data key="d0">1</data>
+</node>
+<node id="highly">
+  <data key="d0">1</data>
+</node>
+<node id="subjective">
+  <data key="d0">1</data>
+</node>
+<node id="highly_subjective">
+  <data key="d0">1</data>
+</node>
+<node id="subjective_list">
+  <data key="d0">1</data>
+</node>
+<node id="history">
+  <data key="d0">1</data>
+</node>
+<node id="history_highly">
+  <data key="d0">1</data>
+</node>
+<node id="hogan">
+  <data key="d0">3</data>
+</node>
+<node id="governor_party">
+  <data key="d0">1</data>
+</node>
+<node id="holmes">
+  <data key="d0">8</data>
+</node>
+<node id="shri">
+  <data key="d0">8</data>
+</node>
+<node id="holmes_shri">
+  <data key="d0">3</data>
+</node>
+<node id="shri_navaratnam">
+  <data key="d0">8</data>
+</node>
+<node id="hosenball">
+  <data key="d0">4</data>
+</node>
+<node id="hosenball_david">
+  <data key="d0">2</data>
+</node>
+<node id="offering">
+  <data key="d0">2</data>
+</node>
+<node id="offering_deluxe">
+  <data key="d0">1</data>
+</node>
+<node id="house">
+  <data key="d0">2</data>
+</node>
+<node id="html">
+  <data key="d0">2</data>
+</node>
+<node id="jake">
+  <data key="d0">1</data>
+</node>
+<node id="html_jake">
+  <data key="d0">1</data>
+</node>
+<node id="jake_spring">
+  <data key="d0">1</data>
+</node>
+<node id="lawson">
+  <data key="d0">4</data>
+</node>
+<node id="hyonhee">
+  <data key="d0">8</data>
+</node>
+<node id="shin">
+  <data key="d0">8</data>
+</node>
+<node id="hyonhee_shin">
+  <data key="d0">8</data>
+</node>
+<node id="shin_josh">
+  <data key="d0">3</data>
+</node>
+<node id="hyunjoo">
+  <data key="d0">14</data>
+</node>
+<node id="jin">
+  <data key="d0">16</data>
+</node>
+<node id="hyunjoo_jin">
+  <data key="d0">14</data>
+</node>
+<node id="jin_jane">
+  <data key="d0">2</data>
+</node>
+<node id="jin_seoul">
+  <data key="d0">3</data>
+</node>
+<node id="lovett">
+  <data key="d0">2</data>
+</node>
+<node id="lovett_">
+  <data key="d0">1</data>
+</node>
+<node id="lovett_elizabeth">
+  <data key="d0">1</data>
+</node>
+<node id="ideal">
+  <data key="d0">1</data>
+</node>
+<node id="quarantine">
+  <data key="d0">2</data>
+</node>
+<node id="ideal_quarantine">
+  <data key="d0">1</data>
+</node>
+<node id="quarantine_read">
+  <data key="d0">1</data>
+</node>
+<node id="il">
+  <data key="d0">1</data>
+</node>
+<node id="il_dead">
+  <data key="d0">1</data>
+</node>
+<node id="index_market">
+  <data key="d0">2</data>
+</node>
+<node id="market_cap">
+  <data key="d0">2</data>
+</node>
+<node id="infection">
+  <data key="d0">6</data>
+</node>
+<node id="rate">
+  <data key="d0">4</data>
+</node>
+<node id="jack">
+  <data key="d0">2</data>
+</node>
+<node id="jack_kim">
+  <data key="d0">2</data>
+</node>
+<node id="kim_hyunjoo">
+  <data key="d0">1</data>
+</node>
+<node id="jacky">
+  <data key="d0">4</data>
+</node>
+<node id="jacques">
+  <data key="d0">2</data>
+</node>
+<node id="jean">
+  <data key="d0">3</data>
+</node>
+<node id="roche">
+  <data key="d0">1</data>
+</node>
+<node id="jacques_roche">
+  <data key="d0">1</data>
+</node>
+<node id="roche_specialist">
+  <data key="d0">1</data>
+</node>
+<node id="jakarta">
+  <data key="d0">1</data>
+</node>
+<node id="michaela">
+  <data key="d0">1</data>
+</node>
+<node id="jakarta_michaela">
+  <data key="d0">1</data>
+</node>
+<node id="michaela_cabrera">
+  <data key="d0">1</data>
+</node>
+<node id="spring">
+  <data key="d0">1</data>
+</node>
+<node id="spring_brasilia">
+  <data key="d0">1</data>
+</node>
+<node id="jamerson">
+  <data key="d0">10</data>
+</node>
+<node id="joshua">
+  <data key="d0">10</data>
+</node>
+<node id="jane">
+  <data key="d0">10</data>
+</node>
+<node id="wardell">
+  <data key="d0">6</data>
+</node>
+<node id="jane_chung">
+  <data key="d0">4</data>
+</node>
+<node id="janeiro">
+  <data key="d0">1</data>
+</node>
+<node id="stephen">
+  <data key="d0">14</data>
+</node>
+<node id="janeiro_stephen">
+  <data key="d0">1</data>
+</node>
+<node id="stephen_eisenhammer">
+  <data key="d0">1</data>
+</node>
+<node id="jeffrey">
+  <data key="d0">4</data>
+</node>
+<node id="sparshott">
+  <data key="d0">4</data>
+</node>
+<node id="jennings">
+  <data key="d0">4</data>
+</node>
+<node id="jennings_bengaluru">
+  <data key="d0">4</data>
+</node>
+<node id="joe">
+  <data key="d0">6</data>
+</node>
+<node id="wallace">
+  <data key="d0">5</data>
+</node>
+<node id="john">
+  <data key="d0">4</data>
+</node>
+<node id="larry">
+  <data key="d0">2</data>
+</node>
+<node id="john_larry">
+  <data key="d0">1</data>
+</node>
+<node id="larry_sartain">
+  <data key="d0">1</data>
+</node>
+<node id="landay">
+  <data key="d0">3</data>
+</node>
+<node id="oatis">
+  <data key="d0">4</data>
+</node>
+<node id="jonathan_oatis">
+  <data key="d0">4</data>
+</node>
+<node id="oatis_cynthia">
+  <data key="d0">2</data>
+</node>
+<node id="jong">
+  <data key="d0">3</data>
+</node>
+<node id="jong_il">
+  <data key="d0">1</data>
+</node>
+<node id="jong_un">
+  <data key="d0">2</data>
+</node>
+<node id="un_disappears">
+  <data key="d0">1</data>
+</node>
+<node id="josephine">
+  <data key="d0">1</data>
+</node>
+<node id="tapiru">
+  <data key="d0">2</data>
+</node>
+<node id="josephine_tapiru">
+  <data key="d0">1</data>
+</node>
+<node id="tapiru_donna">
+  <data key="d0">1</data>
+</node>
+<node id="josh">
+  <data key="d0">6</data>
+</node>
+<node id="smith">
+  <data key="d0">6</data>
+</node>
+<node id="josh_smith">
+  <data key="d0">6</data>
+</node>
+<node id="smith_sangmi">
+  <data key="d0">2</data>
+</node>
+<node id="joyu">
+  <data key="d0">4</data>
+</node>
+<node id="wang">
+  <data key="d0">5</data>
+</node>
+<node id="jr">
+  <data key="d0">2</data>
+</node>
+<node id="just">
+  <data key="d0">2</data>
+</node>
+<node id="watched">
+  <data key="d0">3</data>
+</node>
+<node id="morgan">
+  <data key="d0">2</data>
+</node>
+<node id="morgan_greene">
+  <data key="d0">1</data>
+</node>
+<node id="karen">
+  <data key="d0">7</data>
+</node>
+<node id="langley">
+  <data key="d0">6</data>
+</node>
+<node id="keeffe">
+  <data key="d0">16</data>
+</node>
+<node id="kate_o">
+  <data key="d0">7</data>
+</node>
+<node id="okeeffe">
+  <data key="d0">6</data>
+</node>
+<node id="okeeffe_">
+  <data key="d0">3</data>
+</node>
+<node id="shea">
+  <data key="d0">2</data>
+</node>
+<node id="keeffe_kathryn">
+  <data key="d0">3</data>
+</node>
+<node id="kelley">
+  <data key="d0">1</data>
+</node>
+<node id="kelley_foundation">
+  <data key="d0">1</data>
+</node>
+<node id="manaus">
+  <data key="d0">1</data>
+</node>
+<node id="manaus_additional">
+  <data key="d0">1</data>
+</node>
+<node id="sight">
+  <data key="d0">1</data>
+</node>
+<node id="kim_sight">
+  <data key="d0">1</data>
+</node>
+<node id="sight_day">
+  <data key="d0">1</data>
+</node>
+<node id="ping">
+  <data key="d0">3</data>
+</node>
+<node id="ping_">
+  <data key="d0">3</data>
+</node>
+<node id="konrad">
+  <data key="d0">6</data>
+</node>
+<node id="putzier">
+  <data key="d0">4</data>
+</node>
+<node id="kostov">
+  <data key="d0">17</data>
+</node>
+<node id="new_york">
+  <data key="d0">16</data>
+</node>
+<node id="kostov_">
+  <data key="d0">4</data>
+</node>
+<node id="kostov_nick">
+  <data key="d0">4</data>
+</node>
+<node id="kris">
+  <data key="d0">4</data>
+</node>
+<node id="maher">
+  <data key="d0">4</data>
+</node>
+<node id="lab">
+  <data key="d0">1</data>
+</node>
+<node id="source">
+  <data key="d0">2</data>
+</node>
+<node id="lab_source">
+  <data key="d0">1</data>
+</node>
+<node id="source_virus">
+  <data key="d0">1</data>
+</node>
+<node id="sartain">
+  <data key="d0">1</data>
+</node>
+<node id="sartain_family">
+  <data key="d0">1</data>
+</node>
+<node id="latest">
+  <data key="d0">1</data>
+</node>
+<node id="latest_business">
+  <data key="d0">1</data>
+</node>
+<node id="leader">
+  <data key="d0">4</data>
+</node>
+<node id="leader_kim">
+  <data key="d0">1</data>
+</node>
+<node id="life">
+  <data key="d0">6</data>
+</node>
+<node id="life_guide">
+  <data key="d0">2</data>
+</node>
+<node id="lincoln">
+  <data key="d0">5</data>
+</node>
+<node id="feast">
+  <data key="d0">5</data>
+</node>
+<node id="lisa">
+  <data key="d0">3</data>
+</node>
+<node id="shumaker">
+  <data key="d0">3</data>
+</node>
+<node id="lisandra">
+  <data key="d0">1</data>
+</node>
+<node id="paraguassu">
+  <data key="d0">1</data>
+</node>
+<node id="lisandra_paraguassu">
+  <data key="d0">1</data>
+</node>
+<node id="paraguassu_brasilia">
+  <data key="d0">1</data>
+</node>
+<node id="list">
+  <data key="d0">1</data>
+</node>
+<node id="list_">
+  <data key="d0">1</data>
+</node>
+<node id="live">
+  <data key="d0">1</data>
+</node>
+<node id="liza">
+  <data key="d0">6</data>
+</node>
+<node id="lin">
+  <data key="d0">6</data>
+</node>
+<node id="small">
+  <data key="d0">1</data>
+</node>
+<node id="lockdowns_ease">
+  <data key="d0">1</data>
+</node>
+<node id="lockdowns_facts">
+  <data key="d0">1</data>
+</node>
+<node id="lockdowns_small">
+  <data key="d0">1</data>
+</node>
+<node id="small_need">
+  <data key="d0">1</data>
+</node>
+<node id="loeb">
+  <data key="d0">1</data>
+</node>
+<node id="loeb_family">
+  <data key="d0">1</data>
+</node>
+<node id="team">
+  <data key="d0">10</data>
+</node>
+<node id="london_additional">
+  <data key="d0">2</data>
+</node>
+<node id="lopez">
+  <data key="d0">1</data>
+</node>
+<node id="lopez_credit">
+  <data key="d0">1</data>
+</node>
+<node id="washington">
+  <data key="d0">7</data>
+</node>
+<node id="luis">
+  <data key="d0">1</data>
+</node>
+<node id="luis_tapiru">
+  <data key="d0">1</data>
+</node>
+<node id="tapiru_jr">
+  <data key="d0">1</data>
+</node>
+<node id="lusha">
+  <data key="d0">2</data>
+</node>
+<node id="zhang">
+  <data key="d0">2</data>
+</node>
+<node id="makini">
+  <data key="d0">2</data>
+</node>
+<node id="brice">
+  <data key="d0">2</data>
+</node>
+<node id="managing">
+  <data key="d0">1</data>
+</node>
+<node id="mandhana">
+  <data key="d0">7</data>
+</node>
+<node id="mandhana_">
+  <data key="d0">2</data>
+</node>
+<node id="mandhana_feliz">
+  <data key="d0">2</data>
+</node>
+<node id="margherita">
+  <data key="d0">9</data>
+</node>
+<node id="stancati">
+  <data key="d0">9</data>
+</node>
+<node id="margherita_stancati">
+  <data key="d0">5</data>
+</node>
+<node id="stancati_rome">
+  <data key="d0">3</data>
+</node>
+<node id="maria">
+  <data key="d0">2</data>
+</node>
+<node id="maria_lopez">
+  <data key="d0">1</data>
+</node>
+<node id="potter">
+  <data key="d0">4</data>
+</node>
+<node id="mark_hosenball">
+  <data key="d0">4</data>
+</node>
+<node id="cap">
+  <data key="d0">2</data>
+</node>
+<node id="selloff">
+  <data key="d0">1</data>
+</node>
+<node id="selloff_write">
+  <data key="d0">1</data>
+</node>
+<node id="martin">
+  <data key="d0">44</data>
+</node>
+<node id="martin_">
+  <data key="d0">9</data>
+</node>
+<node id="matt">
+  <data key="d0">6</data>
+</node>
+<node id="spetalnick">
+  <data key="d0">5</data>
+</node>
+<node id="matt_spetalnick">
+  <data key="d0">5</data>
+</node>
+<node id="spetalnick_mark">
+  <data key="d0">2</data>
+</node>
+<node id="meet">
+  <data key="d0">1</data>
+</node>
+<node id="meet_press">
+  <data key="d0">1</data>
+</node>
+<node id="press_sunday">
+  <data key="d0">1</data>
+</node>
+<node id="meichtry">
+  <data key="d0">4</data>
+</node>
+<node id="perry">
+  <data key="d0">3</data>
+</node>
+<node id="michael_c">
+  <data key="d0">3</data>
+</node>
+<node id="_bender">
+  <data key="d0">3</data>
+</node>
+<node id="bird">
+  <data key="d0">9</data>
+</node>
+<node id="pence">
+  <data key="d0">1</data>
+</node>
+<node id="mike_kelley">
+  <data key="d0">1</data>
+</node>
+<node id="mike_pence">
+  <data key="d0">1</data>
+</node>
+<node id="pence_capacity">
+  <data key="d0">1</data>
+</node>
+<node id="moments">
+  <data key="d0">1</data>
+</node>
+<node id="sports">
+  <data key="d0">2</data>
+</node>
+<node id="moments_sports">
+  <data key="d0">1</data>
+</node>
+<node id="sports_history">
+  <data key="d0">1</data>
+</node>
+<node id="morris">
+  <data key="d0">1</data>
+</node>
+<node id="morris_loeb">
+  <data key="d0">1</data>
+</node>
+<node id="moss">
+  <data key="d0">8</data>
+</node>
+<node id="trefor">
+  <data key="d0">8</data>
+</node>
+<node id="moss_trefor">
+  <data key="d0">2</data>
+</node>
+<node id="mr">
+  <data key="d0">18</data>
+</node>
+<node id="muller">
+  <data key="d0">4</data>
+</node>
+<node id="prague">
+  <data key="d0">4</data>
+</node>
+<node id="muller_prague">
+  <data key="d0">4</data>
+</node>
+<node id="prague_gene">
+  <data key="d0">4</data>
+</node>
+<node id="muralikumar">
+  <data key="d0">5</data>
+</node>
+<node id="anantharaman">
+  <data key="d0">5</data>
+</node>
+<node id="nair">
+  <data key="d0">4</data>
+</node>
+<node id="nair_hardik">
+  <data key="d0">4</data>
+</node>
+<node id="visakapatnam">
+  <data key="d0">1</data>
+</node>
+<node id="r_visakapatnam">
+  <data key="d0">1</data>
+</node>
+<node id="nassauer">
+  <data key="d0">4</data>
+</node>
+<node id="nassauer_">
+  <data key="d0">1</data>
+</node>
+<node id="nassauer_sarah">
+  <data key="d0">1</data>
+</node>
+<node id="natasha">
+  <data key="d0">5</data>
+</node>
+<node id="khan">
+  <data key="d0">6</data>
+</node>
+<node id="response">
+  <data key="d0">5</data>
+</node>
+<node id="nation_response">
+  <data key="d0">1</data>
+</node>
+<node id="response_outbreak">
+  <data key="d0">1</data>
+</node>
+<node id="naveen">
+  <data key="d0">1</data>
+</node>
+<node id="thukral">
+  <data key="d0">1</data>
+</node>
+<node id="naveen_thukral">
+  <data key="d0">1</data>
+</node>
+<node id="thukral_reporting">
+  <data key="d0">1</data>
+</node>
+<node id="navigating">
+  <data key="d0">2</data>
+</node>
+<node id="nbc">
+  <data key="d0">1</data>
+</node>
+<node id="nbc_meet">
+  <data key="d0">1</data>
+</node>
+<node id="need">
+  <data key="d0">2</data>
+</node>
+<node id="stimulus">
+  <data key="d0">1</data>
+</node>
+<node id="need_stimulus">
+  <data key="d0">1</data>
+</node>
+<node id="stimulus_">
+  <data key="d0">1</data>
+</node>
+<node id="new">
+  <data key="d0">21</data>
+</node>
+<node id="england">
+  <data key="d0">2</data>
+</node>
+<node id="york">
+  <data key="d0">16</data>
+</node>
+<node id="york_andrew">
+  <data key="d0">4</data>
+</node>
+<node id="york_editing">
+  <data key="d0">4</data>
+</node>
+<node id="york_state">
+  <data key="d0">2</data>
+</node>
+<node id="york_times">
+  <data key="d0">3</data>
+</node>
+<node id="newley">
+  <data key="d0">2</data>
+</node>
+<node id="purnell">
+  <data key="d0">2</data>
+</node>
+<node id="news">
+  <data key="d0">24</data>
+</node>
+<node id="watchers">
+  <data key="d0">1</data>
+</node>
+<node id="watchers_advise">
+  <data key="d0">1</data>
+</node>
+<node id="cynthia_osterman">
+  <data key="d0">2</data>
+</node>
+<node id="obayashi">
+  <data key="d0">1</data>
+</node>
+<node id="tokyo">
+  <data key="d0">4</data>
+</node>
+<node id="obayashi_tokyo">
+  <data key="d0">1</data>
+</node>
+<node id="tokyo_fransiska">
+  <data key="d0">1</data>
+</node>
+<node id="photo_luis">
+  <data key="d0">1</data>
+</node>
+<node id="urge">
+  <data key="d0">2</data>
+</node>
+<node id="urge_testing">
+  <data key="d0">2</data>
+</node>
+<node id="oil">
+  <data key="d0">1</data>
+</node>
+<node id="prices">
+  <data key="d0">1</data>
+</node>
+<node id="oil_prices">
+  <data key="d0">1</data>
+</node>
+<node id="prices_rise">
+  <data key="d0">1</data>
+</node>
+<node id="orders">
+  <data key="d0">2</data>
+</node>
+<node id="orders_">
+  <data key="d0">2</data>
+</node>
+<node id="work">
+  <data key="d0">3</data>
+</node>
+<node id="work_art">
+  <data key="d0">1</data>
+</node>
+<node id="outbreak">
+  <data key="d0">8</data>
+</node>
+<node id="sales">
+  <data key="d0">2</data>
+</node>
+<node id="sales_pitch">
+  <data key="d0">2</data>
+</node>
+<node id="pannett">
+  <data key="d0">8</data>
+</node>
+<node id="rachel">
+  <data key="d0">10</data>
+</node>
+<node id="sydney">
+  <data key="d0">3</data>
+</node>
+<node id="pannett_">
+  <data key="d0">2</data>
+</node>
+<node id="pannett_rachel">
+  <data key="d0">2</data>
+</node>
+<node id="paris_panthéon">
+  <data key="d0">1</data>
+</node>
+<node id="part_new">
+  <data key="d0">2</data>
+</node>
+<node id="new_england">
+  <data key="d0">2</data>
+</node>
+<node id="patricia">
+  <data key="d0">1</data>
+</node>
+<node id="yanni">
+  <data key="d0">1</data>
+</node>
+<node id="patricia_yanni">
+  <data key="d0">1</data>
+</node>
+<node id="yanni_photo">
+  <data key="d0">1</data>
+</node>
+<node id="patrick">
+  <data key="d0">1</data>
+</node>
+<node id="patrick_conran">
+  <data key="d0">1</data>
+</node>
+<node id="vigna">
+  <data key="d0">5</data>
+</node>
+<node id="paulo">
+  <data key="d0">2</data>
+</node>
+<node id="paulo_bruno">
+  <data key="d0">1</data>
+</node>
+<node id="paulo_lisandra">
+  <data key="d0">1</data>
+</node>
+<node id="pedro">
+  <data key="d0">1</data>
+</node>
+<node id="pedro_fonseca">
+  <data key="d0">1</data>
+</node>
+<node id="pennsylvania">
+  <data key="d0">2</data>
+</node>
+<node id="peter">
+  <data key="d0">6</data>
+</node>
+<node id="cooney">
+  <data key="d0">3</data>
+</node>
+<node id="photo_josephine">
+  <data key="d0">1</data>
+</node>
+<node id="photo_morris">
+  <data key="d0">1</data>
+</node>
+<node id="photo_patricia">
+  <data key="d0">1</data>
+</node>
+<node id="photo_patrick">
+  <data key="d0">1</data>
+</node>
+<node id="toronto">
+  <data key="d0">4</data>
+</node>
+<node id="toronto_editing">
+  <data key="d0">4</data>
+</node>
+<node id="pitch">
+  <data key="d0">2</data>
+</node>
+<node id="pitch_">
+  <data key="d0">2</data>
+</node>
+<node id="pointer">
+  <data key="d0">1</data>
+</node>
+<node id="pointer_nation">
+  <data key="d0">1</data>
+</node>
+<node id="policy">
+  <data key="d0">1</data>
+</node>
+<node id="university">
+  <data key="d0">2</data>
+</node>
+<node id="policy_university">
+  <data key="d0">1</data>
+</node>
+<node id="university_paris">
+  <data key="d0">1</data>
+</node>
+<node id="pop">
+  <data key="d0">4</data>
+</node>
+<node id="valentina">
+  <data key="d0">4</data>
+</node>
+<node id="way">
+  <data key="d0">5</data>
+</node>
+<node id="power_pointer">
+  <data key="d0">1</data>
+</node>
+<node id="way_jean">
+  <data key="d0">1</data>
+</node>
+<node id="prepares">
+  <data key="d0">2</data>
+</node>
+<node id="prepares_friday">
+  <data key="d0">2</data>
+</node>
+<node id="president">
+  <data key="d0">6</data>
+</node>
+<node id="president_mike">
+  <data key="d0">1</data>
+</node>
+<node id="sunday">
+  <data key="d0">2</data>
+</node>
+<node id="writer">
+  <data key="d0">7</data>
+</node>
+<node id="sunday_vice">
+  <data key="d0">1</data>
+</node>
+<node id="rise">
+  <data key="d0">1</data>
+</node>
+<node id="rise_demand">
+  <data key="d0">1</data>
+</node>
+<node id="read">
+  <data key="d0">2</data>
+</node>
+<node id="read_credit">
+  <data key="d0">1</data>
+</node>
+<node id="visakapatnam_jack">
+  <data key="d0">1</data>
+</node>
+<node id="rachel_pannett">
+  <data key="d0">4</data>
+</node>
+<node id="pannett_sydney">
+  <data key="d0">2</data>
+</node>
+<node id="gopalakrishnan">
+  <data key="d0">4</data>
+</node>
+<node id="reading">
+  <data key="d0">1</data>
+</node>
+<node id="retreating">
+  <data key="d0">1</data>
+</node>
+<node id="retreating_moments">
+  <data key="d0">1</data>
+</node>
+<node id="record">
+  <data key="d0">2</data>
+</node>
+<node id="record_cold">
+  <data key="d0">2</data>
+</node>
+<node id="swoosh">
+  <data key="d0">8</data>
+</node>
+<node id="trillion">
+  <data key="d0">2</data>
+</node>
+<node id="trillion_bill">
+  <data key="d0">2</data>
+</node>
+<node id="replay">
+  <data key="d0">4</data>
+</node>
+<node id="videos">
+  <data key="d0">4</data>
+</node>
+<node id="replay_videos">
+  <data key="d0">4</data>
+</node>
+<node id="videos_must">
+  <data key="d0">4</data>
+</node>
+<node id="report">
+  <data key="d0">9</data>
+</node>
+<node id="reporter">
+  <data key="d0">2</data>
+</node>
+<node id="trump">
+  <data key="d0">9</data>
+</node>
+<node id="reporter_trump">
+  <data key="d0">2</data>
+</node>
+<node id="trump_china">
+  <data key="d0">2</data>
+</node>
+<node id="reporting_jane">
+  <data key="d0">1</data>
+</node>
+<node id="restrictions">
+  <data key="d0">1</data>
+</node>
+<node id="returns">
+  <data key="d0">1</data>
+</node>
+<node id="returns_">
+  <data key="d0">1</data>
+</node>
+<node id="birsel">
+  <data key="d0">4</data>
+</node>
+<node id="jane_wardell">
+  <data key="d0">6</data>
+</node>
+<node id="timothy_heritage">
+  <data key="d0">2</data>
+</node>
+<node id="specialist">
+  <data key="d0">1</data>
+</node>
+<node id="specialist_policy">
+  <data key="d0">1</data>
+</node>
+<node id="rohith">
+  <data key="d0">4</data>
+</node>
+<node id="rohith_nair">
+  <data key="d0">4</data>
+</node>
+<node id="roll">
+  <data key="d0">1</data>
+</node>
+<node id="roll_back">
+  <data key="d0">1</data>
+</node>
+<node id="rome">
+  <data key="d0">3</data>
+</node>
+<node id="rome_dasl">
+  <data key="d0">3</data>
+</node>
+<node id="sobol">
+  <data key="d0">2</data>
+</node>
+<node id="ryan">
+  <data key="d0">2</data>
+</node>
+<node id="woo">
+  <data key="d0">6</data>
+</node>
+<node id="siddiqui">
+  <data key="d0">8</data>
+</node>
+<node id="siddiqui_">
+  <data key="d0">2</data>
+</node>
+<node id="siddiqui_elizabeth">
+  <data key="d0">2</data>
+</node>
+<node id="siddiqui_sabrina">
+  <data key="d0">2</data>
+</node>
+<node id="schechner">
+  <data key="d0">4</data>
+</node>
+<node id="sandra">
+  <data key="d0">3</data>
+</node>
+<node id="maler">
+  <data key="d0">3</data>
+</node>
+<node id="sangmi">
+  <data key="d0">8</data>
+</node>
+<node id="sangmi_cha">
+  <data key="d0">8</data>
+</node>
+<node id="cha_editing">
+  <data key="d0">4</data>
+</node>
+<node id="morland">
+  <data key="d0">5</data>
+</node>
+<node id="wuhan">
+  <data key="d0">2</data>
+</node>
+<node id="wuhan_lab">
+  <data key="d0">1</data>
+</node>
+<node id="scott">
+  <data key="d0">5</data>
+</node>
+<node id="calvert">
+  <data key="d0">4</data>
+</node>
+<node id="write_anna">
+  <data key="d0">2</data>
+</node>
+<node id="writing">
+  <data key="d0">3</data>
+</node>
+<node id="yuka">
+  <data key="d0">1</data>
+</node>
+<node id="seoul_matt">
+  <data key="d0">2</data>
+</node>
+<node id="writing_devjyot">
+  <data key="d0">3</data>
+</node>
+<node id="yuka_obayashi">
+  <data key="d0">1</data>
+</node>
+<node id="shaped">
+  <data key="d0">8</data>
+</node>
+<node id="shaped_write">
+  <data key="d0">4</data>
+</node>
+<node id="write_calfas">
+  <data key="d0">11</data>
+</node>
+<node id="navaratnam">
+  <data key="d0">8</data>
+</node>
+<node id="shrivathsa">
+  <data key="d0">4</data>
+</node>
+<node id="sridhar">
+  <data key="d0">4</data>
+</node>
+<node id="shrivathsa_sridhar">
+  <data key="d0">4</data>
+</node>
+<node id="sridhar_rohith">
+  <data key="d0">4</data>
+</node>
+<node id="shutdown_orders">
+  <data key="d0">2</data>
+</node>
+<node id="something_mr">
+  <data key="d0">1</data>
+</node>
+<node id="siddharth">
+  <data key="d0">1</data>
+</node>
+<node id="siddharth_cavale">
+  <data key="d0">1</data>
+</node>
+<node id="simon">
+  <data key="d0">8</data>
+</node>
+<node id="simon_cameron">
+  <data key="d0">4</data>
+</node>
+<node id="simon_jennings">
+  <data key="d0">4</data>
+</node>
+<node id="snow">
+  <data key="d0">2</data>
+</node>
+<node id="snow_part">
+  <data key="d0">2</data>
+</node>
+<node id="sobol_caption">
+  <data key="d0">1</data>
+</node>
+<node id="sonya">
+  <data key="d0">2</data>
+</node>
+<node id="hepinstall">
+  <data key="d0">2</data>
+</node>
+<node id="st">
+  <data key="d0">2</data>
+</node>
+<node id="news_service">
+  <data key="d0">6</data>
+</node>
+<node id="state_america">
+  <data key="d0">1</data>
+</node>
+<node id="state_prepares">
+  <data key="d0">2</data>
+</node>
+<node id="states">
+  <data key="d0">3</data>
+</node>
+<node id="stella">
+  <data key="d0">4</data>
+</node>
+<node id="yifan">
+  <data key="d0">2</data>
+</node>
+<node id="stella_yifan">
+  <data key="d0">2</data>
+</node>
+<node id="yifan_xie">
+  <data key="d0">2</data>
+</node>
+<node id="coates">
+  <data key="d0">4</data>
+</node>
+<node id="wright">
+  <data key="d0">4</data>
+</node>
+<node id="stephen_wright">
+  <data key="d0">4</data>
+</node>
+<node id="wright_">
+  <data key="d0">2</data>
+</node>
+<node id="wright_wellington">
+  <data key="d0">2</data>
+</node>
+<node id="street">
+  <data key="d0">2</data>
+</node>
+<node id="journal">
+  <data key="d0">2</data>
+</node>
+<node id="stu">
+  <data key="d0">4</data>
+</node>
+<node id="sudarshan">
+  <data key="d0">2</data>
+</node>
+<node id="varadhan">
+  <data key="d0">2</data>
+</node>
+<node id="heat_week">
+  <data key="d0">2</data>
+</node>
+<node id="vice">
+  <data key="d0">1</data>
+</node>
+<node id="vice_president">
+  <data key="d0">1</data>
+</node>
+<node id="swati">
+  <data key="d0">2</data>
+</node>
+<node id="pandey">
+  <data key="d0">2</data>
+</node>
+<node id="swoosh_v">
+  <data key="d0">4</data>
+</node>
+<node id="temporarily">
+  <data key="d0">1</data>
+</node>
+<node id="temporarily_halt">
+  <data key="d0">1</data>
+</node>
+<node id="testing">
+  <data key="d0">5</data>
+</node>
+<node id="testing_easing">
+  <data key="d0">2</data>
+</node>
+<node id="treatment">
+  <data key="d0">2</data>
+</node>
+<node id="treatment_">
+  <data key="d0">2</data>
+</node>
+<node id="weather">
+  <data key="d0">2</data>
+</node>
+<node id="today_weather">
+  <data key="d0">2</data>
+</node>
+<node id="weather_just">
+  <data key="d0">2</data>
+</node>
+<node id="tom">
+  <data key="d0">7</data>
+</node>
+<node id="fairless">
+  <data key="d0">4</data>
+</node>
+<node id="moss_">
+  <data key="d0">2</data>
+</node>
+<node id="trefor_moss">
+  <data key="d0">4</data>
+</node>
+<node id="united">
+  <data key="d0">2</data>
+</node>
+<node id="usa">
+  <data key="d0">2</data>
+</node>
+<node id="verlaine">
+  <data key="d0">4</data>
+</node>
+<node id="julia">
+  <data key="d0">4</data>
+</node>
+<node id="vibhuti">
+  <data key="d0">4</data>
+</node>
+<node id="agarwal">
+  <data key="d0">4</data>
+</node>
+<node id="watch">
+  <data key="d0">4</data>
+</node>
+<node id="must_watch">
+  <data key="d0">4</data>
+</node>
+<node id="vinay">
+  <data key="d0">4</data>
+</node>
+<node id="vinay_dwivedi">
+  <data key="d0">4</data>
+</node>
+<node id="dwivedi_editing">
+  <data key="d0">3</data>
+</node>
+<node id="wall">
+  <data key="d0">2</data>
+</node>
+<node id="wall_street">
+  <data key="d0">2</data>
+</node>
+<node id="street_journal">
+  <data key="d0">2</data>
+</node>
+<node id="warren">
+  <data key="d0">5</data>
+</node>
+<node id="strobel">
+  <data key="d0">4</data>
+</node>
+<node id="just_watched">
+  <data key="d0">2</data>
+</node>
+<node id="yap">
+  <data key="d0">4</data>
+</node>
+<node id="yap_">
+  <data key="d0">2</data>
+</node>
+<node id="wellington">
+  <data key="d0">2</data>
+</node>
+<node id="write_avantika">
+  <data key="d0">2</data>
+</node>
+<node id="write_paul">
+  <data key="d0">5</data>
+</node>
+<node id="write_talal">
+  <data key="d0">7</data>
+</node>
+<node id="xie">
+  <data key="d0">9</data>
+</node>
+<node id="yu">
+  <data key="d0">5</data>
+</node>
+<node id="times">
+  <data key="d0">11</data>
+</node>
+<edge source="0100b59s39e" target="index">
+  <data key="d1">195.52272727272728</data>
+</edge>
+<edge source="0100b59s39e" target="map">
+  <data key="d1">195.52272727272728</data>
+</edge>
+<edge source="index" target="html">
+  <data key="d1">130.34848484848487</data>
+</edge>
+<edge source="index" target="html_jake">
+  <data key="d1">65.17424242424244</data>
+</edge>
+<edge source="index" target="market">
+  <data key="d1">65.38888888888889</data>
+</edge>
+<edge source="_aditya" target="aditya_munjuluru">
+  <data key="d1">39.73809523809524</data>
+</edge>
+<edge source="_aditya" target="shanima_a">
+  <data key="d1">39.73809523809524</data>
+</edge>
+<edge source="aditya_munjuluru" target="munjuluru_bengaluru">
+  <data key="d1">39.73809523809524</data>
+</edge>
+<edge source="_amid" target="amid_crisis">
+  <data key="d1">51.514629240320595</data>
+</edge>
+<edge source="_amid" target="immigration_u">
+  <data key="d1">51.514629240320595</data>
+</edge>
+<edge source="amid_crisis" target="crisis_">
+  <data key="d1">51.514629240320595</data>
+</edge>
+<edge source="_clair" target="clair_alison">
+  <data key="d1">47.0</data>
+</edge>
+<edge source="_clair" target="st">
+  <data key="d1">47.0</data>
+</edge>
+<edge source="clair_alison" target="alison_bowen">
+  <data key="d1">47.0</data>
+</edge>
+<edge source="_comfort" target="comfort_reads">
+  <data key="d1">51.5</data>
+</edge>
+<edge source="_comfort" target="list_">
+  <data key="d1">51.5</data>
+</edge>
+<edge source="comfort_reads" target="reads_catcher">
+  <data key="d1">51.5</data>
+</edge>
+<edge source="_companies" target="companies_warn">
+  <data key="d1">51.514629240320595</data>
+</edge>
+<edge source="_companies" target="crisis_">
+  <data key="d1">51.514629240320595</data>
+</edge>
+<edge source="companies_warn" target="warn_dire">
+  <data key="d1">51.514629240320595</data>
+</edge>
+<edge source="_congress" target="congress_protective">
+  <data key="d1">77.3842177978796</data>
+</edge>
+<edge source="_congress" target="orders_">
+  <data key="d1">77.3842177978796</data>
+</edge>
+<edge source="congress_protective" target="gear">
+  <data key="d1">77.3842177978796</data>
+</edge>
+<edge source="_credit" target="credit_andrew">
+  <data key="d1">64.48554671562627</data>
+</edge>
+<edge source="_credit" target="credit_jennifer">
+  <data key="d1">119.47591939534827</data>
+</edge>
+<edge source="_credit" target="dalton_">
+  <data key="d1">77.3842177978796</data>
+</edge>
+<edge source="_credit" target="findell_">
+  <data key="d1">57.77324561403509</data>
+</edge>
+<edge source="_credit" target="kostov_">
+  <data key="d1">68.17262219417874</data>
+</edge>
+<edge source="credit_andrew" target="andrew_restuccia">
+  <data key="d1">51.14824561403509</data>
+</edge>
+<edge source="credit_jennifer" target="com_credit">
+  <data key="d1">56.418459436333876</data>
+</edge>
+<edge source="credit_jennifer" target="jennifer_calfas">
+  <data key="d1">211.71732311800835</data>
+</edge>
+<edge source="_donna" target="donna_oduca">
+  <data key="d1">54.5</data>
+</edge>
+<edge source="_donna" target="jr">
+  <data key="d1">54.5</data>
+</edge>
+<edge source="donna_oduca" target="oduca_credit">
+  <data key="d1">54.5</data>
+</edge>
+<edge source="donna_oduca" target="oduca_photo">
+  <data key="d1">54.5</data>
+</edge>
+<edge source="donna_oduca" target="tapiru_donna">
+  <data key="d1">54.5</data>
+</edge>
+<edge source="_dowjones" target="com">
+  <data key="d1">72.20782698815707</data>
+</edge>
+<edge source="_dowjones" target="osipovich_">
+  <data key="d1">49.091457675043756</data>
+</edge>
+<edge source="com" target="_wsj">
+  <data key="d1">2586.5621007288973</data>
+</edge>
+<edge source="com" target="apnews">
+  <data key="d1">165.95588235294116</data>
+</edge>
+<edge source="com" target="akane">
+  <data key="d1">51.40641159068902</data>
+</edge>
+<edge source="com" target="alexander">
+  <data key="d1">49.091457675043756</data>
+</edge>
+<edge source="com" target="andrew">
+  <data key="d1">59.38644544772162</data>
+</edge>
+<edge source="com" target="china">
+  <data key="d1">195.52272727272728</data>
+</edge>
+<edge source="com" target="chong">
+  <data key="d1">56.418992386033544</data>
+</edge>
+<edge source="com" target="chuin">
+  <data key="d1">49.9497151621176</data>
+</edge>
+<edge source="com" target="chun">
+  <data key="d1">39.206327912349316</data>
+</edge>
+<edge source="com" target="credit">
+  <data key="d1">989.994908003556</data>
+</edge>
+<edge source="com" target="dasl">
+  <data key="d1">35.64047440619021</data>
+</edge>
+<edge source="com" target="dowjones">
+  <data key="d1">72.20782698815707</data>
+</edge>
+<edge source="com" target="elizabeth">
+  <data key="d1">94.48061807604624</data>
+</edge>
+<edge source="com" target="feliz">
+  <data key="d1">51.514629240320595</data>
+</edge>
+<edge source="com" target="frances">
+  <data key="d1">42.752025772322945</data>
+</edge>
+<edge source="com" target="joanne">
+  <data key="d1">96.59038532213154</data>
+</edge>
+<edge source="com" target="matthew">
+  <data key="d1">77.3842177978796</data>
+</edge>
+<edge source="com" target="nick">
+  <data key="d1">68.17262219417874</data>
+</edge>
+<edge source="com" target="phred">
+  <data key="d1">42.2347675490671</data>
+</edge>
+<edge source="com" target="sabrina">
+  <data key="d1">51.14824561403509</data>
+</edge>
+<edge source="com" target="sarah">
+  <data key="d1">43.332372462011186</data>
+</edge>
+<edge source="com" target="understandingtheoutbreak">
+  <data key="d1">53.27268751366718</data>
+</edge>
+<edge source="com" target="virusoutbreak">
+  <data key="d1">53.27268751366718</data>
+</edge>
+<edge source="com" target="wsj">
+  <data key="d1">2586.5621007288973</data>
+</edge>
+<edge source="com" target="reuters">
+  <data key="d1">195.52272727272728</data>
+</edge>
+<edge source="_drugmakers" target="drugmakers_overhaul">
+  <data key="d1">42.09170159746867</data>
+</edge>
+<edge source="_drugmakers" target="shutdown_">
+  <data key="d1">42.09170159746867</data>
+</edge>
+<edge source="drugmakers_overhaul" target="overhaul_sales">
+  <data key="d1">42.09170159746867</data>
+</edge>
+<edge source="_economic" target="economic_recovery">
+  <data key="d1">119.47591939534827</data>
+</edge>
+<edge source="_economic" target="flame_">
+  <data key="d1">77.3842177978796</data>
+</edge>
+<edge source="_economic" target="pitch_">
+  <data key="d1">42.09170159746867</data>
+</edge>
+<edge source="economic_recovery" target="recovery_">
+  <data key="d1">119.47591939534827</data>
+</edge>
+<edge source="_hogan" target="hogan_governor">
+  <data key="d1">39.5</data>
+</edge>
+<edge source="_hogan" target="mr">
+  <data key="d1">39.5</data>
+</edge>
+<edge source="hogan_governor" target="governor_party">
+  <data key="d1">39.5</data>
+</edge>
+<edge source="_house" target="house_democrats">
+  <data key="d1">77.3842177978796</data>
+</edge>
+<edge source="_house" target="lockdowns_">
+  <data key="d1">77.3842177978796</data>
+</edge>
+<edge source="house_democrats" target="democrats_release">
+  <data key="d1">77.3842177978796</data>
+</edge>
+<edge source="_kim" target="kim_jong">
+  <data key="d1">41.713319151866536</data>
+</edge>
+<edge source="_kim" target="coverage_">
+  <data key="d1">41.713319151866536</data>
+</edge>
+<edge source="_kim" target="mr">
+  <data key="d1">54.5</data>
+</edge>
+<edge source="kim_jong" target="jong_il">
+  <data key="d1">41.713319151866536</data>
+</edge>
+<edge source="kim_jong" target="jong_un">
+  <data key="d1">53.413319151866546</data>
+</edge>
+<edge source="kim_jong" target="leader_kim">
+  <data key="d1">41.713319151866536</data>
+</edge>
+<edge source="_live" target="live_business">
+  <data key="d1">44.266666666666666</data>
+</edge>
+<edge source="_live" target="pandemic_">
+  <data key="d1">44.266666666666666</data>
+</edge>
+<edge source="live_business" target="business_facts">
+  <data key="d1">44.266666666666666</data>
+</edge>
+<edge source="_managing" target="managing_finances">
+  <data key="d1">44.266666666666666</data>
+</edge>
+<edge source="_managing" target="stimulus_">
+  <data key="d1">44.266666666666666</data>
+</edge>
+<edge source="managing_finances" target="finances_pandemic">
+  <data key="d1">44.266666666666666</data>
+</edge>
+<edge source="_martin" target="martin_andrew">
+  <data key="d1">53.631351054576314</data>
+</edge>
+<edge source="_martin" target="martin_timothy">
+  <data key="d1">83.61352182381039</data>
+</edge>
+<edge source="_martin" target="timothy_w">
+  <data key="d1">192.64032396533554</data>
+</edge>
+<edge source="martin_andrew" target="andrew_jeong">
+  <data key="d1">53.631351054576314</data>
+</edge>
+<edge source="martin_timothy" target="martin">
+  <data key="d1">83.61352182381039</data>
+</edge>
+<edge source="_navigating" target="navigating_life">
+  <data key="d1">79.84078947368421</data>
+</edge>
+<edge source="_navigating" target="treatment_">
+  <data key="d1">79.84078947368421</data>
+</edge>
+<edge source="navigating_life" target="life_guide">
+  <data key="d1">79.84078947368421</data>
+</edge>
+<edge source="_north" target="north_kim">
+  <data key="d1">41.713319151866536</data>
+</edge>
+<edge source="_north" target="north_leader">
+  <data key="d1">41.713319151866536</data>
+</edge>
+<edge source="_north" target="caution_">
+  <data key="d1">41.713319151866536</data>
+</edge>
+<edge source="_north" target="day_">
+  <data key="d1">41.713319151866536</data>
+</edge>
+<edge source="north_kim" target="kim_sight">
+  <data key="d1">41.713319151866536</data>
+</edge>
+<edge source="north_leader" target="leader_kim">
+  <data key="d1">41.713319151866536</data>
+</edge>
+<edge source="_pennsylvania" target="pennsylvania_governor">
+  <data key="d1">77.3842177978796</data>
+</edge>
+<edge source="_pennsylvania" target="bill_">
+  <data key="d1">77.3842177978796</data>
+</edge>
+<edge source="pennsylvania_governor" target="governor_threatens">
+  <data key="d1">77.3842177978796</data>
+</edge>
+<edge source="_post" target="flash">
+  <data key="d1">39.703205795344516</data>
+</edge>
+<edge source="_post" target="returns_">
+  <data key="d1">39.703205795344516</data>
+</edge>
+<edge source="flash" target="crash">
+  <data key="d1">39.703205795344516</data>
+</edge>
+<edge source="flash" target="post">
+  <data key="d1">39.703205795344516</data>
+</edge>
+<edge source="_potter" target="potter_ideal">
+  <data key="d1">51.5</data>
+</edge>
+<edge source="_potter" target="service_">
+  <data key="d1">51.5</data>
+</edge>
+<edge source="potter_ideal" target="ideal_quarantine">
+  <data key="d1">51.5</data>
+</edge>
+<edge source="_states" target="states_roll">
+  <data key="d1">43.332372462011186</data>
+</edge>
+<edge source="_states" target="nassauer">
+  <data key="d1">43.332372462011186</data>
+</edge>
+<edge source="states_roll" target="roll_back">
+  <data key="d1">43.332372462011186</data>
+</edge>
+<edge source="_tests" target="tests_treatment">
+  <data key="d1">79.84078947368421</data>
+</edge>
+<edge source="_tests" target="business_">
+  <data key="d1">35.57412280701755</data>
+</edge>
+<edge source="_tests" target="virus_">
+  <data key="d1">44.266666666666666</data>
+</edge>
+<edge source="tests_treatment" target="treatment_">
+  <data key="d1">79.84078947368421</data>
+</edge>
+<edge source="_texas" target="texas_businesses">
+  <data key="d1">42.09170159746867</data>
+</edge>
+<edge source="_texas" target="friday_">
+  <data key="d1">42.09170159746867</data>
+</edge>
+<edge source="texas_businesses" target="businesses_defy">
+  <data key="d1">42.09170159746867</data>
+</edge>
+<edge source="_trump" target="trump_temporarily">
+  <data key="d1">51.514629240320595</data>
+</edge>
+<edge source="_trump" target="virus_">
+  <data key="d1">51.514629240320595</data>
+</edge>
+<edge source="trump_temporarily" target="temporarily_halt">
+  <data key="d1">51.514629240320595</data>
+</edge>
+<edge source="_understanding" target="understanding_">
+  <data key="d1">44.266666666666666</data>
+</edge>
+<edge source="_understanding" target="ballhaus_">
+  <data key="d1">44.266666666666666</data>
+</edge>
+<edge source="understanding_" target="_virus">
+  <data key="d1">44.266666666666666</data>
+</edge>
+<edge source="_virus" target="virus_">
+  <data key="d1">44.266666666666666</data>
+</edge>
+<edge source="_virus" target="virus_latest">
+  <data key="d1">35.57412280701755</data>
+</edge>
+<edge source="_virus" target="findell">
+  <data key="d1">35.57412280701755</data>
+</edge>
+<edge source="virus_" target="source_virus">
+  <data key="d1">51.514629240320595</data>
+</edge>
+<edge source="virus_latest" target="latest_business">
+  <data key="d1">35.57412280701755</data>
+</edge>
+<edge source="_wsj" target="anna_">
+  <data key="d1">51.40641159068902</data>
+</edge>
+<edge source="_wsj" target="ansari_">
+  <data key="d1">80.87476742240067</data>
+</edge>
+<edge source="_wsj" target="calfas_">
+  <data key="d1">203.0619299628951</data>
+</edge>
+<edge source="_wsj" target="chilkoti_">
+  <data key="d1">39.43405740978221</data>
+</edge>
+<edge source="_wsj" target="chiu_">
+  <data key="d1">96.59038532213154</data>
+</edge>
+<edge source="_wsj" target="davis_">
+  <data key="d1">55.15033590354212</data>
+</edge>
+<edge source="_wsj" target="dvorak_">
+  <data key="d1">42.2347675490671</data>
+</edge>
+<edge source="_wsj" target="findell_">
+  <data key="d1">43.332372462011186</data>
+</edge>
+<edge source="_wsj" target="fitch_">
+  <data key="d1">48.97871342157693</data>
+</edge>
+<edge source="_wsj" target="hannon_">
+  <data key="d1">35.95720510533179</data>
+</edge>
+<edge source="_wsj" target="jeong_">
+  <data key="d1">82.96303039801464</data>
+</edge>
+<edge source="_wsj" target="lovett_">
+  <data key="d1">43.332372462011186</data>
+</edge>
+<edge source="_wsj" target="mandhana_">
+  <data key="d1">68.37922874528584</data>
+</edge>
+<edge source="_wsj" target="martin_">
+  <data key="d1">83.61352182381039</data>
+</edge>
+<edge source="_wsj" target="nassauer_">
+  <data key="d1">43.332372462011186</data>
+</edge>
+<edge source="_wsj" target="okeeffe_">
+  <data key="d1">53.067344089154986</data>
+</edge>
+<edge source="_wsj" target="otani_">
+  <data key="d1">51.40641159068902</data>
+</edge>
+<edge source="_wsj" target="pannett_">
+  <data key="d1">35.89895545033815</data>
+</edge>
+<edge source="_wsj" target="ping_">
+  <data key="d1">56.418992386033544</data>
+</edge>
+<edge source="_wsj" target="restuccia_">
+  <data key="d1">51.14824561403509</data>
+</edge>
+<edge source="_wsj" target="siddiqui_">
+  <data key="d1">51.14824561403509</data>
+</edge>
+<edge source="_wsj" target="solomon_">
+  <data key="d1">51.514629240320595</data>
+</edge>
+<edge source="_wsj" target="wong_">
+  <data key="d1">46.3349484344578</data>
+</edge>
+<edge source="_wsj" target="wright_">
+  <data key="d1">35.89895545033815</data>
+</edge>
+<edge source="_wsj" target="yap_">
+  <data key="d1">49.9497151621176</data>
+</edge>
+<edge source="_wsj" target="yoon_">
+  <data key="d1">104.36612803352801</data>
+</edge>
+<edge source="across_asia" target="asia_write">
+  <data key="d1">43.332372462011186</data>
+</edge>
+<edge source="across_asia" target="ease_across">
+  <data key="d1">43.332372462011186</data>
+</edge>
+<edge source="asia_write" target="write_ian">
+  <data key="d1">43.332372462011186</data>
+</edge>
+<edge source="additional" target="reporting">
+  <data key="d1">234.6543650793652</data>
+</edge>
+<edge source="additional" target="london">
+  <data key="d1">43.73737373737374</data>
+</edge>
+<edge source="additional" target="manaus">
+  <data key="d1">65.17424242424244</data>
+</edge>
+<edge source="reporting" target="asha">
+  <data key="d1">39.73809523809524</data>
+</edge>
+<edge source="reporting" target="hyunjoo">
+  <data key="d1">41.237012987012996</data>
+</edge>
+<edge source="reporting" target="jane">
+  <data key="d1">36.58333333333333</data>
+</edge>
+<edge source="reporting" target="pedro">
+  <data key="d1">65.17424242424244</data>
+</edge>
+<edge source="reporting" target="thukral">
+  <data key="d1">36.58333333333333</data>
+</edge>
+<edge source="additional_reporting" target="reporting_hyunjoo">
+  <data key="d1">41.237012987012996</data>
+</edge>
+<edge source="additional_reporting" target="reporting_pedro">
+  <data key="d1">65.17424242424244</data>
+</edge>
+<edge source="additional_reporting" target="london_additional">
+  <data key="d1">43.73737373737374</data>
+</edge>
+<edge source="additional_reporting" target="manaus_additional">
+  <data key="d1">65.17424242424244</data>
+</edge>
+<edge source="reporting_hyunjoo" target="hyunjoo_jin">
+  <data key="d1">41.237012987012996</data>
+</edge>
+<edge source="reporting_pedro" target="pedro_fonseca">
+  <data key="d1">65.17424242424244</data>
+</edge>
+<edge source="aditya" target="munjuluru">
+  <data key="d1">39.73809523809524</data>
+</edge>
+<edge source="aditya" target="shanima">
+  <data key="d1">39.73809523809524</data>
+</edge>
+<edge source="munjuluru" target="bengaluru">
+  <data key="d1">39.73809523809524</data>
+</edge>
+<edge source="munjuluru_bengaluru" target="bengaluru_narendra">
+  <data key="d1">39.73809523809524</data>
+</edge>
+<edge source="advise" target="caution">
+  <data key="d1">41.713319151866536</data>
+</edge>
+<edge source="advise" target="watchers">
+  <data key="d1">41.713319151866536</data>
+</edge>
+<edge source="caution" target="north">
+  <data key="d1">41.713319151866536</data>
+</edge>
+<edge source="advise_caution" target="caution_">
+  <data key="d1">41.713319151866536</data>
+</edge>
+<edge source="advise_caution" target="watchers_advise">
+  <data key="d1">41.713319151866536</data>
+</edge>
+<edge source="afp" target="getty">
+  <data key="d1">53.78333333333333</data>
+</edge>
+<edge source="afp" target="getty_images">
+  <data key="d1">38.58333333333333</data>
+</edge>
+<edge source="getty" target="images">
+  <data key="d1">87.27777777777777</data>
+</edge>
+<edge source="ailworth" target="erin">
+  <data key="d1">71.02368421052631</data>
+</edge>
+<edge source="akane" target="otani">
+  <data key="d1">111.4544898480447</data>
+</edge>
+<edge source="akane" target="chiu">
+  <data key="d1">44.02403912867784</data>
+</edge>
+<edge source="otani" target="oil_prices">
+  <data key="d1">39.703205795344516</data>
+</edge>
+<edge source="otani" target="wsj">
+  <data key="d1">51.40641159068902</data>
+</edge>
+<edge source="akane_otani" target="otani_">
+  <data key="d1">51.40641159068902</data>
+</edge>
+<edge source="akane_otani" target="chiu_akane">
+  <data key="d1">44.02403912867784</data>
+</edge>
+<edge source="akane_otani" target="com_akane">
+  <data key="d1">51.40641159068902</data>
+</edge>
+<edge source="alexander" target="osipovich">
+  <data key="d1">110.39928319277116</data>
+</edge>
+<edge source="osipovich" target="dowjones">
+  <data key="d1">49.091457675043756</data>
+</edge>
+<edge source="alexander_osipovich" target="osipovich_">
+  <data key="d1">49.091457675043756</data>
+</edge>
+<edge source="alexander_osipovich" target="com_alexander">
+  <data key="d1">49.091457675043756</data>
+</edge>
+<edge source="alison" target="bowen">
+  <data key="d1">94.0</data>
+</edge>
+<edge source="alison" target="clair">
+  <data key="d1">47.0</data>
+</edge>
+<edge source="bowen" target="alison_bowen">
+  <data key="d1">47.0</data>
+</edge>
+<edge source="bowen" target="caption">
+  <data key="d1">47.0</data>
+</edge>
+<edge source="alison_bowen" target="bowen_caption">
+  <data key="d1">47.0</data>
+</edge>
+<edge source="bowen_caption" target="caption_photo">
+  <data key="d1">47.0</data>
+</edge>
+<edge source="alistair" target="bell">
+  <data key="d1">44.077777777777776</data>
+</edge>
+<edge source="america" target="nation">
+  <data key="d1">57.5</data>
+</edge>
+<edge source="america" target="state">
+  <data key="d1">39.5</data>
+</edge>
+<edge source="nation" target="emerge">
+  <data key="d1">39.5</data>
+</edge>
+<edge source="nation" target="response">
+  <data key="d1">38.0</data>
+</edge>
+<edge source="nation" target="pointer">
+  <data key="d1">38.0</data>
+</edge>
+<edge source="america_nation" target="nation_emerge">
+  <data key="d1">39.5</data>
+</edge>
+<edge source="america_nation" target="state_america">
+  <data key="d1">39.5</data>
+</edge>
+<edge source="nation_emerge" target="emerge_shutdown">
+  <data key="d1">39.5</data>
+</edge>
+<edge source="amid" target="crisis">
+  <data key="d1">51.514629240320595</data>
+</edge>
+<edge source="amid" target="immigration">
+  <data key="d1">51.514629240320595</data>
+</edge>
+<edge source="crisis" target="companies">
+  <data key="d1">51.514629240320595</data>
+</edge>
+<edge source="amy" target="tennery">
+  <data key="d1">51.22222222222222</data>
+</edge>
+<edge source="amy" target="bengaluru">
+  <data key="d1">51.22222222222222</data>
+</edge>
+<edge source="tennery" target="new">
+  <data key="d1">51.22222222222222</data>
+</edge>
+<edge source="amy_tennery" target="tennery_new">
+  <data key="d1">51.22222222222222</data>
+</edge>
+<edge source="amy_tennery" target="bengaluru_amy">
+  <data key="d1">51.22222222222222</data>
+</edge>
+<edge source="tennery_new" target="new_york">
+  <data key="d1">51.22222222222222</data>
+</edge>
+<edge source="andrew" target="cary">
+  <data key="d1">51.22222222222222</data>
+</edge>
+<edge source="andrew" target="jeong">
+  <data key="d1">183.69796728428017</data>
+</edge>
+<edge source="andrew" target="restuccia">
+  <data key="d1">102.29649122807018</data>
+</edge>
+<edge source="andrew" target="restuccia_">
+  <data key="d1">51.14824561403509</data>
+</edge>
+<edge source="andrew" target="credit">
+  <data key="d1">85.85181704792552</data>
+</edge>
+<edge source="andrew" target="martin">
+  <data key="d1">53.631351054576314</data>
+</edge>
+<edge source="andrew" target="write">
+  <data key="d1">74.72483056432812</data>
+</edge>
+<edge source="andrew" target="york">
+  <data key="d1">51.22222222222222</data>
+</edge>
+<edge source="cary" target="robert">
+  <data key="d1">51.22222222222222</data>
+</edge>
+<edge source="jeong" target="coverage_">
+  <data key="d1">41.713319151866536</data>
+</edge>
+<edge source="jeong" target="seoul">
+  <data key="d1">37.56533259624407</data>
+</edge>
+<edge source="jeong" target="wsj">
+  <data key="d1">82.96303039801464</data>
+</edge>
+<edge source="restuccia" target="sabrina">
+  <data key="d1">51.14824561403509</data>
+</edge>
+<edge source="restuccia" target="wsj">
+  <data key="d1">51.14824561403509</data>
+</edge>
+<edge source="restuccia" target="restuccia_andrew">
+  <data key="d1">51.14824561403509</data>
+</edge>
+<edge source="andrew_cary" target="cary_robert">
+  <data key="d1">51.22222222222222</data>
+</edge>
+<edge source="andrew_cary" target="york_andrew">
+  <data key="d1">51.22222222222222</data>
+</edge>
+<edge source="cary_robert" target="robert_muller">
+  <data key="d1">51.22222222222222</data>
+</edge>
+<edge source="andrew_jeong" target="jeong_">
+  <data key="d1">82.96303039801464</data>
+</edge>
+<edge source="andrew_jeong" target="jeong_seoul">
+  <data key="d1">37.56533259624407</data>
+</edge>
+<edge source="andrew_jeong" target="com_andrew">
+  <data key="d1">59.38644544772162</data>
+</edge>
+<edge source="andrew_restuccia" target="restuccia_andrew">
+  <data key="d1">51.14824561403509</data>
+</edge>
+<edge source="andrew_restuccia" target="restuccia_sabrina">
+  <data key="d1">51.14824561403509</data>
+</edge>
+<edge source="andrew_restuccia" target="write_andrew">
+  <data key="d1">51.14824561403509</data>
+</edge>
+<edge source="restuccia_sabrina" target="sabrina_siddiqui">
+  <data key="d1">51.14824561403509</data>
+</edge>
+<edge source="angeles" target="artist">
+  <data key="d1">37.14285714285714</data>
+</edge>
+<edge source="angeles" target="los">
+  <data key="d1">85.30555555555556</data>
+</edge>
+<edge source="artist" target="income">
+  <data key="d1">37.14285714285714</data>
+</edge>
+<edge source="artist" target="relief">
+  <data key="d1">37.14285714285714</data>
+</edge>
+<edge source="artist" target="supporter">
+  <data key="d1">37.14285714285714</data>
+</edge>
+<edge source="artist" target="fund">
+  <data key="d1">37.14285714285714</data>
+</edge>
+<edge source="artist" target="nonprofit">
+  <data key="d1">37.14285714285714</data>
+</edge>
+<edge source="angeles_artist" target="artist_supporter">
+  <data key="d1">37.14285714285714</data>
+</edge>
+<edge source="angeles_artist" target="los_angeles">
+  <data key="d1">37.14285714285714</data>
+</edge>
+<edge source="artist_supporter" target="supporter_art">
+  <data key="d1">37.14285714285714</data>
+</edge>
+<edge source="anna" target="hirtenstein">
+  <data key="d1">48.23855444783187</data>
+</edge>
+<edge source="anna" target="joanne">
+  <data key="d1">44.02403912867784</data>
+</edge>
+<edge source="anna" target="wsj">
+  <data key="d1">51.40641159068902</data>
+</edge>
+<edge source="anna" target="credit">
+  <data key="d1">67.37371928299672</data>
+</edge>
+<edge source="anna" target="write">
+  <data key="d1">51.40641159068902</data>
+</edge>
+<edge source="joanne" target="chiu">
+  <data key="d1">301.67651310925174</data>
+</edge>
+<edge source="joanne" target="chiu_">
+  <data key="d1">96.59038532213154</data>
+</edge>
+<edge source="wsj" target="ansari">
+  <data key="d1">80.87476742240067</data>
+</edge>
+<edge source="wsj" target="calfas">
+  <data key="d1">203.0619299628951</data>
+</edge>
+<edge source="wsj" target="chilkoti">
+  <data key="d1">39.43405740978221</data>
+</edge>
+<edge source="wsj" target="chiu">
+  <data key="d1">96.59038532213154</data>
+</edge>
+<edge source="wsj" target="davis">
+  <data key="d1">55.15033590354212</data>
+</edge>
+<edge source="wsj" target="dvorak">
+  <data key="d1">42.2347675490671</data>
+</edge>
+<edge source="wsj" target="findell">
+  <data key="d1">43.332372462011186</data>
+</edge>
+<edge source="wsj" target="fitch">
+  <data key="d1">48.97871342157693</data>
+</edge>
+<edge source="wsj" target="hannon">
+  <data key="d1">35.95720510533179</data>
+</edge>
+<edge source="wsj" target="lovett">
+  <data key="d1">43.332372462011186</data>
+</edge>
+<edge source="wsj" target="mandhana">
+  <data key="d1">68.37922874528584</data>
+</edge>
+<edge source="wsj" target="martin">
+  <data key="d1">83.61352182381039</data>
+</edge>
+<edge source="wsj" target="nassauer">
+  <data key="d1">43.332372462011186</data>
+</edge>
+<edge source="wsj" target="okeeffe">
+  <data key="d1">53.067344089154986</data>
+</edge>
+<edge source="wsj" target="pannett">
+  <data key="d1">35.89895545033815</data>
+</edge>
+<edge source="wsj" target="ping">
+  <data key="d1">56.418992386033544</data>
+</edge>
+<edge source="wsj" target="siddiqui">
+  <data key="d1">51.14824561403509</data>
+</edge>
+<edge source="wsj" target="solomon">
+  <data key="d1">51.514629240320595</data>
+</edge>
+<edge source="wsj" target="wong">
+  <data key="d1">46.3349484344578</data>
+</edge>
+<edge source="wsj" target="wright">
+  <data key="d1">35.89895545033815</data>
+</edge>
+<edge source="wsj" target="com_akane">
+  <data key="d1">51.40641159068902</data>
+</edge>
+<edge source="wsj" target="com_alexander">
+  <data key="d1">49.091457675043756</data>
+</edge>
+<edge source="wsj" target="com_andrew">
+  <data key="d1">59.38644544772162</data>
+</edge>
+<edge source="wsj" target="com_chong">
+  <data key="d1">39.63542944783188</data>
+</edge>
+<edge source="wsj" target="com_chuin">
+  <data key="d1">49.9497151621176</data>
+</edge>
+<edge source="wsj" target="com_chun">
+  <data key="d1">39.206327912349316</data>
+</edge>
+<edge source="wsj" target="com_credit">
+  <data key="d1">966.8785386904427</data>
+</edge>
+<edge source="wsj" target="com_dasl">
+  <data key="d1">35.64047440619021</data>
+</edge>
+<edge source="wsj" target="com_elizabeth">
+  <data key="d1">94.48061807604624</data>
+</edge>
+<edge source="wsj" target="com_feliz">
+  <data key="d1">51.514629240320595</data>
+</edge>
+<edge source="wsj" target="com_frances">
+  <data key="d1">42.752025772322945</data>
+</edge>
+<edge source="wsj" target="com_joanne">
+  <data key="d1">96.59038532213154</data>
+</edge>
+<edge source="wsj" target="com_matthew">
+  <data key="d1">77.3842177978796</data>
+</edge>
+<edge source="wsj" target="com_nick">
+  <data key="d1">68.17262219417874</data>
+</edge>
+<edge source="wsj" target="com_phred">
+  <data key="d1">42.2347675490671</data>
+</edge>
+<edge source="wsj" target="com_sabrina">
+  <data key="d1">51.14824561403509</data>
+</edge>
+<edge source="wsj" target="com_sarah">
+  <data key="d1">43.332372462011186</data>
+</edge>
+<edge source="wsj" target="yap">
+  <data key="d1">49.9497151621176</data>
+</edge>
+<edge source="wsj" target="yoon">
+  <data key="d1">104.36612803352801</data>
+</edge>
+<edge source="anna_" target="write_anna">
+  <data key="d1">51.40641159068902</data>
+</edge>
+<edge source="anna_joanne" target="joanne_chiu">
+  <data key="d1">44.02403912867784</data>
+</edge>
+<edge source="anna_joanne" target="credit_anna">
+  <data key="d1">44.02403912867784</data>
+</edge>
+<edge source="joanne_chiu" target="com_joanne">
+  <data key="d1">96.59038532213154</data>
+</edge>
+<edge source="joanne_chiu" target="chiu_akane">
+  <data key="d1">44.02403912867784</data>
+</edge>
+<edge source="joanne_chiu" target="chiu_joanne">
+  <data key="d1">96.59038532213154</data>
+</edge>
+<edge source="ansari" target="talal">
+  <data key="d1">248.48083635811113</data>
+</edge>
+<edge source="ansari" target="ansari_talal">
+  <data key="d1">80.87476742240067</data>
+</edge>
+<edge source="talal" target="credit">
+  <data key="d1">86.73130151330976</data>
+</edge>
+<edge source="talal" target="ansari_">
+  <data key="d1">80.87476742240067</data>
+</edge>
+<edge source="talal" target="write">
+  <data key="d1">80.87476742240067</data>
+</edge>
+<edge source="ansari_talal" target="talal_ansari">
+  <data key="d1">80.87476742240067</data>
+</edge>
+<edge source="anzolin" target="milan">
+  <data key="d1">36.58333333333333</data>
+</edge>
+<edge source="anzolin" target="elisa">
+  <data key="d1">36.58333333333333</data>
+</edge>
+<edge source="milan" target="editing">
+  <data key="d1">36.58333333333333</data>
+</edge>
+<edge source="anzolin_milan" target="milan_editing">
+  <data key="d1">36.58333333333333</data>
+</edge>
+<edge source="anzolin_milan" target="elisa_anzolin">
+  <data key="d1">36.58333333333333</data>
+</edge>
+<edge source="milan_editing" target="editing_christian">
+  <data key="d1">36.58333333333333</data>
+</edge>
+<edge source="apnews" target="virusoutbreak">
+  <data key="d1">53.27268751366718</data>
+</edge>
+<edge source="arian" target="campo">
+  <data key="d1">54.33510226242589</data>
+</edge>
+<edge source="arian" target="flores">
+  <data key="d1">54.33510226242589</data>
+</edge>
+<edge source="campo" target="flores">
+  <data key="d1">54.33510226242589</data>
+</edge>
+<edge source="arlola" target="rawls">
+  <data key="d1">47.0</data>
+</edge>
+<edge source="arlola" target="photo">
+  <data key="d1">47.0</data>
+</edge>
+<edge source="rawls" target="photo">
+  <data key="d1">47.0</data>
+</edge>
+<edge source="arlola_rawls" target="rawls_photo">
+  <data key="d1">47.0</data>
+</edge>
+<edge source="arlola_rawls" target="photo_arlola">
+  <data key="d1">47.0</data>
+</edge>
+<edge source="rawls_photo" target="photo_patricia">
+  <data key="d1">47.0</data>
+</edge>
+<edge source="art" target="nonprofit">
+  <data key="d1">37.14285714285714</data>
+</edge>
+<edge source="art" target="organization">
+  <data key="d1">37.14285714285714</data>
+</edge>
+<edge source="art" target="supporter">
+  <data key="d1">37.14285714285714</data>
+</edge>
+<edge source="art" target="work">
+  <data key="d1">37.14285714285714</data>
+</edge>
+<edge source="organization" target="work">
+  <data key="d1">37.14285714285714</data>
+</edge>
+<edge source="art_nonprofit" target="nonprofit_artist">
+  <data key="d1">37.14285714285714</data>
+</edge>
+<edge source="art_nonprofit" target="work_art">
+  <data key="d1">37.14285714285714</data>
+</edge>
+<edge source="nonprofit_artist" target="artist_relief">
+  <data key="d1">37.14285714285714</data>
+</edge>
+<edge source="art_organization" target="organization_work">
+  <data key="d1">37.14285714285714</data>
+</edge>
+<edge source="art_organization" target="supporter_art">
+  <data key="d1">37.14285714285714</data>
+</edge>
+<edge source="organization_work" target="work_art">
+  <data key="d1">37.14285714285714</data>
+</edge>
+<edge source="income" target="pandemic">
+  <data key="d1">37.14285714285714</data>
+</edge>
+<edge source="relief" target="fund">
+  <data key="d1">37.14285714285714</data>
+</edge>
+<edge source="artist_income" target="income_pandemic">
+  <data key="d1">37.14285714285714</data>
+</edge>
+<edge source="artist_income" target="fund_artist">
+  <data key="d1">37.14285714285714</data>
+</edge>
+<edge source="artist_relief" target="relief_fund">
+  <data key="d1">37.14285714285714</data>
+</edge>
+<edge source="relief_fund" target="fund_emergency">
+  <data key="d1">37.14285714285714</data>
+</edge>
+<edge source="asa" target="fitch">
+  <data key="d1">97.95742684315385</data>
+</edge>
+<edge source="asa" target="fitch_">
+  <data key="d1">48.97871342157693</data>
+</edge>
+<edge source="fitch" target="fitch_asa">
+  <data key="d1">48.97871342157693</data>
+</edge>
+<edge source="asa_fitch" target="fitch_asa">
+  <data key="d1">48.97871342157693</data>
+</edge>
+<edge source="asha" target="sistla">
+  <data key="d1">39.73809523809524</data>
+</edge>
+<edge source="sistla" target="siddharth">
+  <data key="d1">39.73809523809524</data>
+</edge>
+<edge source="asha_sistla" target="sistla_siddharth">
+  <data key="d1">39.73809523809524</data>
+</edge>
+<edge source="asha_sistla" target="reporting_asha">
+  <data key="d1">39.73809523809524</data>
+</edge>
+<edge source="sistla_siddharth" target="siddharth_cavale">
+  <data key="d1">39.73809523809524</data>
+</edge>
+<edge source="asia" target="write">
+  <data key="d1">43.332372462011186</data>
+</edge>
+<edge source="asia" target="ease">
+  <data key="d1">43.332372462011186</data>
+</edge>
+<edge source="write" target="dead">
+  <data key="d1">41.713319151866536</data>
+</edge>
+<edge source="write" target="disruptions">
+  <data key="d1">51.514629240320595</data>
+</edge>
+<edge source="write" target="espa챰ol">
+  <data key="d1">35.57412280701755</data>
+</edge>
+<edge source="write" target="selloff">
+  <data key="d1">39.703205795344516</data>
+</edge>
+<edge source="write" target="shaped">
+  <data key="d1">119.47591939534827</data>
+</edge>
+<edge source="write" target="avantika">
+  <data key="d1">39.43405740978221</data>
+</edge>
+<edge source="write" target="caitlin">
+  <data key="d1">41.013608132129555</data>
+</edge>
+<edge source="write" target="calfas">
+  <data key="d1">203.0619299628951</data>
+</edge>
+<edge source="write" target="ian">
+  <data key="d1">43.332372462011186</data>
+</edge>
+<edge source="write" target="niharika">
+  <data key="d1">68.37922874528584</data>
+</edge>
+<edge source="write" target="paul">
+  <data key="d1">57.49648010454211</data>
+</edge>
+<edge source="write" target="rebecca">
+  <data key="d1">44.266666666666666</data>
+</edge>
+<edge source="write" target="timothy">
+  <data key="d1">72.33232441474958</data>
+</edge>
+<edge source="write_ian" target="ian_lovett">
+  <data key="d1">43.332372462011186</data>
+</edge>
+<edge source="assas" target="france">
+  <data key="d1">38.0</data>
+</edge>
+<edge source="assas" target="panthéon">
+  <data key="d1">38.0</data>
+</edge>
+<edge source="assas" target="paris_panthéon">
+  <data key="d1">38.0</data>
+</edge>
+<edge source="france" target="vision">
+  <data key="d1">38.0</data>
+</edge>
+<edge source="panthéon" target="assas_france">
+  <data key="d1">38.0</data>
+</edge>
+<edge source="panthéon" target="paris">
+  <data key="d1">38.0</data>
+</edge>
+<edge source="assas_france" target="france_vision">
+  <data key="d1">38.0</data>
+</edge>
+<edge source="france_vision" target="vision_power">
+  <data key="d1">38.0</data>
+</edge>
+<edge source="asset" target="graphic">
+  <data key="d1">65.38888888888889</data>
+</edge>
+<edge source="graphic" target="dollar">
+  <data key="d1">65.38888888888889</data>
+</edge>
+<edge source="graphic" target="currency">
+  <data key="d1">65.38888888888889</data>
+</edge>
+<edge source="graphic" target="market">
+  <data key="d1">65.38888888888889</data>
+</edge>
+<edge source="graphic" target="msci">
+  <data key="d1">65.38888888888889</data>
+</edge>
+<edge source="graphic" target="tracker">
+  <data key="d1">65.17424242424244</data>
+</edge>
+<edge source="asset_graphic" target="graphic_currency">
+  <data key="d1">65.38888888888889</data>
+</edge>
+<edge source="asset_graphic" target="graphic_asset">
+  <data key="d1">65.38888888888889</data>
+</edge>
+<edge source="graphic_currency" target="currency_dollar">
+  <data key="d1">65.38888888888889</data>
+</edge>
+<edge source="associated" target="press">
+  <data key="d1">90.5</data>
+</edge>
+<edge source="press" target="meet">
+  <data key="d1">39.5</data>
+</edge>
+<edge source="press" target="sunday">
+  <data key="d1">39.5</data>
+</edge>
+<edge source="press" target="writer">
+  <data key="d1">39.375</data>
+</edge>
+<edge source="associated_press" target="press_writer">
+  <data key="d1">39.375</data>
+</edge>
+<edge source="associated_press" target="report">
+  <data key="d1">39.375</data>
+</edge>
+<edge source="avantika" target="chilkoti">
+  <data key="d1">78.86811481956443</data>
+</edge>
+<edge source="avantika" target="chilkoti_">
+  <data key="d1">39.43405740978221</data>
+</edge>
+<edge source="avantika" target="credit">
+  <data key="d1">44.32478422682481</data>
+</edge>
+<edge source="chilkoti" target="chilkoti_avantika">
+  <data key="d1">39.43405740978221</data>
+</edge>
+<edge source="avantika_chilkoti" target="chilkoti_avantika">
+  <data key="d1">39.43405740978221</data>
+</edge>
+<edge source="avantika_chilkoti" target="credit_avantika">
+  <data key="d1">44.32478422682481</data>
+</edge>
+<edge source="avantika_chilkoti" target="write_avantika">
+  <data key="d1">39.43405740978221</data>
+</edge>
+<edge source="back_restrictions" target="restrictions_lockdowns">
+  <data key="d1">43.332372462011186</data>
+</edge>
+<edge source="back_restrictions" target="roll_back">
+  <data key="d1">43.332372462011186</data>
+</edge>
+<edge source="restrictions_lockdowns" target="lockdowns_ease">
+  <data key="d1">43.332372462011186</data>
+</edge>
+<edge source="ballhaus" target="rebecca">
+  <data key="d1">236.48889361092844</data>
+</edge>
+<edge source="ballhaus" target="understanding">
+  <data key="d1">44.266666666666666</data>
+</edge>
+<edge source="ballhaus" target="write_rebecca">
+  <data key="d1">44.266666666666666</data>
+</edge>
+<edge source="ballhaus" target="ballhaus_rebecca">
+  <data key="d1">75.52491995744222</data>
+</edge>
+<edge source="rebecca" target="credit">
+  <data key="d1">46.300000000000004</data>
+</edge>
+<edge source="rebecca" target="ballhaus_">
+  <data key="d1">75.52491995744222</data>
+</edge>
+<edge source="understanding" target="virus">
+  <data key="d1">44.266666666666666</data>
+</edge>
+<edge source="write_rebecca" target="rebecca_ballhaus">
+  <data key="d1">44.266666666666666</data>
+</edge>
+<edge source="ballhaus_rebecca" target="rebecca_ballhaus">
+  <data key="d1">75.52491995744222</data>
+</edge>
+<edge source="bat" target="expert">
+  <data key="d1">51.514629240320595</data>
+</edge>
+<edge source="bat" target="china">
+  <data key="d1">51.514629240320595</data>
+</edge>
+<edge source="expert" target="says">
+  <data key="d1">51.514629240320595</data>
+</edge>
+<edge source="bat_expert" target="expert_says">
+  <data key="d1">51.514629240320595</data>
+</edge>
+<edge source="bat_expert" target="china_bat">
+  <data key="d1">51.514629240320595</data>
+</edge>
+<edge source="expert_says" target="says_wuhan">
+  <data key="d1">51.514629240320595</data>
+</edge>
+<edge source="beijing" target="editing">
+  <data key="d1">35.58257575757575</data>
+</edge>
+<edge source="editing" target="brasilia">
+  <data key="d1">65.17424242424244</data>
+</edge>
+<edge source="editing" target="cha">
+  <data key="d1">35.90400432900432</data>
+</edge>
+<edge source="editing" target="chicago">
+  <data key="d1">48.05555555555556</data>
+</edge>
+<edge source="editing" target="dwivedi">
+  <data key="d1">38.43333333333334</data>
+</edge>
+<edge source="editing" target="brad">
+  <data key="d1">65.17424242424244</data>
+</edge>
+<edge source="editing" target="christian">
+  <data key="d1">40.55952380952381</data>
+</edge>
+<edge source="editing" target="euan">
+  <data key="d1">84.05519480519482</data>
+</edge>
+<edge source="editing" target="hugh">
+  <data key="d1">38.825</data>
+</edge>
+<edge source="editing" target="london">
+  <data key="d1">51.22222222222222</data>
+</edge>
+<edge source="editing" target="mark">
+  <data key="d1">36.55122655122655</data>
+</edge>
+<edge source="editing" target="michael">
+  <data key="d1">39.0</data>
+</edge>
+<edge source="editing" target="raju">
+  <data key="d1">38.775</data>
+</edge>
+<edge source="editing" target="rigby">
+  <data key="d1">35.84090909090909</data>
+</edge>
+<edge source="editing" target="sam">
+  <data key="d1">81.18055555555556</data>
+</edge>
+<edge source="editing" target="ghoshal">
+  <data key="d1">52.15043290043289</data>
+</edge>
+<edge source="editing" target="toronto">
+  <data key="d1">51.22222222222222</data>
+</edge>
+<edge source="editing" target="washington">
+  <data key="d1">77.92222222222222</data>
+</edge>
+<edge source="editing" target="york">
+  <data key="d1">99.32070707070707</data>
+</edge>
+<edge source="ben" target="chapman">
+  <data key="d1">52.16184119342014</data>
+</edge>
+<edge source="bender" target="mike">
+  <data key="d1">45.790502499779926</data>
+</edge>
+<edge source="bender" target="michael">
+  <data key="d1">51.34201765129507</data>
+</edge>
+<edge source="mike" target="bird">
+  <data key="d1">35.166666666666664</data>
+</edge>
+<edge source="mike" target="kelley">
+  <data key="d1">37.14285714285714</data>
+</edge>
+<edge source="mike" target="pence">
+  <data key="d1">39.5</data>
+</edge>
+<edge source="mike" target="president">
+  <data key="d1">39.5</data>
+</edge>
+<edge source="bengaluru" target="narendra">
+  <data key="d1">39.73809523809524</data>
+</edge>
+<edge source="bengaluru" target="jennings">
+  <data key="d1">51.22222222222222</data>
+</edge>
+<edge source="narendra" target="visakapatnam">
+  <data key="d1">39.73809523809524</data>
+</edge>
+<edge source="bengaluru_amy" target="jennings_bengaluru">
+  <data key="d1">51.22222222222222</data>
+</edge>
+<edge source="bengaluru_narendra" target="narendra_r">
+  <data key="d1">39.73809523809524</data>
+</edge>
+<edge source="narendra_r" target="r_visakapatnam">
+  <data key="d1">39.73809523809524</data>
+</edge>
+<edge source="benoit" target="faucon">
+  <data key="d1">46.232738626226585</data>
+</edge>
+<edge source="betsy" target="mckay">
+  <data key="d1">50.744436819994355</data>
+</edge>
+<edge source="bill_" target="trillion_bill">
+  <data key="d1">77.3842177978796</data>
+</edge>
+<edge source="blair" target="kamin">
+  <data key="d1">54.5</data>
+</edge>
+<edge source="blair" target="credit">
+  <data key="d1">54.5</data>
+</edge>
+<edge source="kamin" target="morgan">
+  <data key="d1">54.5</data>
+</edge>
+<edge source="blair_kamin" target="kamin_morgan">
+  <data key="d1">54.5</data>
+</edge>
+<edge source="blair_kamin" target="credit_blair">
+  <data key="d1">54.5</data>
+</edge>
+<edge source="kamin_morgan" target="morgan_greene">
+  <data key="d1">54.5</data>
+</edge>
+<edge source="blue" target="flame">
+  <data key="d1">77.3842177978796</data>
+</edge>
+<edge source="blue" target="supplier">
+  <data key="d1">77.3842177978796</data>
+</edge>
+<edge source="flame" target="economic">
+  <data key="d1">77.3842177978796</data>
+</edge>
+<edge source="blue_flame" target="flame_">
+  <data key="d1">77.3842177978796</data>
+</edge>
+<edge source="blue_flame" target="supplier_blue">
+  <data key="d1">77.3842177978796</data>
+</edge>
+<edge source="bob" target="davis">
+  <data key="d1">60.344185678530046</data>
+</edge>
+<edge source="davis" target="river">
+  <data key="d1">65.4310239937898</data>
+</edge>
+<edge source="bojan" target="pancevski">
+  <data key="d1">47.43706635259378</data>
+</edge>
+<edge source="bolstered" target="markets">
+  <data key="d1">39.703205795344516</data>
+</edge>
+<edge source="bolstered" target="fixes">
+  <data key="d1">39.703205795344516</data>
+</edge>
+<edge source="markets" target="selloff">
+  <data key="d1">39.703205795344516</data>
+</edge>
+<edge source="bolstered_markets" target="markets_selloff">
+  <data key="d1">39.703205795344516</data>
+</edge>
+<edge source="bolstered_markets" target="fixes_bolstered">
+  <data key="d1">39.703205795344516</data>
+</edge>
+<edge source="markets_selloff" target="selloff_write">
+  <data key="d1">39.703205795344516</data>
+</edge>
+<edge source="boston" target="william">
+  <data key="d1">53.13578477443609</data>
+</edge>
+<edge source="caption" target="photo">
+  <data key="d1">101.5</data>
+</edge>
+<edge source="caption" target="sobol">
+  <data key="d1">54.5</data>
+</edge>
+<edge source="caption_photo" target="photo_arlola">
+  <data key="d1">47.0</data>
+</edge>
+<edge source="caption_photo" target="photo_john">
+  <data key="d1">54.5</data>
+</edge>
+<edge source="caption_photo" target="sobol_caption">
+  <data key="d1">54.5</data>
+</edge>
+<edge source="brad" target="haynes">
+  <data key="d1">65.17424242424244</data>
+</edge>
+<edge source="haynes" target="grant">
+  <data key="d1">65.17424242424244</data>
+</edge>
+<edge source="brad_haynes" target="haynes_grant">
+  <data key="d1">65.17424242424244</data>
+</edge>
+<edge source="brad_haynes" target="editing_brad">
+  <data key="d1">65.17424242424244</data>
+</edge>
+<edge source="haynes_grant" target="grant_mccool">
+  <data key="d1">65.17424242424244</data>
+</edge>
+<edge source="brasilia" target="eduardo">
+  <data key="d1">65.17424242424244</data>
+</edge>
+<edge source="brasilia" target="paraguassu">
+  <data key="d1">65.17424242424244</data>
+</edge>
+<edge source="brasilia" target="spring">
+  <data key="d1">65.17424242424244</data>
+</edge>
+<edge source="eduardo" target="simoes">
+  <data key="d1">65.17424242424244</data>
+</edge>
+<edge source="brasilia_editing" target="editing_brad">
+  <data key="d1">65.17424242424244</data>
+</edge>
+<edge source="brasilia_editing" target="paraguassu_brasilia">
+  <data key="d1">65.17424242424244</data>
+</edge>
+<edge source="brasilia_eduardo" target="eduardo_simoes">
+  <data key="d1">65.17424242424244</data>
+</edge>
+<edge source="brasilia_eduardo" target="spring_brasilia">
+  <data key="d1">65.17424242424244</data>
+</edge>
+<edge source="eduardo_simoes" target="simoes_sao">
+  <data key="d1">65.17424242424244</data>
+</edge>
+<edge source="brianna" target="abbott">
+  <data key="d1">39.759147461221495</data>
+</edge>
+<edge source="brunnstrom" target="jonathan">
+  <data key="d1">44.68888888888888</data>
+</edge>
+<edge source="brunnstrom" target="david">
+  <data key="d1">106.35555555555554</data>
+</edge>
+<edge source="jonathan" target="landay">
+  <data key="d1">54.47222222222222</data>
+</edge>
+<edge source="jonathan" target="oatis">
+  <data key="d1">73.28730158730158</data>
+</edge>
+<edge source="brunnstrom_jonathan" target="jonathan_landay">
+  <data key="d1">44.68888888888888</data>
+</edge>
+<edge source="brunnstrom_jonathan" target="david_brunnstrom">
+  <data key="d1">44.68888888888888</data>
+</edge>
+<edge source="bruno" target="kelly">
+  <data key="d1">65.17424242424244</data>
+</edge>
+<edge source="bruno" target="paulo">
+  <data key="d1">65.17424242424244</data>
+</edge>
+<edge source="kelly" target="manaus">
+  <data key="d1">65.17424242424244</data>
+</edge>
+<edge source="bruno_kelly" target="kelly_manaus">
+  <data key="d1">65.17424242424244</data>
+</edge>
+<edge source="bruno_kelly" target="paulo_bruno">
+  <data key="d1">65.17424242424244</data>
+</edge>
+<edge source="kelly_manaus" target="manaus_additional">
+  <data key="d1">65.17424242424244</data>
+</edge>
+<edge source="buckley" target="sarah">
+  <data key="d1">47.0</data>
+</edge>
+<edge source="buckley" target="madeline">
+  <data key="d1">47.0</data>
+</edge>
+<edge source="sarah" target="findell">
+  <data key="d1">43.332372462011186</data>
+</edge>
+<edge source="sarah" target="nassauer">
+  <data key="d1">129.99711738603352</data>
+</edge>
+<edge source="sarah" target="freishtat">
+  <data key="d1">47.0</data>
+</edge>
+<edge source="sarah" target="morland">
+  <data key="d1">44.333333333333336</data>
+</edge>
+<edge source="sarah" target="nassauer_">
+  <data key="d1">43.332372462011186</data>
+</edge>
+<edge source="buckley_sarah" target="sarah_freishtat">
+  <data key="d1">47.0</data>
+</edge>
+<edge source="buckley_sarah" target="madeline_buckley">
+  <data key="d1">47.0</data>
+</edge>
+<edge source="sarah_freishtat" target="freishtat_stacy">
+  <data key="d1">47.0</data>
+</edge>
+<edge source="business" target="facts">
+  <data key="d1">44.266666666666666</data>
+</edge>
+<edge source="business" target="tests">
+  <data key="d1">35.57412280701755</data>
+</edge>
+<edge source="business" target="latest">
+  <data key="d1">35.57412280701755</data>
+</edge>
+<edge source="business" target="live">
+  <data key="d1">44.266666666666666</data>
+</edge>
+<edge source="facts" target="espa챰ol">
+  <data key="d1">79.84078947368421</data>
+</edge>
+<edge source="facts" target="lockdowns">
+  <data key="d1">35.57412280701755</data>
+</edge>
+<edge source="tests" target="treatment">
+  <data key="d1">79.84078947368421</data>
+</edge>
+<edge source="tests" target="virus">
+  <data key="d1">44.266666666666666</data>
+</edge>
+<edge source="business_" target="latest_business">
+  <data key="d1">35.57412280701755</data>
+</edge>
+<edge source="business_facts" target="facts_espa챰ol">
+  <data key="d1">44.266666666666666</data>
+</edge>
+<edge source="facts_espa챰ol" target="espa챰ol_credit">
+  <data key="d1">44.266666666666666</data>
+</edge>
+<edge source="facts_espa챰ol" target="espa챰ol_write">
+  <data key="d1">35.57412280701755</data>
+</edge>
+<edge source="facts_espa챰ol" target="lockdowns_facts">
+  <data key="d1">35.57412280701755</data>
+</edge>
+<edge source="businesses" target="defy">
+  <data key="d1">42.09170159746867</data>
+</edge>
+<edge source="businesses" target="texas">
+  <data key="d1">42.09170159746867</data>
+</edge>
+<edge source="defy" target="shutdown">
+  <data key="d1">42.09170159746867</data>
+</edge>
+<edge source="defy" target="virus">
+  <data key="d1">77.3842177978796</data>
+</edge>
+<edge source="defy" target="plan">
+  <data key="d1">77.3842177978796</data>
+</edge>
+<edge source="businesses_defy" target="defy_shutdown">
+  <data key="d1">42.09170159746867</data>
+</edge>
+<edge source="defy_shutdown" target="shutdown_">
+  <data key="d1">42.09170159746867</data>
+</edge>
+<edge source="cabrera" target="paris">
+  <data key="d1">36.58333333333333</data>
+</edge>
+<edge source="cabrera" target="michaela">
+  <data key="d1">36.58333333333333</data>
+</edge>
+<edge source="paris" target="elisa">
+  <data key="d1">36.58333333333333</data>
+</edge>
+<edge source="paris" target="university">
+  <data key="d1">38.0</data>
+</edge>
+<edge source="cabrera_paris" target="paris_elisa">
+  <data key="d1">36.58333333333333</data>
+</edge>
+<edge source="cabrera_paris" target="michaela_cabrera">
+  <data key="d1">36.58333333333333</data>
+</edge>
+<edge source="paris_elisa" target="elisa_anzolin">
+  <data key="d1">36.58333333333333</data>
+</edge>
+<edge source="caitlin" target="mccabe">
+  <data key="d1">43.1671258764033</data>
+</edge>
+<edge source="caitlin" target="ostroff">
+  <data key="d1">38.86009038785578</data>
+</edge>
+<edge source="caitlin" target="credit">
+  <data key="d1">49.194011062532475</data>
+</edge>
+<edge source="calfas" target="jennifer">
+  <data key="d1">414.77925308090346</data>
+</edge>
+<edge source="calfas" target="matthew">
+  <data key="d1">79.6009831154288</data>
+</edge>
+<edge source="calfas" target="nick">
+  <data key="d1">44.282862363097514</data>
+</edge>
+<edge source="calfas" target="calfas_jennifer">
+  <data key="d1">203.0619299628951</data>
+</edge>
+<edge source="jennifer" target="credit">
+  <data key="d1">211.71732311800835</data>
+</edge>
+<edge source="jennifer" target="calfas_">
+  <data key="d1">203.0619299628951</data>
+</edge>
+<edge source="matthew" target="dalton">
+  <data key="d1">234.369418711188</data>
+</edge>
+<edge source="matthew" target="dalton_">
+  <data key="d1">77.3842177978796</data>
+</edge>
+<edge source="nick" target="kostov">
+  <data key="d1">206.70902734816502</data>
+</edge>
+<edge source="nick" target="kostov_">
+  <data key="d1">68.17262219417874</data>
+</edge>
+<edge source="calfas_jennifer" target="write_calfas">
+  <data key="d1">203.0619299628951</data>
+</edge>
+<edge source="calfas_matthew" target="matthew_dalton">
+  <data key="d1">79.6009831154288</data>
+</edge>
+<edge source="calfas_matthew" target="jennifer_calfas">
+  <data key="d1">79.6009831154288</data>
+</edge>
+<edge source="matthew_dalton" target="com_matthew">
+  <data key="d1">77.3842177978796</data>
+</edge>
+<edge source="matthew_dalton" target="dalton_matthew">
+  <data key="d1">77.3842177978796</data>
+</edge>
+<edge source="calfas_nick" target="nick_kostov">
+  <data key="d1">44.282862363097514</data>
+</edge>
+<edge source="calfas_nick" target="jennifer_calfas">
+  <data key="d1">44.282862363097514</data>
+</edge>
+<edge source="nick_kostov" target="com_nick">
+  <data key="d1">68.17262219417874</data>
+</edge>
+<edge source="nick_kostov" target="kostov_nick">
+  <data key="d1">68.17262219417874</data>
+</edge>
+<edge source="cameron" target="moore">
+  <data key="d1">49.09642857142858</data>
+</edge>
+<edge source="cameron" target="simon">
+  <data key="d1">49.09642857142858</data>
+</edge>
+<edge source="moore" target="simon_cameron">
+  <data key="d1">49.09642857142858</data>
+</edge>
+<edge source="can_help" target="help_empty">
+  <data key="d1">51.5</data>
+</edge>
+<edge source="can_help" target="rye_can">
+  <data key="d1">51.5</data>
+</edge>
+<edge source="help_empty" target="empty_hotels">
+  <data key="d1">51.5</data>
+</edge>
+<edge source="capacity" target="country">
+  <data key="d1">39.5</data>
+</edge>
+<edge source="capacity" target="pence">
+  <data key="d1">39.5</data>
+</edge>
+<edge source="country" target="country">
+  <data key="d1">130.34848484848487</data>
+</edge>
+<edge source="country" target="country_">
+  <data key="d1">65.17424242424244</data>
+</edge>
+<edge source="country" target="graphics">
+  <data key="d1">65.17424242424244</data>
+</edge>
+<edge source="country" target="power">
+  <data key="d1">38.0</data>
+</edge>
+<edge source="country" target="today">
+  <data key="d1">39.5</data>
+</edge>
+<edge source="country" target="msci">
+  <data key="d1">65.38888888888889</data>
+</edge>
+<edge source="country" target="tracker">
+  <data key="d1">65.17424242424244</data>
+</edge>
+<edge source="country" target="tracker_country">
+  <data key="d1">65.17424242424244</data>
+</edge>
+<edge source="capacity_country" target="country_today">
+  <data key="d1">39.5</data>
+</edge>
+<edge source="capacity_country" target="pence_capacity">
+  <data key="d1">39.5</data>
+</edge>
+<edge source="country_today" target="today_state">
+  <data key="d1">39.5</data>
+</edge>
+<edge source="photo" target="conran">
+  <data key="d1">47.0</data>
+</edge>
+<edge source="photo" target="family">
+  <data key="d1">109.0</data>
+</edge>
+<edge source="photo" target="oduca">
+  <data key="d1">54.5</data>
+</edge>
+<edge source="photo" target="john">
+  <data key="d1">54.5</data>
+</edge>
+<edge source="photo" target="josephine">
+  <data key="d1">54.5</data>
+</edge>
+<edge source="photo" target="luis">
+  <data key="d1">54.5</data>
+</edge>
+<edge source="photo" target="maria">
+  <data key="d1">47.0</data>
+</edge>
+<edge source="photo" target="morris">
+  <data key="d1">54.5</data>
+</edge>
+<edge source="photo" target="patricia">
+  <data key="d1">47.0</data>
+</edge>
+<edge source="photo" target="patrick">
+  <data key="d1">47.0</data>
+</edge>
+<edge source="photo" target="photo">
+  <data key="d1">109.0</data>
+</edge>
+<edge source="photo" target="yanni">
+  <data key="d1">47.0</data>
+</edge>
+<edge source="photo_john" target="john_larry">
+  <data key="d1">54.5</data>
+</edge>
+<edge source="robert" target="birsel">
+  <data key="d1">44.28733766233767</data>
+</edge>
+<edge source="robert" target="muller">
+  <data key="d1">51.22222222222222</data>
+</edge>
+<edge source="robert_muller" target="muller_prague">
+  <data key="d1">51.22222222222222</data>
+</edge>
+<edge source="catcher" target="rye">
+  <data key="d1">51.5</data>
+</edge>
+<edge source="catcher" target="reads">
+  <data key="d1">51.5</data>
+</edge>
+<edge source="rye" target="help">
+  <data key="d1">51.5</data>
+</edge>
+<edge source="catcher_rye" target="rye_can">
+  <data key="d1">51.5</data>
+</edge>
+<edge source="catcher_rye" target="reads_catcher">
+  <data key="d1">51.5</data>
+</edge>
+<edge source="north" target="day">
+  <data key="d1">41.713319151866536</data>
+</edge>
+<edge source="north" target="disappears">
+  <data key="d1">41.713319151866536</data>
+</edge>
+<edge source="north" target="kim">
+  <data key="d1">41.713319151866536</data>
+</edge>
+<edge source="north" target="leader">
+  <data key="d1">41.713319151866536</data>
+</edge>
+<edge source="north" target="watchers">
+  <data key="d1">41.713319151866536</data>
+</edge>
+<edge source="cavale" target="shanima">
+  <data key="d1">39.73809523809524</data>
+</edge>
+<edge source="cavale" target="siddharth">
+  <data key="d1">39.73809523809524</data>
+</edge>
+<edge source="cavale_shanima" target="shanima_a">
+  <data key="d1">39.73809523809524</data>
+</edge>
+<edge source="cavale_shanima" target="siddharth_cavale">
+  <data key="d1">39.73809523809524</data>
+</edge>
+<edge source="cha" target="sangmi">
+  <data key="d1">109.220670995671</data>
+</edge>
+<edge source="cherry" target="raleigh">
+  <data key="d1">51.22222222222222</data>
+</edge>
+<edge source="cherry" target="gene">
+  <data key="d1">51.22222222222222</data>
+</edge>
+<edge source="raleigh" target="frank">
+  <data key="d1">51.22222222222222</data>
+</edge>
+<edge source="cherry_raleigh" target="raleigh_frank">
+  <data key="d1">51.22222222222222</data>
+</edge>
+<edge source="cherry_raleigh" target="gene_cherry">
+  <data key="d1">51.22222222222222</data>
+</edge>
+<edge source="raleigh_frank" target="frank_pingue">
+  <data key="d1">51.22222222222222</data>
+</edge>
+<edge source="china" target="health">
+  <data key="d1">195.52272727272728</data>
+</edge>
+<edge source="china" target="trump">
+  <data key="d1">67.66666666666666</data>
+</edge>
+<edge source="health" target="fauci">
+  <data key="d1">77.3842177978796</data>
+</edge>
+<edge source="health" target="map">
+  <data key="d1">195.52272727272728</data>
+</edge>
+<edge source="health" target="officials">
+  <data key="d1">77.3842177978796</data>
+</edge>
+<edge source="china_bat" target="solomon">
+  <data key="d1">51.514629240320595</data>
+</edge>
+<edge source="chiu" target="chiu_joanne">
+  <data key="d1">96.59038532213154</data>
+</edge>
+<edge source="chong" target="koh">
+  <data key="d1">122.80014016053828</data>
+</edge>
+<edge source="koh" target="elizabeth">
+  <data key="d1">37.613241164623865</data>
+</edge>
+<edge source="koh" target="ping">
+  <data key="d1">56.418992386033544</data>
+</edge>
+<edge source="chong_koh" target="koh_ping">
+  <data key="d1">56.418992386033544</data>
+</edge>
+<edge source="chong_koh" target="com_chong">
+  <data key="d1">56.418992386033544</data>
+</edge>
+<edge source="koh_ping" target="ping_">
+  <data key="d1">56.418992386033544</data>
+</edge>
+<edge source="christian" target="schmollinger">
+  <data key="d1">58.851190476190474</data>
+</edge>
+<edge source="schmollinger" target="naveen_thukral">
+  <data key="d1">36.58333333333333</data>
+</edge>
+<edge source="christopher" target="weaver">
+  <data key="d1">54.85701754385964</data>
+</edge>
+<edge source="chuin" target="wei">
+  <data key="d1">99.8994303242352</data>
+</edge>
+<edge source="chuin" target="wei_yap">
+  <data key="d1">99.8994303242352</data>
+</edge>
+<edge source="wei" target="com_chuin">
+  <data key="d1">49.9497151621176</data>
+</edge>
+<edge source="wei" target="yap">
+  <data key="d1">99.8994303242352</data>
+</edge>
+<edge source="wei_yap" target="yap_">
+  <data key="d1">49.9497151621176</data>
+</edge>
+<edge source="chun" target="han">
+  <data key="d1">100.02444232346107</data>
+</edge>
+<edge source="han" target="wong">
+  <data key="d1">100.02444232346107</data>
+</edge>
+<edge source="chun_han" target="han_wong">
+  <data key="d1">100.02444232346107</data>
+</edge>
+<edge source="chun_han" target="com_chun">
+  <data key="d1">39.206327912349316</data>
+</edge>
+<edge source="han_wong" target="wong_">
+  <data key="d1">46.3349484344578</data>
+</edge>
+<edge source="chung" target="seoul">
+  <data key="d1">76.32142857142857</data>
+</edge>
+<edge source="chung" target="jane">
+  <data key="d1">95.39285714285712</data>
+</edge>
+<edge source="seoul" target="jin">
+  <data key="d1">47.56277056277056</data>
+</edge>
+<edge source="seoul" target="matt">
+  <data key="d1">44.68888888888888</data>
+</edge>
+<edge source="seoul" target="writing">
+  <data key="d1">74.97186147186147</data>
+</edge>
+<edge source="seoul" target="yuka">
+  <data key="d1">36.58333333333333</data>
+</edge>
+<edge source="seoul" target="yang">
+  <data key="d1">44.68888888888888</data>
+</edge>
+<edge source="seoul" target="yoon">
+  <data key="d1">36.033309247002386</data>
+</edge>
+<edge source="chung_seoul" target="seoul_writing">
+  <data key="d1">39.73809523809524</data>
+</edge>
+<edge source="chung_seoul" target="seoul_yuka">
+  <data key="d1">36.58333333333333</data>
+</edge>
+<edge source="chung_seoul" target="jane_chung">
+  <data key="d1">76.32142857142857</data>
+</edge>
+<edge source="seoul_writing" target="jin_seoul">
+  <data key="d1">35.233766233766225</data>
+</edge>
+<edge source="seoul_writing" target="writing_devjyot">
+  <data key="d1">74.97186147186147</data>
+</edge>
+<edge source="seoul_yuka" target="yuka_obayashi">
+  <data key="d1">36.58333333333333</data>
+</edge>
+<edge source="clair" target="st">
+  <data key="d1">47.0</data>
+</edge>
+<edge source="cold" target="summer">
+  <data key="d1">67.66666666666666</data>
+</edge>
+<edge source="cold" target="record">
+  <data key="d1">67.66666666666666</data>
+</edge>
+<edge source="summer" target="heat">
+  <data key="d1">67.66666666666666</data>
+</edge>
+<edge source="cold_summer" target="summer_heat">
+  <data key="d1">67.66666666666666</data>
+</edge>
+<edge source="cold_summer" target="record_cold">
+  <data key="d1">67.66666666666666</data>
+</edge>
+<edge source="summer_heat" target="heat_week">
+  <data key="d1">67.66666666666666</data>
+</edge>
+<edge source="credit" target="ian">
+  <data key="d1">43.332372462011186</data>
+</edge>
+<edge source="credit" target="kate">
+  <data key="d1">55.121327804913925</data>
+</edge>
+<edge source="credit" target="kathryn">
+  <data key="d1">51.5</data>
+</edge>
+<edge source="credit" target="madeline">
+  <data key="d1">47.0</data>
+</edge>
+<edge source="credit" target="niharika">
+  <data key="d1">85.78820341616951</data>
+</edge>
+<edge source="credit" target="paul">
+  <data key="d1">81.18874200930402</data>
+</edge>
+<edge source="credit" target="staff">
+  <data key="d1">43.8</data>
+</edge>
+<edge source="credit" target="timothy">
+  <data key="d1">81.57002194471659</data>
+</edge>
+<edge source="credit" target="dalton">
+  <data key="d1">77.3842177978796</data>
+</edge>
+<edge source="credit" target="espa챰ol">
+  <data key="d1">44.266666666666666</data>
+</edge>
+<edge source="credit" target="findell">
+  <data key="d1">57.77324561403509</data>
+</edge>
+<edge source="credit" target="kostov">
+  <data key="d1">68.17262219417874</data>
+</edge>
+<edge source="credit" target="lopez">
+  <data key="d1">47.0</data>
+</edge>
+<edge source="credit" target="oduca">
+  <data key="d1">54.5</data>
+</edge>
+<edge source="credit" target="read">
+  <data key="d1">51.5</data>
+</edge>
+<edge source="dasl" target="yoon">
+  <data key="d1">123.22820452241014</data>
+</edge>
+<edge source="dasl" target="yoon_">
+  <data key="d1">61.61410226120507</data>
+</edge>
+<edge source="dasl" target="rome">
+  <data key="d1">36.033309247002386</data>
+</edge>
+<edge source="elizabeth" target="findell">
+  <data key="d1">202.2112361520925</data>
+</edge>
+<edge source="elizabeth" target="findell_">
+  <data key="d1">101.10561807604626</data>
+</edge>
+<edge source="elizabeth" target="lovett">
+  <data key="d1">43.332372462011186</data>
+</edge>
+<edge source="elizabeth" target="siddiqui">
+  <data key="d1">51.14824561403509</data>
+</edge>
+<edge source="feliz" target="solomon">
+  <data key="d1">106.22016757155028</data>
+</edge>
+<edge source="feliz" target="mandhana">
+  <data key="d1">54.70553833122969</data>
+</edge>
+<edge source="frances" target="yoon">
+  <data key="d1">85.50405154464589</data>
+</edge>
+<edge source="frances" target="yoon_">
+  <data key="d1">42.752025772322945</data>
+</edge>
+<edge source="phred" target="dvorak">
+  <data key="d1">126.70430264720129</data>
+</edge>
+<edge source="phred" target="dvorak_">
+  <data key="d1">42.2347675490671</data>
+</edge>
+<edge source="sabrina" target="siddiqui">
+  <data key="d1">102.29649122807018</data>
+</edge>
+<edge source="sabrina" target="siddiqui_">
+  <data key="d1">51.14824561403509</data>
+</edge>
+<edge source="com_credit" target="credit_anna">
+  <data key="d1">51.40641159068902</data>
+</edge>
+<edge source="com_credit" target="credit_avantika">
+  <data key="d1">39.43405740978221</data>
+</edge>
+<edge source="com_credit" target="credit_caitlin">
+  <data key="d1">41.013608132129555</data>
+</edge>
+<edge source="com_credit" target="credit_ian">
+  <data key="d1">43.332372462011186</data>
+</edge>
+<edge source="com_credit" target="credit_niharika">
+  <data key="d1">68.37922874528584</data>
+</edge>
+<edge source="com_credit" target="credit_paul">
+  <data key="d1">57.49648010454211</data>
+</edge>
+<edge source="com_credit" target="credit_talal">
+  <data key="d1">47.26391358325737</data>
+</edge>
+<edge source="com_credit" target="credit_timothy">
+  <data key="d1">72.33232441474958</data>
+</edge>
+<edge source="credit_ian" target="ian_lovett">
+  <data key="d1">43.332372462011186</data>
+</edge>
+<edge source="credit_niharika" target="niharika_mandhana">
+  <data key="d1">85.78820341616951</data>
+</edge>
+<edge source="credit_paul" target="paul_hannon">
+  <data key="d1">56.38577653390321</data>
+</edge>
+<edge source="credit_talal" target="talal_ansari">
+  <data key="d1">86.73130151330976</data>
+</edge>
+<edge source="credit_timothy" target="timothy_w">
+  <data key="d1">81.57002194471659</data>
+</edge>
+<edge source="com_dasl" target="dasl_yoon">
+  <data key="d1">35.64047440619021</data>
+</edge>
+<edge source="dasl_yoon" target="yoon_dasl">
+  <data key="d1">61.61410226120507</data>
+</edge>
+<edge source="dasl_yoon" target="yoon_seoul">
+  <data key="d1">36.033309247002386</data>
+</edge>
+<edge source="dasl_yoon" target="rome_dasl">
+  <data key="d1">36.033309247002386</data>
+</edge>
+<edge source="com_elizabeth" target="elizabeth_findell">
+  <data key="d1">94.48061807604624</data>
+</edge>
+<edge source="elizabeth_findell" target="findell_elizabeth">
+  <data key="d1">101.10561807604626</data>
+</edge>
+<edge source="elizabeth_findell" target="findell_sarah">
+  <data key="d1">43.332372462011186</data>
+</edge>
+<edge source="elizabeth_findell" target="lovett_elizabeth">
+  <data key="d1">43.332372462011186</data>
+</edge>
+<edge source="elizabeth_findell" target="siddiqui_elizabeth">
+  <data key="d1">51.14824561403509</data>
+</edge>
+<edge source="com_feliz" target="feliz_solomon">
+  <data key="d1">51.514629240320595</data>
+</edge>
+<edge source="feliz_solomon" target="solomon_">
+  <data key="d1">51.514629240320595</data>
+</edge>
+<edge source="feliz_solomon" target="mandhana_feliz">
+  <data key="d1">54.70553833122969</data>
+</edge>
+<edge source="com_frances" target="frances_yoon">
+  <data key="d1">42.752025772322945</data>
+</edge>
+<edge source="frances_yoon" target="yoon_frances">
+  <data key="d1">42.752025772322945</data>
+</edge>
+<edge source="com_phred" target="phred_dvorak">
+  <data key="d1">42.2347675490671</data>
+</edge>
+<edge source="phred_dvorak" target="dvorak_phred">
+  <data key="d1">42.2347675490671</data>
+</edge>
+<edge source="com_sabrina" target="sabrina_siddiqui">
+  <data key="d1">51.14824561403509</data>
+</edge>
+<edge source="sabrina_siddiqui" target="siddiqui_elizabeth">
+  <data key="d1">51.14824561403509</data>
+</edge>
+<edge source="sabrina_siddiqui" target="siddiqui_sabrina">
+  <data key="d1">51.14824561403509</data>
+</edge>
+<edge source="com_sarah" target="sarah_nassauer">
+  <data key="d1">43.332372462011186</data>
+</edge>
+<edge source="sarah_nassauer" target="findell_sarah">
+  <data key="d1">43.332372462011186</data>
+</edge>
+<edge source="sarah_nassauer" target="nassauer_sarah">
+  <data key="d1">43.332372462011186</data>
+</edge>
+<edge source="comfort" target="reads">
+  <data key="d1">51.5</data>
+</edge>
+<edge source="comfort" target="list">
+  <data key="d1">51.5</data>
+</edge>
+<edge source="companies" target="warn">
+  <data key="d1">51.514629240320595</data>
+</edge>
+<edge source="warn" target="dire">
+  <data key="d1">51.514629240320595</data>
+</edge>
+<edge source="warn_dire" target="dire_disruptions">
+  <data key="d1">51.514629240320595</data>
+</edge>
+<edge source="congress" target="protective">
+  <data key="d1">77.3842177978796</data>
+</edge>
+<edge source="congress" target="orders">
+  <data key="d1">77.3842177978796</data>
+</edge>
+<edge source="protective" target="gear">
+  <data key="d1">77.3842177978796</data>
+</edge>
+<edge source="protective" target="gear_supplier">
+  <data key="d1">77.3842177978796</data>
+</edge>
+<edge source="gear" target="supplier">
+  <data key="d1">77.3842177978796</data>
+</edge>
+<edge source="conran" target="patrick">
+  <data key="d1">47.0</data>
+</edge>
+<edge source="conran_photo" target="photo_maria">
+  <data key="d1">47.0</data>
+</edge>
+<edge source="conran_photo" target="patrick_conran">
+  <data key="d1">47.0</data>
+</edge>
+<edge source="photo_maria" target="maria_lopez">
+  <data key="d1">47.0</data>
+</edge>
+<edge source="counties" target="plan">
+  <data key="d1">77.3842177978796</data>
+</edge>
+<edge source="counties" target="threatens">
+  <data key="d1">77.3842177978796</data>
+</edge>
+<edge source="counties_plan" target="plan_defy">
+  <data key="d1">77.3842177978796</data>
+</edge>
+<edge source="counties_plan" target="threatens_counties">
+  <data key="d1">77.3842177978796</data>
+</edge>
+<edge source="plan_defy" target="defy_virus">
+  <data key="d1">77.3842177978796</data>
+</edge>
+<edge source="country_" target="graphics">
+  <data key="d1">65.17424242424244</data>
+</edge>
+<edge source="graphics" target="reuters">
+  <data key="d1">195.52272727272728</data>
+</edge>
+<edge source="graphics" target="html">
+  <data key="d1">65.17424242424244</data>
+</edge>
+<edge source="power" target="pointer">
+  <data key="d1">38.0</data>
+</edge>
+<edge source="power" target="way">
+  <data key="d1">38.0</data>
+</edge>
+<edge source="power" target="vision">
+  <data key="d1">38.0</data>
+</edge>
+<edge source="today" target="state">
+  <data key="d1">39.5</data>
+</edge>
+<edge source="today" target="weather">
+  <data key="d1">52.0</data>
+</edge>
+<edge source="today" target="usa">
+  <data key="d1">57.125</data>
+</edge>
+<edge source="country_power" target="power_way">
+  <data key="d1">38.0</data>
+</edge>
+<edge source="country_power" target="outbreak">
+  <data key="d1">38.0</data>
+</edge>
+<edge source="power_way" target="way_jean">
+  <data key="d1">38.0</data>
+</edge>
+<edge source="today_state" target="state_america">
+  <data key="d1">39.5</data>
+</edge>
+<edge source="coverage" target="kim">
+  <data key="d1">41.713319151866536</data>
+</edge>
+<edge source="kim" target="cynthia">
+  <data key="d1">47.49166666666666</data>
+</edge>
+<edge source="kim" target="jack">
+  <data key="d1">44.349206349206355</data>
+</edge>
+<edge source="kim" target="hyunjoo">
+  <data key="d1">39.73809523809524</data>
+</edge>
+<edge source="kim" target="jong">
+  <data key="d1">95.12663830373309</data>
+</edge>
+<edge source="kim" target="sight">
+  <data key="d1">41.713319151866536</data>
+</edge>
+<edge source="kim" target="leader">
+  <data key="d1">41.713319151866536</data>
+</edge>
+<edge source="kim" target="mr">
+  <data key="d1">54.5</data>
+</edge>
+<edge source="craig" target="karmin">
+  <data key="d1">47.349122807017544</data>
+</edge>
+<edge source="crash" target="fixes">
+  <data key="d1">39.703205795344516</data>
+</edge>
+<edge source="crash_fixes" target="fixes_bolstered">
+  <data key="d1">39.703205795344516</data>
+</edge>
+<edge source="crash_fixes" target="flash_crash">
+  <data key="d1">39.703205795344516</data>
+</edge>
+<edge source="ian" target="lovett">
+  <data key="d1">86.66474492402237</data>
+</edge>
+<edge source="kate" target="davidson">
+  <data key="d1">80.02368421052631</data>
+</edge>
+<edge source="kate" target="keeffe">
+  <data key="d1">92.72778279308163</data>
+</edge>
+<edge source="kathryn" target="okeeffe">
+  <data key="d1">53.067344089154986</data>
+</edge>
+<edge source="kathryn" target="okeeffe_">
+  <data key="d1">53.067344089154986</data>
+</edge>
+<edge source="kathryn" target="shea">
+  <data key="d1">51.5</data>
+</edge>
+<edge source="kathryn" target="keeffe">
+  <data key="d1">53.067344089154986</data>
+</edge>
+<edge source="niharika" target="mandhana">
+  <data key="d1">154.16743216145534</data>
+</edge>
+<edge source="paul" target="deanna">
+  <data key="d1">35.574748964980905</data>
+</edge>
+<edge source="paul" target="hannon">
+  <data key="d1">128.30018674456676</data>
+</edge>
+<edge source="paul" target="hannon_">
+  <data key="d1">35.95720510533179</data>
+</edge>
+<edge source="paul" target="vigna">
+  <data key="d1">39.67819508026913</data>
+</edge>
+<edge source="staff" target="news">
+  <data key="d1">43.8</data>
+</edge>
+<edge source="timothy" target="martin">
+  <data key="d1">276.25384578914594</data>
+</edge>
+<edge source="timothy" target="rocha">
+  <data key="d1">39.73809523809524</data>
+</edge>
+<edge source="timothy" target="heritage">
+  <data key="d1">41.23809523809524</data>
+</edge>
+<edge source="timothy" target="martin_">
+  <data key="d1">83.61352182381039</data>
+</edge>
+<edge source="credit_blair" target="oduca_credit">
+  <data key="d1">54.5</data>
+</edge>
+<edge source="ian_lovett" target="lovett_">
+  <data key="d1">43.332372462011186</data>
+</edge>
+<edge source="ian_lovett" target="lovett_elizabeth">
+  <data key="d1">43.332372462011186</data>
+</edge>
+<edge source="credit_kathryn" target="kathryn_o">
+  <data key="d1">51.5</data>
+</edge>
+<edge source="credit_kathryn" target="read_credit">
+  <data key="d1">51.5</data>
+</edge>
+<edge source="kathryn_o" target="shea">
+  <data key="d1">51.5</data>
+</edge>
+<edge source="credit_madeline" target="madeline_buckley">
+  <data key="d1">47.0</data>
+</edge>
+<edge source="credit_madeline" target="lopez_credit">
+  <data key="d1">47.0</data>
+</edge>
+<edge source="niharika_mandhana" target="mandhana_">
+  <data key="d1">68.37922874528584</data>
+</edge>
+<edge source="niharika_mandhana" target="mandhana_feliz">
+  <data key="d1">54.70553833122969</data>
+</edge>
+<edge source="niharika_mandhana" target="write_niharika">
+  <data key="d1">68.37922874528584</data>
+</edge>
+<edge source="paul_hannon" target="hannon_paul">
+  <data key="d1">35.95720510533179</data>
+</edge>
+<edge source="paul_hannon" target="write_paul">
+  <data key="d1">35.95720510533179</data>
+</edge>
+<edge source="credit_rebecca" target="rebecca_ballhaus">
+  <data key="d1">46.300000000000004</data>
+</edge>
+<edge source="credit_rebecca" target="espa챰ol_credit">
+  <data key="d1">44.266666666666666</data>
+</edge>
+<edge source="credit_staff" target="staff_news">
+  <data key="d1">43.8</data>
+</edge>
+<edge source="staff_news" target="news_service">
+  <data key="d1">43.8</data>
+</edge>
+<edge source="talal_ansari" target="write_talal">
+  <data key="d1">80.87476742240067</data>
+</edge>
+<edge source="timothy_w" target="write_timothy">
+  <data key="d1">72.33232441474958</data>
+</edge>
+<edge source="currency" target="dollar">
+  <data key="d1">65.38888888888889</data>
+</edge>
+<edge source="currency_dollar" target="dollar_graphic">
+  <data key="d1">65.38888888888889</data>
+</edge>
+<edge source="dollar_graphic" target="graphic_market">
+  <data key="d1">65.38888888888889</data>
+</edge>
+<edge source="cynthia" target="osterman">
+  <data key="d1">48.05555555555556</data>
+</edge>
+<edge source="cynthia" target="oatis">
+  <data key="d1">48.05555555555556</data>
+</edge>
+<edge source="dalton" target="fauci_top">
+  <data key="d1">77.3842177978796</data>
+</edge>
+<edge source="dalton" target="dalton_matthew">
+  <data key="d1">77.3842177978796</data>
+</edge>
+<edge source="fauci_top" target="top_health">
+  <data key="d1">77.3842177978796</data>
+</edge>
+<edge source="dan" target="frosch">
+  <data key="d1">53.84843317550722</data>
+</edge>
+<edge source="dan" target="levin">
+  <data key="d1">41.82222222222222</data>
+</edge>
+<edge source="daniela" target="hernandez">
+  <data key="d1">42.6498326433206</data>
+</edge>
+<edge source="yoon" target="yoon_dasl">
+  <data key="d1">61.61410226120507</data>
+</edge>
+<edge source="yoon" target="yoon_frances">
+  <data key="d1">42.752025772322945</data>
+</edge>
+<edge source="david" target="hodari">
+  <data key="d1">46.232738626226585</data>
+</edge>
+<edge source="david" target="hosenball">
+  <data key="d1">44.68888888888888</data>
+</edge>
+<edge source="david_brunnstrom" target="hosenball_david">
+  <data key="d1">44.68888888888888</data>
+</edge>
+<edge source="day" target="sight">
+  <data key="d1">41.713319151866536</data>
+</edge>
+<edge source="day_" target="sight_day">
+  <data key="d1">41.713319151866536</data>
+</edge>
+<edge source="dead" target="il">
+  <data key="d1">41.713319151866536</data>
+</edge>
+<edge source="dead_write" target="write_timothy">
+  <data key="d1">41.713319151866536</data>
+</edge>
+<edge source="dead_write" target="il_dead">
+  <data key="d1">41.713319151866536</data>
+</edge>
+<edge source="shutdown" target="emerge">
+  <data key="d1">39.5</data>
+</edge>
+<edge source="shutdown" target="drugmakers">
+  <data key="d1">42.09170159746867</data>
+</edge>
+<edge source="shutdown" target="mr">
+  <data key="d1">39.5</data>
+</edge>
+<edge source="shutdown" target="orders">
+  <data key="d1">77.3842177978796</data>
+</edge>
+<edge source="shutdown" target="virus">
+  <data key="d1">77.3842177978796</data>
+</edge>
+<edge source="virus" target="source">
+  <data key="d1">51.514629240320595</data>
+</edge>
+<edge source="virus" target="latest">
+  <data key="d1">35.57412280701755</data>
+</edge>
+<edge source="virus" target="trump">
+  <data key="d1">51.514629240320595</data>
+</edge>
+<edge source="defy_virus" target="virus_shutdown">
+  <data key="d1">77.3842177978796</data>
+</edge>
+<edge source="virus_shutdown" target="shutdown_orders">
+  <data key="d1">77.3842177978796</data>
+</edge>
+<edge source="deluxe" target="service">
+  <data key="d1">51.5</data>
+</edge>
+<edge source="deluxe" target="offering">
+  <data key="d1">51.5</data>
+</edge>
+<edge source="service" target="news">
+  <data key="d1">43.8</data>
+</edge>
+<edge source="service" target="potter">
+  <data key="d1">51.5</data>
+</edge>
+<edge source="deluxe_service" target="service_">
+  <data key="d1">51.5</data>
+</edge>
+<edge source="deluxe_service" target="offering_deluxe">
+  <data key="d1">51.5</data>
+</edge>
+<edge source="demand" target="slowly">
+  <data key="d1">39.703205795344516</data>
+</edge>
+<edge source="demand" target="rise">
+  <data key="d1">39.703205795344516</data>
+</edge>
+<edge source="slowly" target="returns">
+  <data key="d1">39.703205795344516</data>
+</edge>
+<edge source="demand_slowly" target="slowly_returns">
+  <data key="d1">39.703205795344516</data>
+</edge>
+<edge source="demand_slowly" target="rise_demand">
+  <data key="d1">39.703205795344516</data>
+</edge>
+<edge source="slowly_returns" target="returns_">
+  <data key="d1">39.703205795344516</data>
+</edge>
+<edge source="democrats" target="release">
+  <data key="d1">77.3842177978796</data>
+</edge>
+<edge source="democrats" target="house">
+  <data key="d1">77.3842177978796</data>
+</edge>
+<edge source="release" target="trillion">
+  <data key="d1">77.3842177978796</data>
+</edge>
+<edge source="democrats_release" target="release_trillion">
+  <data key="d1">77.3842177978796</data>
+</edge>
+<edge source="release_trillion" target="trillion_bill">
+  <data key="d1">77.3842177978796</data>
+</edge>
+<edge source="devjyot" target="ghoshal">
+  <data key="d1">74.97186147186147</data>
+</edge>
+<edge source="devjyot" target="writing">
+  <data key="d1">74.97186147186147</data>
+</edge>
+<edge source="devjyot_ghoshal" target="ghoshal_editing">
+  <data key="d1">52.15043290043289</data>
+</edge>
+<edge source="devjyot_ghoshal" target="writing_devjyot">
+  <data key="d1">74.97186147186147</data>
+</edge>
+<edge source="ghoshal_editing" target="editing_euan">
+  <data key="d1">52.15043290043289</data>
+</edge>
+<edge source="dion" target="nissenbaum">
+  <data key="d1">41.81474492402236</data>
+</edge>
+<edge source="dire" target="disruptions">
+  <data key="d1">51.514629240320595</data>
+</edge>
+<edge source="dire_disruptions" target="disruptions_write">
+  <data key="d1">51.514629240320595</data>
+</edge>
+<edge source="disruptions_write" target="write_niharika">
+  <data key="d1">51.514629240320595</data>
+</edge>
+<edge source="disappears" target="jong">
+  <data key="d1">41.713319151866536</data>
+</edge>
+<edge source="disappears_north" target="north_watchers">
+  <data key="d1">41.713319151866536</data>
+</edge>
+<edge source="disappears_north" target="un_disappears">
+  <data key="d1">41.713319151866536</data>
+</edge>
+<edge source="north_watchers" target="watchers_advise">
+  <data key="d1">41.713319151866536</data>
+</edge>
+<edge source="graphic_market" target="market_graphic">
+  <data key="d1">65.38888888888889</data>
+</edge>
+<edge source="donna" target="oduca">
+  <data key="d1">109.0</data>
+</edge>
+<edge source="donna" target="jr">
+  <data key="d1">54.5</data>
+</edge>
+<edge source="donna" target="tapiru">
+  <data key="d1">54.5</data>
+</edge>
+<edge source="oduca_photo" target="photo_luis">
+  <data key="d1">54.5</data>
+</edge>
+<edge source="drugmakers" target="overhaul">
+  <data key="d1">42.09170159746867</data>
+</edge>
+<edge source="overhaul" target="sales">
+  <data key="d1">42.09170159746867</data>
+</edge>
+<edge source="overhaul_sales" target="sales_pitch">
+  <data key="d1">42.09170159746867</data>
+</edge>
+<edge source="dvorak" target="dvorak_phred">
+  <data key="d1">42.2347675490671</data>
+</edge>
+<edge source="dwivedi" target="vinay">
+  <data key="d1">50.016666666666666</data>
+</edge>
+<edge source="ease" target="lockdowns">
+  <data key="d1">43.332372462011186</data>
+</edge>
+<edge source="ease_across" target="lockdowns_ease">
+  <data key="d1">43.332372462011186</data>
+</edge>
+<edge source="easing" target="lockdowns">
+  <data key="d1">77.3842177978796</data>
+</edge>
+<edge source="easing" target="testing">
+  <data key="d1">77.3842177978796</data>
+</edge>
+<edge source="lockdowns" target="house">
+  <data key="d1">77.3842177978796</data>
+</edge>
+<edge source="lockdowns" target="small">
+  <data key="d1">44.266666666666666</data>
+</edge>
+<edge source="lockdowns" target="restrictions">
+  <data key="d1">43.332372462011186</data>
+</edge>
+<edge source="lockdowns" target="state">
+  <data key="d1">79.84078947368421</data>
+</edge>
+<edge source="easing_lockdowns" target="lockdowns_">
+  <data key="d1">77.3842177978796</data>
+</edge>
+<edge source="easing_lockdowns" target="testing_easing">
+  <data key="d1">77.3842177978796</data>
+</edge>
+<edge source="economic" target="recovery">
+  <data key="d1">119.47591939534827</data>
+</edge>
+<edge source="economic" target="pitch">
+  <data key="d1">42.09170159746867</data>
+</edge>
+<edge source="recovery" target="swoosh">
+  <data key="d1">119.47591939534827</data>
+</edge>
+<edge source="recovery_" target="swoosh">
+  <data key="d1">119.47591939534827</data>
+</edge>
+<edge source="euan" target="rocha">
+  <data key="d1">84.05519480519482</data>
+</edge>
+<edge source="hugh" target="lawson">
+  <data key="d1">50.991666666666674</data>
+</edge>
+<edge source="london" target="team">
+  <data key="d1">51.22222222222222</data>
+</edge>
+<edge source="mark" target="hosenball">
+  <data key="d1">96.5722222222222</data>
+</edge>
+<edge source="mark" target="potter">
+  <data key="d1">41.87979797979798</data>
+</edge>
+<edge source="mark" target="spetalnick">
+  <data key="d1">44.68888888888888</data>
+</edge>
+<edge source="michael" target="perry">
+  <data key="d1">45.09444444444444</data>
+</edge>
+<edge source="raju" target="gopalakrishnan">
+  <data key="d1">53.60833333333334</data>
+</edge>
+<edge source="sam" target="holmes">
+  <data key="d1">96.97222222222221</data>
+</edge>
+<edge source="sam" target="schechner">
+  <data key="d1">35.574748964980905</data>
+</edge>
+<edge source="editing_bill" target="bill_rigby">
+  <data key="d1">35.84090909090909</data>
+</edge>
+<edge source="editing_christian" target="christian_schmollinger">
+  <data key="d1">40.55952380952381</data>
+</edge>
+<edge source="editing_euan" target="euan_rocha">
+  <data key="d1">84.05519480519482</data>
+</edge>
+<edge source="euan_rocha" target="rocha_jane">
+  <data key="d1">35.233766233766225</data>
+</edge>
+<edge source="euan_rocha" target="rocha_timothy">
+  <data key="d1">39.73809523809524</data>
+</edge>
+<edge source="editing_hugh" target="hugh_lawson">
+  <data key="d1">38.825</data>
+</edge>
+<edge source="editing_london" target="london_team">
+  <data key="d1">51.22222222222222</data>
+</edge>
+<edge source="editing_london" target="toronto_editing">
+  <data key="d1">51.22222222222222</data>
+</edge>
+<edge source="editing_raju" target="raju_gopalakrishnan">
+  <data key="d1">38.775</data>
+</edge>
+<edge source="editing_sam" target="sam_holmes">
+  <data key="d1">81.18055555555556</data>
+</edge>
+<edge source="sam_holmes" target="holmes_shri">
+  <data key="d1">67.63888888888889</data>
+</edge>
+<edge source="simoes" target="sao">
+  <data key="d1">65.17424242424244</data>
+</edge>
+<edge source="simoes_sao" target="sao_paulo">
+  <data key="d1">65.17424242424244</data>
+</edge>
+<edge source="eisenhammer" target="sao">
+  <data key="d1">65.17424242424244</data>
+</edge>
+<edge source="eisenhammer" target="stephen">
+  <data key="d1">65.17424242424244</data>
+</edge>
+<edge source="sao" target="paulo">
+  <data key="d1">130.34848484848487</data>
+</edge>
+<edge source="eisenhammer_sao" target="sao_paulo">
+  <data key="d1">65.17424242424244</data>
+</edge>
+<edge source="eisenhammer_sao" target="stephen_eisenhammer">
+  <data key="d1">65.17424242424244</data>
+</edge>
+<edge source="sao_paulo" target="paulo_bruno">
+  <data key="d1">65.17424242424244</data>
+</edge>
+<edge source="sao_paulo" target="paulo_lisandra">
+  <data key="d1">65.17424242424244</data>
+</edge>
+<edge source="findell" target="findell_elizabeth">
+  <data key="d1">101.10561807604626</data>
+</edge>
+<edge source="emerge_shutdown" target="shutdown_something">
+  <data key="d1">39.5</data>
+</edge>
+<edge source="shutdown_something" target="something_mr">
+  <data key="d1">39.5</data>
+</edge>
+<edge source="emergency" target="fund">
+  <data key="d1">37.14285714285714</data>
+</edge>
+<edge source="emergency_fund" target="fund_artist">
+  <data key="d1">37.14285714285714</data>
+</edge>
+<edge source="emergency_fund" target="fund_emergency">
+  <data key="d1">37.14285714285714</data>
+</edge>
+<edge source="empty_hotels" target="hotels_offering">
+  <data key="d1">51.5</data>
+</edge>
+<edge source="hotels_offering" target="offering_deluxe">
+  <data key="d1">51.5</data>
+</edge>
+<edge source="eric" target="sylvers">
+  <data key="d1">54.33510226242589</data>
+</edge>
+<edge source="espa챰ol_write" target="write_andrew">
+  <data key="d1">35.57412280701755</data>
+</edge>
+<edge source="rocha" target="jane">
+  <data key="d1">35.233766233766225</data>
+</edge>
+<edge source="rocha_jane" target="jane_wardell">
+  <data key="d1">35.233766233766225</data>
+</edge>
+<edge source="rocha_timothy" target="timothy_heritage">
+  <data key="d1">39.73809523809524</data>
+</edge>
+<edge source="evans" target="reading_retreating">
+  <data key="d1">51.5</data>
+</edge>
+<edge source="evans" target="shea">
+  <data key="d1">103.0</data>
+</edge>
+<edge source="reading_retreating" target="retreating_moments">
+  <data key="d1">51.5</data>
+</edge>
+<edge source="says" target="wuhan">
+  <data key="d1">51.514629240320595</data>
+</edge>
+<edge source="says_wuhan" target="wuhan_lab">
+  <data key="d1">51.514629240320595</data>
+</edge>
+<edge source="family" target="loeb">
+  <data key="d1">54.5</data>
+</edge>
+<edge source="family" target="sartain">
+  <data key="d1">54.5</data>
+</edge>
+<edge source="family_photo" target="photo_photo">
+  <data key="d1">109.0</data>
+</edge>
+<edge source="family_photo" target="loeb_family">
+  <data key="d1">54.5</data>
+</edge>
+<edge source="family_photo" target="sartain_family">
+  <data key="d1">54.5</data>
+</edge>
+<edge source="photo_photo" target="photo_josephine">
+  <data key="d1">54.5</data>
+</edge>
+<edge source="photo_photo" target="photo_morris">
+  <data key="d1">54.5</data>
+</edge>
+<edge source="top_health" target="health_officials">
+  <data key="d1">77.3842177978796</data>
+</edge>
+<edge source="finances" target="pandemic">
+  <data key="d1">44.266666666666666</data>
+</edge>
+<edge source="finances" target="managing">
+  <data key="d1">44.266666666666666</data>
+</edge>
+<edge source="pandemic" target="live">
+  <data key="d1">44.266666666666666</data>
+</edge>
+<edge source="pandemic" target="mike_kelley">
+  <data key="d1">37.14285714285714</data>
+</edge>
+<edge source="finances_pandemic" target="pandemic_">
+  <data key="d1">44.266666666666666</data>
+</edge>
+<edge source="post" target="flash_crash">
+  <data key="d1">39.703205795344516</data>
+</edge>
+<edge source="post" target="returns">
+  <data key="d1">39.703205795344516</data>
+</edge>
+<edge source="fonseca" target="rio">
+  <data key="d1">65.17424242424244</data>
+</edge>
+<edge source="fonseca" target="pedro">
+  <data key="d1">65.17424242424244</data>
+</edge>
+<edge source="rio" target="janeiro">
+  <data key="d1">65.17424242424244</data>
+</edge>
+<edge source="fonseca_rio" target="rio_janeiro">
+  <data key="d1">65.17424242424244</data>
+</edge>
+<edge source="fonseca_rio" target="pedro_fonseca">
+  <data key="d1">65.17424242424244</data>
+</edge>
+<edge source="rio_janeiro" target="janeiro_stephen">
+  <data key="d1">65.17424242424244</data>
+</edge>
+<edge source="foundation" target="los">
+  <data key="d1">37.14285714285714</data>
+</edge>
+<edge source="foundation" target="kelley">
+  <data key="d1">37.14285714285714</data>
+</edge>
+<edge source="foundation_los" target="los_angeles">
+  <data key="d1">37.14285714285714</data>
+</edge>
+<edge source="foundation_los" target="kelley_foundation">
+  <data key="d1">37.14285714285714</data>
+</edge>
+<edge source="vision_power" target="power_pointer">
+  <data key="d1">38.0</data>
+</edge>
+<edge source="frank" target="pingue">
+  <data key="d1">51.22222222222222</data>
+</edge>
+<edge source="pingue" target="toronto">
+  <data key="d1">51.22222222222222</data>
+</edge>
+<edge source="frank_pingue" target="pingue_toronto">
+  <data key="d1">51.22222222222222</data>
+</edge>
+<edge source="pingue_toronto" target="toronto_editing">
+  <data key="d1">51.22222222222222</data>
+</edge>
+<edge source="fransiska" target="nangoy">
+  <data key="d1">36.58333333333333</data>
+</edge>
+<edge source="fransiska" target="tokyo">
+  <data key="d1">36.58333333333333</data>
+</edge>
+<edge source="nangoy" target="jakarta">
+  <data key="d1">36.58333333333333</data>
+</edge>
+<edge source="fransiska_nangoy" target="nangoy_jakarta">
+  <data key="d1">36.58333333333333</data>
+</edge>
+<edge source="fransiska_nangoy" target="tokyo_fransiska">
+  <data key="d1">36.58333333333333</data>
+</edge>
+<edge source="nangoy_jakarta" target="jakarta_michaela">
+  <data key="d1">36.58333333333333</data>
+</edge>
+<edge source="freishtat" target="stacy">
+  <data key="d1">47.0</data>
+</edge>
+<edge source="stacy" target="meichtry">
+  <data key="d1">64.72702810031926</data>
+</edge>
+<edge source="stacy" target="st">
+  <data key="d1">47.0</data>
+</edge>
+<edge source="freishtat_stacy" target="stacy_st">
+  <data key="d1">47.0</data>
+</edge>
+<edge source="stacy_st" target="st">
+  <data key="d1">47.0</data>
+</edge>
+<edge source="friday" target="texas">
+  <data key="d1">42.09170159746867</data>
+</edge>
+<edge source="friday" target="prepares">
+  <data key="d1">42.09170159746867</data>
+</edge>
+<edge source="friday_" target="prepares_friday">
+  <data key="d1">42.09170159746867</data>
+</edge>
+<edge source="gear_supplier" target="supplier_blue">
+  <data key="d1">77.3842177978796</data>
+</edge>
+<edge source="gene" target="prague">
+  <data key="d1">51.22222222222222</data>
+</edge>
+<edge source="gene_cherry" target="prague_gene">
+  <data key="d1">51.22222222222222</data>
+</edge>
+<edge source="georgi" target="kantchev">
+  <data key="d1">44.568100882400444</data>
+</edge>
+<edge source="gerry" target="doyle">
+  <data key="d1">69.22500000000002</data>
+</edge>
+<edge source="gordon" target="lubold">
+  <data key="d1">68.48934712720474</data>
+</edge>
+<edge source="lubold" target="washington">
+  <data key="d1">39.563971809216405</data>
+</edge>
+<edge source="gordon_lubold" target="lubold_washington">
+  <data key="d1">39.563971809216405</data>
+</edge>
+<edge source="governor" target="party">
+  <data key="d1">39.5</data>
+</edge>
+<edge source="governor" target="threatens">
+  <data key="d1">77.3842177978796</data>
+</edge>
+<edge source="governor" target="hogan">
+  <data key="d1">39.5</data>
+</edge>
+<edge source="governor" target="pennsylvania">
+  <data key="d1">77.3842177978796</data>
+</edge>
+<edge source="party" target="nbc_meet">
+  <data key="d1">39.5</data>
+</edge>
+<edge source="governor_threatens" target="threatens_counties">
+  <data key="d1">77.3842177978796</data>
+</edge>
+<edge source="grant" target="mccool">
+  <data key="d1">94.70757575757577</data>
+</edge>
+<edge source="grant" target="peter">
+  <data key="d1">56.74807825735569</data>
+</edge>
+<edge source="mccool" target="graphic_tracker">
+  <data key="d1">65.17424242424244</data>
+</edge>
+<edge source="market" target="cap">
+  <data key="d1">65.38888888888889</data>
+</edge>
+<edge source="market_graphic" target="graphic_msci">
+  <data key="d1">65.38888888888889</data>
+</edge>
+<edge source="graphic_msci" target="msci_country">
+  <data key="d1">65.38888888888889</data>
+</edge>
+<edge source="graphic_tracker" target="tracker_country">
+  <data key="d1">65.17424242424244</data>
+</edge>
+<edge source="greene" target="rosemary">
+  <data key="d1">54.5</data>
+</edge>
+<edge source="greene" target="morgan">
+  <data key="d1">54.5</data>
+</edge>
+<edge source="rosemary" target="sobol">
+  <data key="d1">54.5</data>
+</edge>
+<edge source="greene_rosemary" target="rosemary_sobol">
+  <data key="d1">54.5</data>
+</edge>
+<edge source="greene_rosemary" target="morgan_greene">
+  <data key="d1">54.5</data>
+</edge>
+<edge source="guide" target="state">
+  <data key="d1">79.84078947368421</data>
+</edge>
+<edge source="guide" target="life">
+  <data key="d1">79.84078947368421</data>
+</edge>
+<edge source="state" target="prepares">
+  <data key="d1">42.09170159746867</data>
+</edge>
+<edge source="state" target="york">
+  <data key="d1">42.09170159746867</data>
+</edge>
+<edge source="guide_state" target="state_lockdowns">
+  <data key="d1">79.84078947368421</data>
+</edge>
+<edge source="guide_state" target="life_guide">
+  <data key="d1">79.84078947368421</data>
+</edge>
+<edge source="state_lockdowns" target="lockdowns_facts">
+  <data key="d1">35.57412280701755</data>
+</edge>
+<edge source="state_lockdowns" target="lockdowns_small">
+  <data key="d1">44.266666666666666</data>
+</edge>
+<edge source="halt" target="immigration">
+  <data key="d1">51.514629240320595</data>
+</edge>
+<edge source="halt" target="temporarily">
+  <data key="d1">51.514629240320595</data>
+</edge>
+<edge source="halt_immigration" target="immigration_u">
+  <data key="d1">51.514629240320595</data>
+</edge>
+<edge source="halt_immigration" target="temporarily_halt">
+  <data key="d1">51.514629240320595</data>
+</edge>
+<edge source="wong" target="jacky">
+  <data key="d1">35.5</data>
+</edge>
+<edge source="hannon" target="hannon_paul">
+  <data key="d1">35.95720510533179</data>
+</edge>
+<edge source="hardik" target="vyas">
+  <data key="d1">51.22222222222222</data>
+</edge>
+<edge source="hardik" target="nair">
+  <data key="d1">51.22222222222222</data>
+</edge>
+<edge source="vyas" target="simon">
+  <data key="d1">51.22222222222222</data>
+</edge>
+<edge source="hardik_vyas" target="vyas_simon">
+  <data key="d1">51.22222222222222</data>
+</edge>
+<edge source="hardik_vyas" target="nair_hardik">
+  <data key="d1">51.22222222222222</data>
+</edge>
+<edge source="vyas_simon" target="simon_jennings">
+  <data key="d1">51.22222222222222</data>
+</edge>
+<edge source="officials" target="urge">
+  <data key="d1">77.3842177978796</data>
+</edge>
+<edge source="health_officials" target="officials_urge">
+  <data key="d1">77.3842177978796</data>
+</edge>
+<edge source="officials_urge" target="urge_testing">
+  <data key="d1">77.3842177978796</data>
+</edge>
+<edge source="heat" target="week">
+  <data key="d1">67.66666666666666</data>
+</edge>
+<edge source="heekyong" target="yang">
+  <data key="d1">93.98971861471861</data>
+</edge>
+<edge source="heekyong_yang" target="yang_seoul">
+  <data key="d1">44.68888888888888</data>
+</edge>
+<edge source="yang_seoul" target="seoul_matt">
+  <data key="d1">44.68888888888888</data>
+</edge>
+<edge source="help" target="hotels">
+  <data key="d1">51.5</data>
+</edge>
+<edge source="hotels" target="offering">
+  <data key="d1">51.5</data>
+</edge>
+<edge source="heritage" target="reporting_asha">
+  <data key="d1">39.73809523809524</data>
+</edge>
+<edge source="highly" target="subjective">
+  <data key="d1">51.5</data>
+</edge>
+<edge source="highly" target="history">
+  <data key="d1">51.5</data>
+</edge>
+<edge source="subjective" target="list">
+  <data key="d1">51.5</data>
+</edge>
+<edge source="highly_subjective" target="subjective_list">
+  <data key="d1">51.5</data>
+</edge>
+<edge source="highly_subjective" target="history_highly">
+  <data key="d1">51.5</data>
+</edge>
+<edge source="subjective_list" target="list_">
+  <data key="d1">51.5</data>
+</edge>
+<edge source="history" target="sports">
+  <data key="d1">51.5</data>
+</edge>
+<edge source="history_highly" target="sports_history">
+  <data key="d1">51.5</data>
+</edge>
+<edge source="hogan" target="mr">
+  <data key="d1">39.5</data>
+</edge>
+<edge source="holmes" target="shri">
+  <data key="d1">67.63888888888889</data>
+</edge>
+<edge source="shri" target="navaratnam">
+  <data key="d1">108.95995670995673</data>
+</edge>
+<edge source="holmes_shri" target="shri_navaratnam">
+  <data key="d1">67.63888888888889</data>
+</edge>
+<edge source="hosenball_david" target="mark_hosenball">
+  <data key="d1">44.68888888888888</data>
+</edge>
+<edge source="html" target="jake">
+  <data key="d1">65.17424242424244</data>
+</edge>
+<edge source="jake" target="spring">
+  <data key="d1">65.17424242424244</data>
+</edge>
+<edge source="html_jake" target="jake_spring">
+  <data key="d1">65.17424242424244</data>
+</edge>
+<edge source="jake_spring" target="spring_brasilia">
+  <data key="d1">65.17424242424244</data>
+</edge>
+<edge source="hyonhee" target="shin">
+  <data key="d1">105.85400432900431</data>
+</edge>
+<edge source="shin" target="josh">
+  <data key="d1">55.18733766233767</data>
+</edge>
+<edge source="hyonhee_shin" target="shin_josh">
+  <data key="d1">55.18733766233767</data>
+</edge>
+<edge source="shin_josh" target="josh_smith">
+  <data key="d1">55.18733766233767</data>
+</edge>
+<edge source="hyunjoo" target="jin">
+  <data key="d1">171.04343434343437</data>
+</edge>
+<edge source="jin" target="jane">
+  <data key="d1">49.309523809523824</data>
+</edge>
+<edge source="hyunjoo_jin" target="jin_jane">
+  <data key="d1">49.309523809523824</data>
+</edge>
+<edge source="hyunjoo_jin" target="jin_seoul">
+  <data key="d1">47.56277056277056</data>
+</edge>
+<edge source="hyunjoo_jin" target="kim_hyunjoo">
+  <data key="d1">39.73809523809524</data>
+</edge>
+<edge source="jin_jane" target="jane_chung">
+  <data key="d1">49.309523809523824</data>
+</edge>
+<edge source="ideal" target="quarantine">
+  <data key="d1">51.5</data>
+</edge>
+<edge source="ideal" target="potter">
+  <data key="d1">51.5</data>
+</edge>
+<edge source="quarantine" target="read">
+  <data key="d1">51.5</data>
+</edge>
+<edge source="ideal_quarantine" target="quarantine_read">
+  <data key="d1">51.5</data>
+</edge>
+<edge source="quarantine_read" target="read_credit">
+  <data key="d1">51.5</data>
+</edge>
+<edge source="il" target="jong">
+  <data key="d1">41.713319151866536</data>
+</edge>
+<edge source="il_dead" target="jong_il">
+  <data key="d1">41.713319151866536</data>
+</edge>
+<edge source="index_market" target="market_cap">
+  <data key="d1">65.38888888888889</data>
+</edge>
+<edge source="infection" target="rate">
+  <data key="d1">37.0</data>
+</edge>
+<edge source="jack" target="visakapatnam">
+  <data key="d1">39.73809523809524</data>
+</edge>
+<edge source="jack_kim" target="kim_hyunjoo">
+  <data key="d1">39.73809523809524</data>
+</edge>
+<edge source="jack_kim" target="visakapatnam_jack">
+  <data key="d1">39.73809523809524</data>
+</edge>
+<edge source="jacques" target="jean">
+  <data key="d1">38.0</data>
+</edge>
+<edge source="jacques" target="roche">
+  <data key="d1">38.0</data>
+</edge>
+<edge source="jacques" target="way_jean">
+  <data key="d1">38.0</data>
+</edge>
+<edge source="jean" target="jacques_roche">
+  <data key="d1">38.0</data>
+</edge>
+<edge source="jean" target="way">
+  <data key="d1">38.0</data>
+</edge>
+<edge source="roche" target="specialist">
+  <data key="d1">38.0</data>
+</edge>
+<edge source="jacques_roche" target="roche_specialist">
+  <data key="d1">38.0</data>
+</edge>
+<edge source="roche_specialist" target="specialist_policy">
+  <data key="d1">38.0</data>
+</edge>
+<edge source="jakarta" target="michaela">
+  <data key="d1">36.58333333333333</data>
+</edge>
+<edge source="jakarta_michaela" target="michaela_cabrera">
+  <data key="d1">36.58333333333333</data>
+</edge>
+<edge source="jamerson" target="joshua">
+  <data key="d1">100.64697590924266</data>
+</edge>
+<edge source="jane" target="wardell">
+  <data key="d1">79.66396103896103</data>
+</edge>
+<edge source="jane_chung" target="reporting_jane">
+  <data key="d1">36.58333333333333</data>
+</edge>
+<edge source="janeiro" target="stephen">
+  <data key="d1">65.17424242424244</data>
+</edge>
+<edge source="stephen" target="coates">
+  <data key="d1">50.788528138528136</data>
+</edge>
+<edge source="stephen" target="wright">
+  <data key="d1">71.7979109006763</data>
+</edge>
+<edge source="janeiro_stephen" target="stephen_eisenhammer">
+  <data key="d1">65.17424242424244</data>
+</edge>
+<edge source="jeffrey" target="sparshott">
+  <data key="d1">47.79843317550722</data>
+</edge>
+<edge source="jennings" target="simon">
+  <data key="d1">51.22222222222222</data>
+</edge>
+<edge source="jennings_bengaluru" target="simon_jennings">
+  <data key="d1">51.22222222222222</data>
+</edge>
+<edge source="joe" target="wallace">
+  <data key="d1">64.61578947368422</data>
+</edge>
+<edge source="john" target="larry">
+  <data key="d1">54.5</data>
+</edge>
+<edge source="larry" target="sartain">
+  <data key="d1">54.5</data>
+</edge>
+<edge source="john_larry" target="larry_sartain">
+  <data key="d1">54.5</data>
+</edge>
+<edge source="larry_sartain" target="sartain_family">
+  <data key="d1">54.5</data>
+</edge>
+<edge source="jonathan_oatis" target="oatis_cynthia">
+  <data key="d1">48.05555555555556</data>
+</edge>
+<edge source="oatis_cynthia" target="cynthia_osterman">
+  <data key="d1">48.05555555555556</data>
+</edge>
+<edge source="jong_un" target="un_disappears">
+  <data key="d1">41.713319151866536</data>
+</edge>
+<edge source="josephine" target="tapiru">
+  <data key="d1">54.5</data>
+</edge>
+<edge source="tapiru" target="luis">
+  <data key="d1">54.5</data>
+</edge>
+<edge source="tapiru" target="jr">
+  <data key="d1">54.5</data>
+</edge>
+<edge source="josephine_tapiru" target="tapiru_donna">
+  <data key="d1">54.5</data>
+</edge>
+<edge source="josephine_tapiru" target="photo_josephine">
+  <data key="d1">54.5</data>
+</edge>
+<edge source="josh" target="smith">
+  <data key="d1">88.43733766233767</data>
+</edge>
+<edge source="smith" target="sangmi">
+  <data key="d1">38.775</data>
+</edge>
+<edge source="josh_smith" target="smith_sangmi">
+  <data key="d1">38.775</data>
+</edge>
+<edge source="smith_sangmi" target="sangmi_cha">
+  <data key="d1">38.775</data>
+</edge>
+<edge source="joyu" target="wang">
+  <data key="d1">48.732288783671486</data>
+</edge>
+<edge source="jr" target="tapiru_jr">
+  <data key="d1">54.5</data>
+</edge>
+<edge source="just" target="watched">
+  <data key="d1">52.0</data>
+</edge>
+<edge source="just" target="weather">
+  <data key="d1">52.0</data>
+</edge>
+<edge source="karen" target="langley">
+  <data key="d1">45.30098894316111</data>
+</edge>
+<edge source="keeffe" target="kate_o">
+  <data key="d1">92.72778279308163</data>
+</edge>
+<edge source="keeffe" target="keeffe_kathryn">
+  <data key="d1">53.067344089154986</data>
+</edge>
+<edge source="okeeffe" target="keeffe_kathryn">
+  <data key="d1">53.067344089154986</data>
+</edge>
+<edge source="kelley_foundation" target="mike_kelley">
+  <data key="d1">37.14285714285714</data>
+</edge>
+<edge source="kim_sight" target="sight_day">
+  <data key="d1">41.713319151866536</data>
+</edge>
+<edge source="konrad" target="putzier">
+  <data key="d1">47.349122807017544</data>
+</edge>
+<edge source="kostov" target="new_york">
+  <data key="d1">42.09170159746867</data>
+</edge>
+<edge source="kostov" target="kostov_nick">
+  <data key="d1">68.17262219417874</data>
+</edge>
+<edge source="new_york" target="york_andrew">
+  <data key="d1">51.22222222222222</data>
+</edge>
+<edge source="new_york" target="york_editing">
+  <data key="d1">99.32070707070707</data>
+</edge>
+<edge source="new_york" target="york_state">
+  <data key="d1">42.09170159746867</data>
+</edge>
+<edge source="new_york" target="york_times">
+  <data key="d1">51.77777777777778</data>
+</edge>
+<edge source="kris" target="maher">
+  <data key="d1">47.349122807017544</data>
+</edge>
+<edge source="lab" target="source">
+  <data key="d1">51.514629240320595</data>
+</edge>
+<edge source="lab" target="wuhan">
+  <data key="d1">51.514629240320595</data>
+</edge>
+<edge source="lab_source" target="source_virus">
+  <data key="d1">51.514629240320595</data>
+</edge>
+<edge source="lab_source" target="wuhan_lab">
+  <data key="d1">51.514629240320595</data>
+</edge>
+<edge source="life" target="navigating">
+  <data key="d1">79.84078947368421</data>
+</edge>
+<edge source="lincoln" target="feast">
+  <data key="d1">42.64285714285714</data>
+</edge>
+<edge source="lisa" target="shumaker">
+  <data key="d1">47.47979797979797</data>
+</edge>
+<edge source="lisandra" target="paraguassu">
+  <data key="d1">65.17424242424244</data>
+</edge>
+<edge source="lisandra" target="paulo">
+  <data key="d1">65.17424242424244</data>
+</edge>
+<edge source="lisandra_paraguassu" target="paraguassu_brasilia">
+  <data key="d1">65.17424242424244</data>
+</edge>
+<edge source="lisandra_paraguassu" target="paulo_lisandra">
+  <data key="d1">65.17424242424244</data>
+</edge>
+<edge source="liza" target="lin">
+  <data key="d1">62.17818315259549</data>
+</edge>
+<edge source="small" target="need">
+  <data key="d1">44.266666666666666</data>
+</edge>
+<edge source="lockdowns_small" target="small_need">
+  <data key="d1">44.266666666666666</data>
+</edge>
+<edge source="small_need" target="need_stimulus">
+  <data key="d1">44.266666666666666</data>
+</edge>
+<edge source="loeb" target="morris">
+  <data key="d1">54.5</data>
+</edge>
+<edge source="loeb_family" target="morris_loeb">
+  <data key="d1">54.5</data>
+</edge>
+<edge source="team" target="shrivathsa_sridhar">
+  <data key="d1">51.22222222222222</data>
+</edge>
+<edge source="lopez" target="maria">
+  <data key="d1">47.0</data>
+</edge>
+<edge source="lopez_credit" target="maria_lopez">
+  <data key="d1">47.0</data>
+</edge>
+<edge source="luis_tapiru" target="tapiru_jr">
+  <data key="d1">54.5</data>
+</edge>
+<edge source="luis_tapiru" target="photo_luis">
+  <data key="d1">54.5</data>
+</edge>
+<edge source="lusha" target="zhang">
+  <data key="d1">47.95757575757575</data>
+</edge>
+<edge source="makini" target="brice">
+  <data key="d1">44.077777777777776</data>
+</edge>
+<edge source="managing" target="stimulus">
+  <data key="d1">44.266666666666666</data>
+</edge>
+<edge source="margherita" target="stancati">
+  <data key="d1">59.9456388492071</data>
+</edge>
+<edge source="stancati" target="rome">
+  <data key="d1">36.033309247002386</data>
+</edge>
+<edge source="margherita_stancati" target="stancati_rome">
+  <data key="d1">36.033309247002386</data>
+</edge>
+<edge source="stancati_rome" target="rome_dasl">
+  <data key="d1">36.033309247002386</data>
+</edge>
+<edge source="mark_hosenball" target="spetalnick_mark">
+  <data key="d1">44.68888888888888</data>
+</edge>
+<edge source="selloff_write" target="write_anna">
+  <data key="d1">39.703205795344516</data>
+</edge>
+<edge source="matt" target="spetalnick">
+  <data key="d1">114.60555555555554</data>
+</edge>
+<edge source="matt_spetalnick" target="spetalnick_mark">
+  <data key="d1">44.68888888888888</data>
+</edge>
+<edge source="matt_spetalnick" target="seoul_matt">
+  <data key="d1">44.68888888888888</data>
+</edge>
+<edge source="meet" target="nbc">
+  <data key="d1">39.5</data>
+</edge>
+<edge source="meet_press" target="press_sunday">
+  <data key="d1">39.5</data>
+</edge>
+<edge source="meet_press" target="nbc_meet">
+  <data key="d1">39.5</data>
+</edge>
+<edge source="press_sunday" target="sunday_vice">
+  <data key="d1">39.5</data>
+</edge>
+<edge source="michael_c" target="_bender">
+  <data key="d1">51.34201765129507</data>
+</edge>
+<edge source="mike_pence" target="pence_capacity">
+  <data key="d1">39.5</data>
+</edge>
+<edge source="mike_pence" target="president_mike">
+  <data key="d1">39.5</data>
+</edge>
+<edge source="moments" target="sports">
+  <data key="d1">51.5</data>
+</edge>
+<edge source="moments" target="retreating">
+  <data key="d1">51.5</data>
+</edge>
+<edge source="moments_sports" target="sports_history">
+  <data key="d1">51.5</data>
+</edge>
+<edge source="moments_sports" target="retreating_moments">
+  <data key="d1">51.5</data>
+</edge>
+<edge source="morris_loeb" target="photo_morris">
+  <data key="d1">54.5</data>
+</edge>
+<edge source="moss" target="trefor">
+  <data key="d1">122.08365584757198</data>
+</edge>
+<edge source="moss" target="moss_trefor">
+  <data key="d1">40.69455194919066</data>
+</edge>
+<edge source="trefor" target="moss_">
+  <data key="d1">40.69455194919066</data>
+</edge>
+<edge source="moss_trefor" target="trefor_moss">
+  <data key="d1">40.69455194919066</data>
+</edge>
+<edge source="mr" target="something_mr">
+  <data key="d1">39.5</data>
+</edge>
+<edge source="muller" target="prague">
+  <data key="d1">51.22222222222222</data>
+</edge>
+<edge source="muller_prague" target="prague_gene">
+  <data key="d1">51.22222222222222</data>
+</edge>
+<edge source="muralikumar" target="anantharaman">
+  <data key="d1">40.89844877344877</data>
+</edge>
+<edge source="nair" target="rohith">
+  <data key="d1">51.22222222222222</data>
+</edge>
+<edge source="nair_hardik" target="rohith_nair">
+  <data key="d1">51.22222222222222</data>
+</edge>
+<edge source="r_visakapatnam" target="visakapatnam_jack">
+  <data key="d1">39.73809523809524</data>
+</edge>
+<edge source="nassauer" target="nassauer_sarah">
+  <data key="d1">43.332372462011186</data>
+</edge>
+<edge source="natasha" target="khan">
+  <data key="d1">35.049678172106475</data>
+</edge>
+<edge source="response" target="outbreak">
+  <data key="d1">38.0</data>
+</edge>
+<edge source="nation_response" target="response_outbreak">
+  <data key="d1">38.0</data>
+</edge>
+<edge source="nation_response" target="pointer_nation">
+  <data key="d1">38.0</data>
+</edge>
+<edge source="naveen" target="thukral">
+  <data key="d1">36.58333333333333</data>
+</edge>
+<edge source="naveen_thukral" target="thukral_reporting">
+  <data key="d1">36.58333333333333</data>
+</edge>
+<edge source="thukral_reporting" target="reporting_jane">
+  <data key="d1">36.58333333333333</data>
+</edge>
+<edge source="navigating" target="treatment">
+  <data key="d1">79.84078947368421</data>
+</edge>
+<edge source="need" target="stimulus">
+  <data key="d1">44.266666666666666</data>
+</edge>
+<edge source="need_stimulus" target="stimulus_">
+  <data key="d1">44.266666666666666</data>
+</edge>
+<edge source="new" target="england">
+  <data key="d1">36.33333333333333</data>
+</edge>
+<edge source="new" target="york">
+  <data key="d1">300.72193247769957</data>
+</edge>
+<edge source="new" target="snow">
+  <data key="d1">36.33333333333333</data>
+</edge>
+<edge source="york" target="times">
+  <data key="d1">51.77777777777778</data>
+</edge>
+<edge source="york_state" target="state_prepares">
+  <data key="d1">42.09170159746867</data>
+</edge>
+<edge source="newley" target="purnell">
+  <data key="d1">48.732288783671486</data>
+</edge>
+<edge source="obayashi" target="tokyo">
+  <data key="d1">36.58333333333333</data>
+</edge>
+<edge source="obayashi" target="yuka">
+  <data key="d1">36.58333333333333</data>
+</edge>
+<edge source="obayashi_tokyo" target="tokyo_fransiska">
+  <data key="d1">36.58333333333333</data>
+</edge>
+<edge source="obayashi_tokyo" target="yuka_obayashi">
+  <data key="d1">36.58333333333333</data>
+</edge>
+<edge source="urge" target="testing">
+  <data key="d1">77.3842177978796</data>
+</edge>
+<edge source="urge_testing" target="testing_easing">
+  <data key="d1">77.3842177978796</data>
+</edge>
+<edge source="oil" target="prices">
+  <data key="d1">39.703205795344516</data>
+</edge>
+<edge source="prices" target="rise">
+  <data key="d1">39.703205795344516</data>
+</edge>
+<edge source="oil_prices" target="prices_rise">
+  <data key="d1">39.703205795344516</data>
+</edge>
+<edge source="prices_rise" target="rise_demand">
+  <data key="d1">39.703205795344516</data>
+</edge>
+<edge source="orders_" target="shutdown_orders">
+  <data key="d1">77.3842177978796</data>
+</edge>
+<edge source="sales" target="pitch">
+  <data key="d1">42.09170159746867</data>
+</edge>
+<edge source="sales_pitch" target="pitch_">
+  <data key="d1">42.09170159746867</data>
+</edge>
+<edge source="pannett" target="rachel">
+  <data key="d1">107.69686635101444</data>
+</edge>
+<edge source="pannett" target="sydney">
+  <data key="d1">35.89895545033815</data>
+</edge>
+<edge source="pannett" target="pannett_rachel">
+  <data key="d1">35.89895545033815</data>
+</edge>
+<edge source="rachel" target="pannett_">
+  <data key="d1">35.89895545033815</data>
+</edge>
+<edge source="pannett_rachel" target="rachel_pannett">
+  <data key="d1">35.89895545033815</data>
+</edge>
+<edge source="paris_panthéon" target="university_paris">
+  <data key="d1">38.0</data>
+</edge>
+<edge source="part_new" target="new_england">
+  <data key="d1">36.33333333333333</data>
+</edge>
+<edge source="part_new" target="snow_part">
+  <data key="d1">36.33333333333333</data>
+</edge>
+<edge source="patricia" target="yanni">
+  <data key="d1">47.0</data>
+</edge>
+<edge source="patricia_yanni" target="yanni_photo">
+  <data key="d1">47.0</data>
+</edge>
+<edge source="patricia_yanni" target="photo_patricia">
+  <data key="d1">47.0</data>
+</edge>
+<edge source="yanni_photo" target="photo_patrick">
+  <data key="d1">47.0</data>
+</edge>
+<edge source="patrick_conran" target="photo_patrick">
+  <data key="d1">47.0</data>
+</edge>
+<edge source="pennsylvania" target="trillion">
+  <data key="d1">77.3842177978796</data>
+</edge>
+<edge source="peter" target="cooney">
+  <data key="d1">39.47222222222222</data>
+</edge>
+<edge source="pointer_nation" target="power_pointer">
+  <data key="d1">38.0</data>
+</edge>
+<edge source="policy" target="university">
+  <data key="d1">38.0</data>
+</edge>
+<edge source="policy" target="specialist">
+  <data key="d1">38.0</data>
+</edge>
+<edge source="policy_university" target="university_paris">
+  <data key="d1">38.0</data>
+</edge>
+<edge source="policy_university" target="specialist_policy">
+  <data key="d1">38.0</data>
+</edge>
+<edge source="pop" target="valentina">
+  <data key="d1">85.12211738603352</data>
+</edge>
+<edge source="prepares_friday" target="state_prepares">
+  <data key="d1">42.09170159746867</data>
+</edge>
+<edge source="president" target="vice">
+  <data key="d1">39.5</data>
+</edge>
+<edge source="president_mike" target="vice_president">
+  <data key="d1">39.5</data>
+</edge>
+<edge source="sunday" target="vice">
+  <data key="d1">39.5</data>
+</edge>
+<edge source="sunday_vice" target="vice_president">
+  <data key="d1">39.5</data>
+</edge>
+<edge source="rachel_pannett" target="pannett_sydney">
+  <data key="d1">35.89895545033815</data>
+</edge>
+<edge source="reading" target="retreating">
+  <data key="d1">51.5</data>
+</edge>
+<edge source="swoosh" target="shaped">
+  <data key="d1">119.47591939534827</data>
+</edge>
+<edge source="swoosh" target="swoosh_v">
+  <data key="d1">119.47591939534827</data>
+</edge>
+<edge source="replay" target="videos">
+  <data key="d1">99.0</data>
+</edge>
+<edge source="videos" target="watch">
+  <data key="d1">99.0</data>
+</edge>
+<edge source="replay_videos" target="videos_must">
+  <data key="d1">99.0</data>
+</edge>
+<edge source="videos_must" target="must_watch">
+  <data key="d1">99.0</data>
+</edge>
+<edge source="reporter" target="trump">
+  <data key="d1">67.66666666666666</data>
+</edge>
+<edge source="trump" target="temporarily">
+  <data key="d1">51.514629240320595</data>
+</edge>
+<edge source="reporter_trump" target="trump_china">
+  <data key="d1">67.66666666666666</data>
+</edge>
+<edge source="restrictions" target="roll">
+  <data key="d1">43.332372462011186</data>
+</edge>
+<edge source="rohith" target="sridhar">
+  <data key="d1">51.22222222222222</data>
+</edge>
+<edge source="rohith_nair" target="sridhar_rohith">
+  <data key="d1">51.22222222222222</data>
+</edge>
+<edge source="roll" target="states">
+  <data key="d1">43.332372462011186</data>
+</edge>
+<edge source="sobol" target="sobol_caption">
+  <data key="d1">54.5</data>
+</edge>
+<edge source="ryan" target="woo">
+  <data key="d1">47.95757575757575</data>
+</edge>
+<edge source="woo" target="stu">
+  <data key="d1">35.5</data>
+</edge>
+<edge source="siddiqui" target="siddiqui_sabrina">
+  <data key="d1">51.14824561403509</data>
+</edge>
+<edge source="sandra" target="maler">
+  <data key="d1">58.55833333333334</data>
+</edge>
+<edge source="sangmi_cha" target="cha_editing">
+  <data key="d1">35.90400432900432</data>
+</edge>
+<edge source="scott" target="calvert">
+  <data key="d1">39.901434215733765</data>
+</edge>
+<edge source="shaped" target="shaped_write">
+  <data key="d1">119.47591939534827</data>
+</edge>
+<edge source="shaped" target="swoosh_v">
+  <data key="d1">119.47591939534827</data>
+</edge>
+<edge source="shaped_write" target="write_calfas">
+  <data key="d1">119.47591939534827</data>
+</edge>
+<edge source="shrivathsa" target="sridhar">
+  <data key="d1">51.22222222222222</data>
+</edge>
+<edge source="shrivathsa_sridhar" target="sridhar_rohith">
+  <data key="d1">51.22222222222222</data>
+</edge>
+<edge source="sonya" target="hepinstall">
+  <data key="d1">35.51111111111111</data>
+</edge>
+<edge source="states" target="united">
+  <data key="d1">35.666666666666664</data>
+</edge>
+<edge source="stella" target="yifan">
+  <data key="d1">47.89895545033814</data>
+</edge>
+<edge source="stella" target="xie">
+  <data key="d1">47.89895545033814</data>
+</edge>
+<edge source="yifan" target="xie">
+  <data key="d1">47.89895545033814</data>
+</edge>
+<edge source="stella_yifan" target="yifan_xie">
+  <data key="d1">47.89895545033814</data>
+</edge>
+<edge source="wright" target="wellington">
+  <data key="d1">35.89895545033815</data>
+</edge>
+<edge source="stephen_wright" target="wright_">
+  <data key="d1">35.89895545033815</data>
+</edge>
+<edge source="stephen_wright" target="wright_wellington">
+  <data key="d1">35.89895545033815</data>
+</edge>
+<edge source="street" target="journal">
+  <data key="d1">36.01734676761439</data>
+</edge>
+<edge source="street" target="wall">
+  <data key="d1">36.01734676761439</data>
+</edge>
+<edge source="sudarshan" target="varadhan">
+  <data key="d1">35.233766233766225</data>
+</edge>
+<edge source="swati" target="pandey">
+  <data key="d1">65.38888888888889</data>
+</edge>
+<edge source="today_weather" target="weather_just">
+  <data key="d1">52.0</data>
+</edge>
+<edge source="weather_just" target="just_watched">
+  <data key="d1">52.0</data>
+</edge>
+<edge source="tom" target="fairless">
+  <data key="d1">47.79843317550722</data>
+</edge>
+<edge source="verlaine" target="julia">
+  <data key="d1">53.349122807017544</data>
+</edge>
+<edge source="vibhuti" target="agarwal">
+  <data key="d1">35.574748964980905</data>
+</edge>
+<edge source="vinay_dwivedi" target="dwivedi_editing">
+  <data key="d1">38.43333333333334</data>
+</edge>
+<edge source="wall_street" target="street_journal">
+  <data key="d1">36.01734676761439</data>
+</edge>
+<edge source="warren" target="strobel">
+  <data key="d1">37.0</data>
+</edge>
+<edge source="xie" target="yu">
+  <data key="d1">105.16459330143542</data>
+</edge>
+</graph></graphml>

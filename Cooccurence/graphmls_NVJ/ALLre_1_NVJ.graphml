@@ -1,0 +1,3898 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d1" for="edge" attr.name="weight" attr.type="double"/>
+<key id="d0" for="node" attr.name="count" attr.type="int"/>
+<graph edgedefault="undirected"><node id="18">
+  <data key="d0">1</data>
+</node>
+<node id="flu">
+  <data key="d0">6</data>
+</node>
+<node id="19">
+  <data key="d0">1</data>
+</node>
+<node id="join">
+  <data key="d0">1</data>
+</node>
+<node id="2017">
+  <data key="d0">1</data>
+</node>
+<node id="ability">
+  <data key="d0">1</data>
+</node>
+<node id="leave">
+  <data key="d0">6</data>
+</node>
+<node id="able">
+  <data key="d0">2</data>
+</node>
+<node id="offer">
+  <data key="d0">2</data>
+</node>
+<node id="accommodate">
+  <data key="d0">1</data>
+</node>
+<node id="americans">
+  <data key="d0">6</data>
+</node>
+<node id="accord">
+  <data key="d0">6</data>
+</node>
+<node id="centers">
+  <data key="d0">1</data>
+</node>
+<node id="according">
+  <data key="d0">1</data>
+</node>
+<node id="statement">
+  <data key="d0">2</data>
+</node>
+<node id="acute">
+  <data key="d0">1</data>
+</node>
+<node id="respiratory">
+  <data key="d0">3</data>
+</node>
+<node id="add">
+  <data key="d0">10</data>
+</node>
+<node id="monitor">
+  <data key="d0">3</data>
+</node>
+<node id="oil">
+  <data key="d0">2</data>
+</node>
+<node id="administration">
+  <data key="d0">2</data>
+</node>
+<node id="confirm">
+  <data key="d0">1</data>
+</node>
+<node id="explanation">
+  <data key="d0">1</data>
+</node>
+<node id="advertising">
+  <data key="d0">1</data>
+</node>
+<node id="fashionable">
+  <data key="d0">1</data>
+</node>
+<node id="advise">
+  <data key="d0">3</data>
+</node>
+<node id="citizen">
+  <data key="d0">2</data>
+</node>
+<node id="resident">
+  <data key="d0">2</data>
+</node>
+<node id="agency">
+  <data key="d0">1</data>
+</node>
+<node id="xinhua">
+  <data key="d0">1</data>
+</node>
+<node id="aircraft">
+  <data key="d0">3</data>
+</node>
+<node id="carrier">
+  <data key="d0">2</data>
+</node>
+<node id="airlines">
+  <data key="d0">2</data>
+</node>
+<node id="brace">
+  <data key="d0">1</data>
+</node>
+<node id="flight">
+  <data key="d0">6</data>
+</node>
+<node id="airport">
+  <data key="d0">4</data>
+</node>
+<node id="las">
+  <data key="d0">1</data>
+</node>
+<node id="screening">
+  <data key="d0">3</data>
+</node>
+<node id="allow">
+  <data key="d0">4</data>
+</node>
+<node id="courtyard">
+  <data key="d0">1</data>
+</node>
+<node id="amazon">
+  <data key="d0">1</data>
+</node>
+<node id="verizon">
+  <data key="d0">1</data>
+</node>
+<node id="american">
+  <data key="d0">4</data>
+</node>
+<node id="begin">
+  <data key="d0">4</data>
+</node>
+<node id="mother">
+  <data key="d0">2</data>
+</node>
+<node id="china">
+  <data key="d0">48</data>
+</node>
+<node id="evacuated">
+  <data key="d0">1</data>
+</node>
+<node id="manifest">
+  <data key="d0">1</data>
+</node>
+<node id="wuhan">
+  <data key="d0">18</data>
+</node>
+<node id="amid">
+  <data key="d0">4</data>
+</node>
+<node id="efforts">
+  <data key="d0">3</data>
+</node>
+<node id="fears">
+  <data key="d0">2</data>
+</node>
+<node id="animal">
+  <data key="d0">5</data>
+</node>
+<node id="avoid">
+  <data key="d0">4</data>
+</node>
+<node id="eat">
+  <data key="d0">1</data>
+</node>
+<node id="announce">
+  <data key="d0">1</data>
+</node>
+<node id="fine">
+  <data key="d0">1</data>
+</node>
+<node id="appear">
+  <data key="d0">2</data>
+</node>
+<node id="meet">
+  <data key="d0">1</data>
+</node>
+<node id="application">
+  <data key="d0">2</data>
+</node>
+<node id="file">
+  <data key="d0">1</data>
+</node>
+<node id="perspective">
+  <data key="d0">1</data>
+</node>
+<node id="applications">
+  <data key="d0">1</data>
+</node>
+<node id="chinese">
+  <data key="d0">13</data>
+</node>
+<node id="asia">
+  <data key="d0">1</data>
+</node>
+<node id="link">
+  <data key="d0">1</data>
+</node>
+<node id="asked">
+  <data key="d0">1</data>
+</node>
+<node id="motivate">
+  <data key="d0">1</data>
+</node>
+<node id="assess">
+  <data key="d0">3</data>
+</node>
+<node id="financial">
+  <data key="d0">8</data>
+</node>
+<node id="assign">
+  <data key="d0">1</data>
+</node>
+<node id="blame">
+  <data key="d0">1</data>
+</node>
+<node id="attempt">
+  <data key="d0">1</data>
+</node>
+<node id="attention">
+  <data key="d0">1</data>
+</node>
+<node id="pay">
+  <data key="d0">1</data>
+</node>
+<node id="australia">
+  <data key="d0">2</data>
+</node>
+<node id="evacuation">
+  <data key="d0">2</data>
+</node>
+<node id="author">
+  <data key="d0">1</data>
+</node>
+<node id="plague">
+  <data key="d0">1</data>
+</node>
+<node id="authority">
+  <data key="d0">7</data>
+</node>
+<node id="continue">
+  <data key="d0">7</data>
+</node>
+<node id="hong">
+  <data key="d0">7</data>
+</node>
+<node id="aviation">
+  <data key="d0">1</data>
+</node>
+<node id="market">
+  <data key="d0">9</data>
+</node>
+<node id="work">
+  <data key="d0">6</data>
+</node>
+<node id="away">
+  <data key="d0">1</data>
+</node>
+<node id="severe">
+  <data key="d0">4</data>
+</node>
+<node id="background">
+  <data key="d0">1</data>
+</node>
+<node id="use">
+  <data key="d0">4</data>
+</node>
+<node id="bat">
+  <data key="d0">1</data>
+</node>
+<node id="civet">
+  <data key="d0">1</data>
+</node>
+<node id="battle">
+  <data key="d0">3</data>
+</node>
+<node id="lyme">
+  <data key="d0">1</data>
+</node>
+<node id="virus">
+  <data key="d0">22</data>
+</node>
+<node id="beaumont">
+  <data key="d0">1</data>
+</node>
+<node id="mr">
+  <data key="d0">4</data>
+</node>
+<node id="beef">
+  <data key="d0">1</data>
+</node>
+<node id="legitimacy">
+  <data key="d0">1</data>
+</node>
+<node id="halt">
+  <data key="d0">1</data>
+</node>
+<node id="trace">
+  <data key="d0">2</data>
+</node>
+<node id="beijing">
+  <data key="d0">6</data>
+</node>
+<node id="dlyu3">
+  <data key="d0">1</data>
+</node>
+<node id="drugstore">
+  <data key="d0">1</data>
+</node>
+<node id="ben">
+  <data key="d0">2</data>
+</node>
+<node id="director">
+  <data key="d0">2</data>
+</node>
+<node id="betsy">
+  <data key="d0">7</data>
+</node>
+<node id="mckay">
+  <data key="d0">7</data>
+</node>
+<node id="big">
+  <data key="d0">2</data>
+</node>
+<node id="global">
+  <data key="d0">18</data>
+</node>
+<node id="lower">
+  <data key="d0">1</data>
+</node>
+<node id="bloomberg">
+  <data key="d0">12</data>
+</node>
+<node id="net">
+  <data key="d0">10</data>
+</node>
+<node id="news">
+  <data key="d0">7</data>
+</node>
+<node id="boeing">
+  <data key="d0">1</data>
+</node>
+<node id="fly">
+  <data key="d0">2</data>
+</node>
+<node id="bond">
+  <data key="d0">1</data>
+</node>
+<node id="push">
+  <data key="d0">3</data>
+</node>
+<node id="bound">
+  <data key="d0">1</data>
+</node>
+<node id="box">
+  <data key="d0">1</data>
+</node>
+<node id="cut">
+  <data key="d0">1</data>
+</node>
+<node id="breadth">
+  <data key="d0">1</data>
+</node>
+<node id="economic">
+  <data key="d0">6</data>
+</node>
+<node id="breakthrough">
+  <data key="d0">1</data>
+</node>
+<node id="build">
+  <data key="d0">1</data>
+</node>
+<node id="brunt">
+  <data key="d0">1</data>
+</node>
+<node id="hit">
+  <data key="d0">3</data>
+</node>
+<node id="bull">
+  <data key="d0">1</data>
+</node>
+<node id="session">
+  <data key="d0">1</data>
+</node>
+<node id="business">
+  <data key="d0">5</data>
+</node>
+<node id="confidence">
+  <data key="d0">1</data>
+</node>
+<node id="businesses">
+  <data key="d0">2</data>
+</node>
+<node id="suspend">
+  <data key="d0">2</data>
+</node>
+<node id="cameron">
+  <data key="d0">2</data>
+</node>
+<node id="mcwhirter">
+  <data key="d0">2</data>
+</node>
+<node id="car">
+  <data key="d0">1</data>
+</node>
+<node id="driver">
+  <data key="d0">1</data>
+</node>
+<node id="care">
+  <data key="d0">5</data>
+</node>
+<node id="essential">
+  <data key="d0">2</data>
+</node>
+<node id="carry">
+  <data key="d0">2</data>
+</node>
+<node id="state">
+  <data key="d0">7</data>
+</node>
+<node id="case">
+  <data key="d0">8</data>
+</node>
+<node id="short">
+  <data key="d0">3</data>
+</node>
+<node id="thursday">
+  <data key="d0">3</data>
+</node>
+<node id="cases">
+  <data key="d0">1</data>
+</node>
+<node id="threatens">
+  <data key="d0">1</data>
+</node>
+<node id="cat">
+  <data key="d0">1</data>
+</node>
+<node id="mammal">
+  <data key="d0">1</data>
+</node>
+<node id="center">
+  <data key="d0">2</data>
+</node>
+<node id="tell">
+  <data key="d0">4</data>
+</node>
+<node id="disease">
+  <data key="d0">9</data>
+</node>
+<node id="chang">
+  <data key="d0">1</data>
+</node>
+<node id="wchang98">
+  <data key="d0">1</data>
+</node>
+<node id="charter">
+  <data key="d0">1</data>
+</node>
+<node id="chen">
+  <data key="d0">2</data>
+</node>
+<node id="schen462">
+  <data key="d0">2</data>
+</node>
+<node id="home">
+  <data key="d0">8</data>
+</node>
+<node id="likely">
+  <data key="d0">2</data>
+</node>
+<node id="locks">
+  <data key="d0">1</data>
+</node>
+<node id="outbreak">
+  <data key="d0">18</data>
+</node>
+<node id="port">
+  <data key="d0">1</data>
+</node>
+<node id="public">
+  <data key="d0">7</data>
+</node>
+<node id="say">
+  <data key="d0">71</data>
+</node>
+<node id="strains">
+  <data key="d0">3</data>
+</node>
+<node id="view">
+  <data key="d0">5</data>
+</node>
+<node id="city">
+  <data key="d0">10</data>
+</node>
+<node id="internet">
+  <data key="d0">2</data>
+</node>
+<node id="operations">
+  <data key="d0">1</data>
+</node>
+<node id="researcher">
+  <data key="d0">1</data>
+</node>
+<node id="chuin">
+  <data key="d0">2</data>
+</node>
+<node id="wei">
+  <data key="d0">2</data>
+</node>
+<node id="cities">
+  <data key="d0">1</data>
+</node>
+<node id="residents">
+  <data key="d0">1</data>
+</node>
+<node id="relax">
+  <data key="d0">1</data>
+</node>
+<node id="multiple">
+  <data key="d0">1</data>
+</node>
+<node id="touch">
+  <data key="d0">1</data>
+</node>
+<node id="civil">
+  <data key="d0">1</data>
+</node>
+<node id="servant">
+  <data key="d0">1</data>
+</node>
+<node id="claim">
+  <data key="d0">2</data>
+</node>
+<node id="winner">
+  <data key="d0">2</data>
+</node>
+<node id="coca">
+  <data key="d0">1</data>
+</node>
+<node id="cola">
+  <data key="d0">1</data>
+</node>
+<node id="steel">
+  <data key="d0">1</data>
+</node>
+<node id="come">
+  <data key="d0">2</data>
+</node>
+<node id="coming">
+  <data key="d0">1</data>
+</node>
+<node id="day">
+  <data key="d0">9</data>
+</node>
+<node id="commission">
+  <data key="d0">2</data>
+</node>
+<node id="communicable">
+  <data key="d0">2</data>
+</node>
+<node id="companies">
+  <data key="d0">3</data>
+</node>
+<node id="try">
+  <data key="d0">6</data>
+</node>
+<node id="company">
+  <data key="d0">5</data>
+</node>
+<node id="office">
+  <data key="d0">3</data>
+</node>
+<node id="report">
+  <data key="d0">16</data>
+</node>
+<node id="compound">
+  <data key="d0">2</data>
+</node>
+<node id="pending">
+  <data key="d0">1</data>
+</node>
+<node id="concerns">
+  <data key="d0">1</data>
+</node>
+<node id="ease">
+  <data key="d0">2</data>
+</node>
+<node id="send">
+  <data key="d0">2</data>
+</node>
+<node id="consider">
+  <data key="d0">1</data>
+</node>
+<node id="considerable">
+  <data key="d0">1</data>
+</node>
+<node id="consumer">
+  <data key="d0">2</data>
+</node>
+<node id="contact">
+  <data key="d0">10</data>
+</node>
+<node id="editor">
+  <data key="d0">3</data>
+</node>
+<node id="reporter">
+  <data key="d0">4</data>
+</node>
+<node id="contain">
+  <data key="d0">4</data>
+</node>
+<node id="fluctuate">
+  <data key="d0">1</data>
+</node>
+<node id="operate">
+  <data key="d0">1</data>
+</node>
+<node id="step">
+  <data key="d0">1</data>
+</node>
+<node id="contribute">
+  <data key="d0">44</data>
+</node>
+<node id="article">
+  <data key="d0">41</data>
+</node>
+<node id="control">
+  <data key="d0">6</data>
+</node>
+<node id="prevention">
+  <data key="d0">1</data>
+</node>
+<node id="cortez">
+  <data key="d0">3</data>
+</node>
+<node id="minneapolis">
+  <data key="d0">3</data>
+</node>
+<node id="cough">
+  <data key="d0">2</data>
+</node>
+<node id="sneeze">
+  <data key="d0">2</data>
+</node>
+<node id="country">
+  <data key="d0">9</data>
+</node>
+<node id="people">
+  <data key="d0">23</data>
+</node>
+<node id="outer">
+  <data key="d0">1</data>
+</node>
+<node id="covid">
+  <data key="d0">1</data>
+</node>
+<node id="credit">
+  <data key="d0">1</data>
+</node>
+<node id="wendy">
+  <data key="d0">1</data>
+</node>
+<node id="criticisms">
+  <data key="d0">3</data>
+</node>
+<node id="crude">
+  <data key="d0">5</data>
+</node>
+<node id="trade">
+  <data key="d0">4</data>
+</node>
+<node id="curb">
+  <data key="d0">2</data>
+</node>
+<node id="excessive">
+  <data key="d0">1</data>
+</node>
+<node id="current">
+  <data key="d0">2</data>
+</node>
+<node id="impeachment">
+  <data key="d0">1</data>
+</node>
+<node id="customer">
+  <data key="d0">1</data>
+</node>
+<node id="employee">
+  <data key="d0">1</data>
+</node>
+<node id="revenue">
+  <data key="d0">2</data>
+</node>
+<node id="dangerous">
+  <data key="d0">2</data>
+</node>
+<node id="daughter">
+  <data key="d0">1</data>
+</node>
+<node id="daybook">
+  <data key="d0">1</data>
+</node>
+<node id="today">
+  <data key="d0">2</data>
+</node>
+<node id="deadly">
+  <data key="d0">1</data>
+</node>
+<node id="decade">
+  <data key="d0">2</data>
+</node>
+<node id="death">
+  <data key="d0">2</data>
+</node>
+<node id="united">
+  <data key="d0">7</data>
+</node>
+<node id="decisive">
+  <data key="d0">2</data>
+</node>
+<node id="wise">
+  <data key="d0">1</data>
+</node>
+<node id="decrease">
+  <data key="d0">1</data>
+</node>
+<node id="number">
+  <data key="d0">5</data>
+</node>
+<node id="deepen">
+  <data key="d0">1</data>
+</node>
+<node id="international">
+  <data key="d0">6</data>
+</node>
+<node id="defense">
+  <data key="d0">1</data>
+</node>
+<node id="deliver">
+  <data key="d0">1</data>
+</node>
+<node id="health">
+  <data key="d0">24</data>
+</node>
+<node id="delivery">
+  <data key="d0">3</data>
+</node>
+<node id="risk">
+  <data key="d0">5</data>
+</node>
+<node id="delta">
+  <data key="d0">1</data>
+</node>
+<node id="demand">
+  <data key="d0">2</data>
+</node>
+<node id="website">
+  <data key="d0">2</data>
+</node>
+<node id="department">
+  <data key="d0">5</data>
+</node>
+<node id="release">
+  <data key="d0">2</data>
+</node>
+<node id="depend">
+  <data key="d0">1</data>
+</node>
+<node id="length">
+  <data key="d0">1</data>
+</node>
+<node id="depth">
+  <data key="d0">2</data>
+</node>
+<node id="desperate">
+  <data key="d0">1</data>
+</node>
+<node id="determine">
+  <data key="d0">2</data>
+</node>
+<node id="epidemiologist">
+  <data key="d0">2</data>
+</node>
+<node id="national">
+  <data key="d0">2</data>
+</node>
+<node id="south">
+  <data key="d0">3</data>
+</node>
+<node id="ticked">
+  <data key="d0">1</data>
+</node>
+<node id="disruption">
+  <data key="d0">2</data>
+</node>
+<node id="divert">
+  <data key="d0">2</data>
+</node>
+<node id="lax">
+  <data key="d0">1</data>
+</node>
+<node id="dollar">
+  <data key="d0">2</data>
+</node>
+<node id="lead">
+  <data key="d0">2</data>
+</node>
+<node id="dong">
+  <data key="d0">1</data>
+</node>
+<node id="lyu">
+  <data key="d0">1</data>
+</node>
+<node id="dr">
+  <data key="d0">4</data>
+</node>
+<node id="scott">
+  <data key="d0">2</data>
+</node>
+<node id="drew">
+  <data key="d0">2</data>
+</node>
+<node id="armstrong">
+  <data key="d0">1</data>
+</node>
+<node id="government">
+  <data key="d0">8</data>
+</node>
+<node id="déjà">
+  <data key="d0">1</data>
+</node>
+<node id="vu">
+  <data key="d0">1</data>
+</node>
+<node id="earnings">
+  <data key="d0">1</data>
+</node>
+<node id="house">
+  <data key="d0">1</data>
+</node>
+<node id="easy">
+  <data key="d0">3</data>
+</node>
+<node id="immunity">
+  <data key="d0">1</data>
+</node>
+<node id="wild">
+  <data key="d0">2</data>
+</node>
+<node id="eating">
+  <data key="d0">1</data>
+</node>
+<node id="impact">
+  <data key="d0">7</data>
+</node>
+<node id="economics">
+  <data key="d0">1</data>
+</node>
+<node id="refer">
+  <data key="d0">1</data>
+</node>
+<node id="economy">
+  <data key="d0">6</data>
+</node>
+<node id="stocks">
+  <data key="d0">4</data>
+</node>
+<node id="responsible">
+  <data key="d0">4</data>
+</node>
+<node id="effort">
+  <data key="d0">2</data>
+</node>
+<node id="em">
+  <data key="d0">1</data>
+</node>
+<node id="emerges">
+  <data key="d0">1</data>
+</node>
+<node id="lawyer">
+  <data key="d0">1</data>
+</node>
+<node id="encourage">
+  <data key="d0">1</data>
+</node>
+<node id="end">
+  <data key="d0">5</data>
+</node>
+<node id="illuminated">
+  <data key="d0">1</data>
+</node>
+<node id="tuesday">
+  <data key="d0">1</data>
+</node>
+<node id="enforcement">
+  <data key="d0">2</data>
+</node>
+<node id="make">
+  <data key="d0">10</data>
+</node>
+<node id="prices">
+  <data key="d0">2</data>
+</node>
+<node id="epfanner1">
+  <data key="d0">1</data>
+</node>
+<node id="washington">
+  <data key="d0">7</data>
+</node>
+<node id="eric">
+  <data key="d0">3</data>
+</node>
+<node id="pfanner">
+  <data key="d0">1</data>
+</node>
+<node id="plan">
+  <data key="d0">6</data>
+</node>
+<node id="rapid">
+  <data key="d0">2</data>
+</node>
+<node id="expands">
+  <data key="d0">3</data>
+</node>
+<node id="expert">
+  <data key="d0">3</data>
+</node>
+<node id="infectious">
+  <data key="d0">1</data>
+</node>
+<node id="happen">
+  <data key="d0">6</data>
+</node>
+<node id="extent">
+  <data key="d0">1</data>
+</node>
+<node id="extra">
+  <data key="d0">1</data>
+</node>
+<node id="seat">
+  <data key="d0">2</data>
+</node>
+<node id="facility">
+  <data key="d0">3</data>
+</node>
+<node id="good">
+  <data key="d0">10</data>
+</node>
+<node id="provide">
+  <data key="d0">1</data>
+</node>
+<node id="factor">
+  <data key="d0">2</data>
+</node>
+<node id="faith">
+  <data key="d0">2</data>
+</node>
+<node id="version">
+  <data key="d0">2</data>
+</node>
+<node id="fay">
+  <data key="d0">3</data>
+</node>
+<node id="fear">
+  <data key="d0">5</data>
+</node>
+<node id="봞nd">
+  <data key="d0">1</data>
+</node>
+<node id="federal">
+  <data key="d0">1</data>
+</node>
+<node id="feel">
+  <data key="d0">4</data>
+</node>
+<node id="middle">
+  <data key="d0">1</data>
+</node>
+<node id="year">
+  <data key="d0">15</data>
+</node>
+<node id="filing">
+  <data key="d0">2</data>
+</node>
+<node id="condition">
+  <data key="d0">1</data>
+</node>
+<node id="services">
+  <data key="d0">1</data>
+</node>
+<node id="technology">
+  <data key="d0">1</data>
+</node>
+<node id="firewall">
+  <data key="d0">1</data>
+</node>
+<node id="friday">
+  <data key="d0">3</data>
+</node>
+<node id="week">
+  <data key="d0">5</data>
+</node>
+<node id="flood">
+  <data key="d0">1</data>
+</node>
+<node id="play">
+  <data key="d0">1</data>
+</node>
+<node id="season">
+  <data key="d0">4</data>
+</node>
+<node id="hard">
+  <data key="d0">1</data>
+</node>
+<node id="seoul">
+  <data key="d0">2</data>
+</node>
+<node id="force">
+  <data key="d0">2</data>
+</node>
+<node id="foundation">
+  <data key="d0">1</data>
+</node>
+<node id="free">
+  <data key="d0">1</data>
+</node>
+<node id="fresh">
+  <data key="d0">1</data>
+</node>
+<node id="meat">
+  <data key="d0">2</data>
+</node>
+<node id="funnies">
+  <data key="d0">1</data>
+</node>
+<node id="future">
+  <data key="d0">2</data>
+</node>
+<node id="world">
+  <data key="d0">8</data>
+</node>
+<node id="gambling">
+  <data key="d0">3</data>
+</node>
+<node id="hub">
+  <data key="d0">3</data>
+</node>
+<node id="gilead">
+  <data key="d0">1</data>
+</node>
+<node id="macro">
+  <data key="d0">1</data>
+</node>
+<node id="repercussion">
+  <data key="d0">1</data>
+</node>
+<node id="spirit">
+  <data key="d0">1</data>
+</node>
+<node id="notice">
+  <data key="d0">1</data>
+</node>
+<node id="grace">
+  <data key="d0">4</data>
+</node>
+<node id="zhu">
+  <data key="d0">4</data>
+</node>
+<node id="gu">
+  <data key="d0">1</data>
+</node>
+<node id="new">
+  <data key="d0">14</data>
+</node>
+<node id="gun">
+  <data key="d0">1</data>
+</node>
+<node id="hail">
+  <data key="d0">1</data>
+</node>
+<node id="significant">
+  <data key="d0">1</data>
+</node>
+<node id="han">
+  <data key="d0">4</data>
+</node>
+<node id="emergency">
+  <data key="d0">5</data>
+</node>
+<node id="minister">
+  <data key="d0">1</data>
+</node>
+<node id="organization">
+  <data key="d0">3</data>
+</node>
+<node id="priority">
+  <data key="d0">2</data>
+</node>
+<node id="screens">
+  <data key="d0">1</data>
+</node>
+<node id="threat">
+  <data key="d0">2</data>
+</node>
+<node id="hearing">
+  <data key="d0">1</data>
+</node>
+<node id="rise">
+  <data key="d0">6</data>
+</node>
+<node id="hits">
+  <data key="d0">1</data>
+</node>
+<node id="shipping">
+  <data key="d0">1</data>
+</node>
+<node id="hold">
+  <data key="d0">4</data>
+</node>
+<node id="holiday">
+  <data key="d0">2</data>
+</node>
+<node id="know">
+  <data key="d0">16</data>
+</node>
+<node id="lunar">
+  <data key="d0">4</data>
+</node>
+<node id="kong">
+  <data key="d0">7</data>
+</node>
+<node id="hospitals">
+  <data key="d0">1</data>
+</node>
+<node id="turn">
+  <data key="d0">1</data>
+</node>
+<node id="hotel">
+  <data key="d0">2</data>
+</node>
+<node id="worker">
+  <data key="d0">1</data>
+</node>
+<node id="huang">
+  <data key="d0">7</data>
+</node>
+<node id="macau">
+  <data key="d0">3</data>
+</node>
+<node id="hubei">
+  <data key="d0">3</data>
+</node>
+<node id="province">
+  <data key="d0">3</data>
+</node>
+<node id="identify">
+  <data key="d0">2</data>
+</node>
+<node id="night">
+  <data key="d0">1</data>
+</node>
+<node id="immediate">
+  <data key="d0">1</data>
+</node>
+<node id="need">
+  <data key="d0">7</data>
+</node>
+<node id="trial">
+  <data key="d0">1</data>
+</node>
+<node id="impossible">
+  <data key="d0">1</data>
+</node>
+<node id="predict">
+  <data key="d0">1</data>
+</node>
+<node id="indonesia">
+  <data key="d0">1</data>
+</node>
+<node id="infect">
+  <data key="d0">4</data>
+</node>
+<node id="information">
+  <data key="d0">8</data>
+</node>
+<node id="initial">
+  <data key="d0">3</data>
+</node>
+<node id="institute">
+  <data key="d0">1</data>
+</node>
+<node id="cooperation">
+  <data key="d0">1</data>
+</node>
+<node id="western">
+  <data key="d0">1</data>
+</node>
+<node id="investor">
+  <data key="d0">4</data>
+</node>
+<node id="investors">
+  <data key="d0">1</data>
+</node>
+<node id="island">
+  <data key="d0">1</data>
+</node>
+<node id="miles">
+  <data key="d0">1</data>
+</node>
+<node id="jacob">
+  <data key="d0">1</data>
+</node>
+<node id="jgu3">
+  <data key="d0">1</data>
+</node>
+<node id="john">
+  <data key="d0">2</data>
+</node>
+<node id="neil">
+  <data key="d0">2</data>
+</node>
+<node id="list">
+  <data key="d0">1</data>
+</node>
+<node id="jon">
+  <data key="d0">4</data>
+</node>
+<node id="emont">
+  <data key="d0">4</data>
+</node>
+<node id="joyu">
+  <data key="d0">6</data>
+</node>
+<node id="wang">
+  <data key="d0">9</data>
+</node>
+<node id="ken">
+  <data key="d0">1</data>
+</node>
+<node id="starr">
+  <data key="d0">1</data>
+</node>
+<node id="kenneth">
+  <data key="d0">1</data>
+</node>
+<node id="wong">
+  <data key="d0">4</data>
+</node>
+<node id="kharn">
+  <data key="d0">1</data>
+</node>
+<node id="lambert">
+  <data key="d0">1</data>
+</node>
+<node id="korea">
+  <data key="d0">5</data>
+</node>
+<node id="japan">
+  <data key="d0">5</data>
+</node>
+<node id="korean">
+  <data key="d0">1</data>
+</node>
+<node id="lab">
+  <data key="d0">1</data>
+</node>
+<node id="quarantine">
+  <data key="d0">5</data>
+</node>
+<node id="land">
+  <data key="d0">2</data>
+</node>
+<node id="incident">
+  <data key="d0">1</data>
+</node>
+<node id="landscape">
+  <data key="d0">1</data>
+</node>
+<node id="vegas">
+  <data key="d0">1</data>
+</node>
+<node id="president">
+  <data key="d0">3</data>
+</node>
+<node id="thousand">
+  <data key="d0">1</data>
+</node>
+<node id="tighter">
+  <data key="d0">1</data>
+</node>
+<node id="patrol">
+  <data key="d0">1</data>
+</node>
+<node id="portray">
+  <data key="d0">1</data>
+</node>
+<node id="let">
+  <data key="d0">7</data>
+</node>
+<node id="level">
+  <data key="d0">3</data>
+</node>
+<node id="official">
+  <data key="d0">8</data>
+</node>
+<node id="lindquist">
+  <data key="d0">2</data>
+</node>
+<node id="sars">
+  <data key="d0">5</data>
+</node>
+<node id="seasonal">
+  <data key="d0">2</data>
+</node>
+<node id="live">
+  <data key="d0">2</data>
+</node>
+<node id="poultry">
+  <data key="d0">1</data>
+</node>
+<node id="liyan">
+  <data key="d0">4</data>
+</node>
+<node id="qi">
+  <data key="d0">4</data>
+</node>
+<node id="liza">
+  <data key="d0">4</data>
+</node>
+<node id="lin">
+  <data key="d0">4</data>
+</node>
+<node id="ll">
+  <data key="d0">2</data>
+</node>
+<node id="screened">
+  <data key="d0">3</data>
+</node>
+<node id="research">
+  <data key="d0">3</data>
+</node>
+<node id="mainland">
+  <data key="d0">2</data>
+</node>
+<node id="patent">
+  <data key="d0">2</data>
+</node>
+<node id="native">
+  <data key="d0">1</data>
+</node>
+<node id="man">
+  <data key="d0">2</data>
+</node>
+<node id="mark">
+  <data key="d0">4</data>
+</node>
+<node id="schoifet">
+  <data key="d0">1</data>
+</node>
+<node id="sell">
+  <data key="d0">3</data>
+</node>
+<node id="slide">
+  <data key="d0">1</data>
+</node>
+<node id="mask">
+  <data key="d0">3</data>
+</node>
+<node id="mathematical">
+  <data key="d0">1</data>
+</node>
+<node id="modeling">
+  <data key="d0">1</data>
+</node>
+<node id="mccarran">
+  <data key="d0">1</data>
+</node>
+<node id="mcortez">
+  <data key="d0">3</data>
+</node>
+<node id="medium">
+  <data key="d0">1</data>
+</node>
+<node id="megumi">
+  <data key="d0">3</data>
+</node>
+<node id="fujikawa">
+  <data key="d0">3</data>
+</node>
+<node id="michelle">
+  <data key="d0">3</data>
+</node>
+<node id="miho">
+  <data key="d0">3</data>
+</node>
+<node id="inada">
+  <data key="d0">3</data>
+</node>
+<node id="mobile">
+  <data key="d0">1</data>
+</node>
+<node id="payment">
+  <data key="d0">1</data>
+</node>
+<node id="morning">
+  <data key="d0">1</data>
+</node>
+<node id="strahan">
+  <data key="d0">1</data>
+</node>
+<node id="ms">
+  <data key="d0">1</data>
+</node>
+<node id="nixon">
+  <data key="d0">1</data>
+</node>
+<node id="mschoifet">
+  <data key="d0">1</data>
+</node>
+<node id="voice">
+  <data key="d0">2</data>
+</node>
+<node id="mysterious">
+  <data key="d0">2</data>
+</node>
+<node id="past">
+  <data key="d0">2</data>
+</node>
+<node id="science">
+  <data key="d0">1</data>
+</node>
+<node id="negative">
+  <data key="d0">1</data>
+</node>
+<node id="reading">
+  <data key="d0">1</data>
+</node>
+<node id="paul">
+  <data key="d0">4</data>
+</node>
+<node id="york">
+  <data key="d0">2</data>
+</node>
+<node id="saturday">
+  <data key="d0">2</data>
+</node>
+<node id="staff">
+  <data key="d0">3</data>
+</node>
+<node id="north">
+  <data key="d0">3</data>
+</node>
+<node id="notable">
+  <data key="d0">1</data>
+</node>
+<node id="warn">
+  <data key="d0">3</data>
+</node>
+<node id="nytimes">
+  <data key="d0">7</data>
+</node>
+<node id="com">
+  <data key="d0">6</data>
+</node>
+<node id="officials">
+  <data key="d0">2</data>
+</node>
+<node id="open">
+  <data key="d0">2</data>
+</node>
+<node id="opportunity">
+  <data key="d0">1</data>
+</node>
+<node id="order">
+  <data key="d0">2</data>
+</node>
+<node id="orent">
+  <data key="d0">1</data>
+</node>
+<node id="constitute">
+  <data key="d0">2</data>
+</node>
+<node id="prompts">
+  <data key="d0">1</data>
+</node>
+<node id="perimeter">
+  <data key="d0">1</data>
+</node>
+<node id="overtime">
+  <data key="d0">1</data>
+</node>
+<node id="stay">
+  <data key="d0">1</data>
+</node>
+<node id="oxford">
+  <data key="d0">1</data>
+</node>
+<node id="pack">
+  <data key="d0">1</data>
+</node>
+<node id="thermometer">
+  <data key="d0">1</data>
+</node>
+<node id="pass">
+  <data key="d0">1</data>
+</node>
+<node id="terrifying">
+  <data key="d0">1</data>
+</node>
+<node id="patients">
+  <data key="d0">1</data>
+</node>
+<node id="scramble">
+  <data key="d0">1</data>
+</node>
+<node id="police">
+  <data key="d0">1</data>
+</node>
+<node id="geitner">
+  <data key="d0">2</data>
+</node>
+<node id="safety">
+  <data key="d0">4</data>
+</node>
+<node id="prevent">
+  <data key="d0">2</data>
+</node>
+<node id="protect">
+  <data key="d0">1</data>
+</node>
+<node id="tiny">
+  <data key="d0">1</data>
+</node>
+<node id="popular">
+  <data key="d0">1</data>
+</node>
+<node id="traffic">
+  <data key="d0">2</data>
+</node>
+<node id="trump">
+  <data key="d0">2</data>
+</node>
+<node id="press">
+  <data key="d0">5</data>
+</node>
+<node id="rebound">
+  <data key="d0">1</data>
+</node>
+<node id="surgical">
+  <data key="d0">1</data>
+</node>
+<node id="urge">
+  <data key="d0">3</data>
+</node>
+<node id="protection">
+  <data key="d0">1</data>
+</node>
+<node id="protective">
+  <data key="d0">2</data>
+</node>
+<node id="service">
+  <data key="d0">1</data>
+</node>
+<node id="value">
+  <data key="d0">1</data>
+</node>
+<node id="rachel">
+  <data key="d0">3</data>
+</node>
+<node id="pannett">
+  <data key="d0">2</data>
+</node>
+<node id="raffaele">
+  <data key="d0">6</data>
+</node>
+<node id="rally">
+  <data key="d0">1</data>
+</node>
+<node id="records">
+  <data key="d0">1</data>
+</node>
+<node id="raytheon">
+  <data key="d0">1</data>
+</node>
+<node id="real">
+  <data key="d0">1</data>
+</node>
+<node id="situation">
+  <data key="d0">5</data>
+</node>
+<node id="taking">
+  <data key="d0">1</data>
+</node>
+<node id="related">
+  <data key="d0">2</data>
+</node>
+<node id="relevant">
+  <data key="d0">1</data>
+</node>
+<node id="remedies">
+  <data key="d0">1</data>
+</node>
+<node id="story">
+  <data key="d0">13</data>
+</node>
+<node id="travel">
+  <data key="d0">16</data>
+</node>
+<node id="resiliency">
+  <data key="d0">1</data>
+</node>
+<node id="resilient">
+  <data key="d0">1</data>
+</node>
+<node id="syndrome">
+  <data key="d0">1</data>
+</node>
+<node id="delay">
+  <data key="d0">2</data>
+</node>
+<node id="sam">
+  <data key="d0">1</data>
+</node>
+<node id="scheiner">
+  <data key="d0">1</data>
+</node>
+<node id="scared">
+  <data key="d0">1</data>
+</node>
+<node id="want">
+  <data key="d0">8</data>
+</node>
+<node id="track">
+  <data key="d0">1</data>
+</node>
+<node id="canadians">
+  <data key="d0">1</data>
+</node>
+<node id="second">
+  <data key="d0">2</data>
+</node>
+<node id="task">
+  <data key="d0">2</data>
+</node>
+<node id="sets">
+  <data key="d0">1</data>
+</node>
+<node id="sharon">
+  <data key="d0">2</data>
+</node>
+<node id="time">
+  <data key="d0">7</data>
+</node>
+<node id="sky">
+  <data key="d0">2</data>
+</node>
+<node id="slides">
+  <data key="d0">1</data>
+</node>
+<node id="subdued">
+  <data key="d0">1</data>
+</node>
+<node id="stamp">
+  <data key="d0">3</data>
+</node>
+<node id="states">
+  <data key="d0">6</data>
+</node>
+<node id="team">
+  <data key="d0">1</data>
+</node>
+<node id="stress">
+  <data key="d0">1</data>
+</node>
+<node id="suspected">
+  <data key="d0">2</data>
+</node>
+<node id="tabloid">
+  <data key="d0">1</data>
+</node>
+<node id="cnn">
+  <data key="d0">2</data>
+</node>
+<node id="tests">
+  <data key="d0">2</data>
+</node>
+<node id="train">
+  <data key="d0">1</data>
+</node>
+<node id="update">
+  <data key="d0">5</data>
+</node>
+<node id="reflect">
+  <data key="d0">3</data>
+</node>
+<node id="visa">
+  <data key="d0">1</data>
+</node>
+<node id="video">
+  <data key="d0">2</data>
+</node>
+<node id="spread">
+  <data key="d0">13</data>
+</node>
+<node id="visitors">
+  <data key="d0">3</data>
+</node>
+<node id="wait">
+  <data key="d0">2</data>
+</node>
+<node id="yap">
+  <data key="d0">2</data>
+</node>
+<node id="wenxin">
+  <data key="d0">6</data>
+</node>
+<node id="fan">
+  <data key="d0">7</data>
+</node>
+<node id="xi">
+  <data key="d0">2</data>
+</node>
+<node id="yin">
+  <data key="d0">6</data>
+</node>
+<node id="yijun">
+  <data key="d0">6</data>
+</node>
+<node id="boredom">
+  <data key="d0">1</data>
+</node>
+<edge source="18" target="flu">
+  <data key="d1">17.5</data>
+</edge>
+<edge source="18" target="2017">
+  <data key="d1">17.5</data>
+</edge>
+<edge source="flu" target="play">
+  <data key="d1">17.5</data>
+</edge>
+<edge source="flu" target="season">
+  <data key="d1">23.166666666666668</data>
+</edge>
+<edge source="flu" target="predict">
+  <data key="d1">17.5</data>
+</edge>
+<edge source="19" target="join">
+  <data key="d1">22.166666666666668</data>
+</edge>
+<edge source="19" target="covid">
+  <data key="d1">22.166666666666668</data>
+</edge>
+<edge source="join" target="list">
+  <data key="d1">22.166666666666668</data>
+</edge>
+<edge source="2017" target="severe">
+  <data key="d1">17.5</data>
+</edge>
+<edge source="ability" target="leave">
+  <data key="d1">16.0</data>
+</edge>
+<edge source="ability" target="employee">
+  <data key="d1">16.0</data>
+</edge>
+<edge source="leave" target="china">
+  <data key="d1">16.0</data>
+</edge>
+<edge source="leave" target="fear">
+  <data key="d1">16.142857142857142</data>
+</edge>
+<edge source="leave" target="patrol">
+  <data key="d1">22.0</data>
+</edge>
+<edge source="leave" target="motivate">
+  <data key="d1">16.142857142857142</data>
+</edge>
+<edge source="leave" target="prevent">
+  <data key="d1">22.0</data>
+</edge>
+<edge source="able" target="offer">
+  <data key="d1">21.0</data>
+</edge>
+<edge source="able" target="official">
+  <data key="d1">21.0</data>
+</edge>
+<edge source="offer" target="seat">
+  <data key="d1">21.0</data>
+</edge>
+<edge source="accommodate" target="americans">
+  <data key="d1">21.0</data>
+</edge>
+<edge source="accommodate" target="seat">
+  <data key="d1">21.0</data>
+</edge>
+<edge source="americans" target="china">
+  <data key="d1">39.0</data>
+</edge>
+<edge source="americans" target="evacuated">
+  <data key="d1">41.0</data>
+</edge>
+<edge source="americans" target="manifest">
+  <data key="d1">21.0</data>
+</edge>
+<edge source="americans" target="wuhan">
+  <data key="d1">21.0</data>
+</edge>
+<edge source="americans" target="daughter">
+  <data key="d1">41.0</data>
+</edge>
+<edge source="americans" target="evacuation">
+  <data key="d1">39.0</data>
+</edge>
+<edge source="americans" target="need">
+  <data key="d1">21.0</data>
+</edge>
+<edge source="accord" target="centers">
+  <data key="d1">17.5</data>
+</edge>
+<edge source="accord" target="decade">
+  <data key="d1">17.5</data>
+</edge>
+<edge source="centers" target="disease">
+  <data key="d1">17.5</data>
+</edge>
+<edge source="according" target="statement">
+  <data key="d1">20.0</data>
+</edge>
+<edge source="statement" target="say">
+  <data key="d1">23.0</data>
+</edge>
+<edge source="statement" target="carry">
+  <data key="d1">20.0</data>
+</edge>
+<edge source="acute" target="respiratory">
+  <data key="d1">21.0</data>
+</edge>
+<edge source="acute" target="severe">
+  <data key="d1">21.0</data>
+</edge>
+<edge source="respiratory" target="syndrome">
+  <data key="d1">21.0</data>
+</edge>
+<edge source="respiratory" target="virus">
+  <data key="d1">22.166666666666668</data>
+</edge>
+<edge source="respiratory" target="seasonal">
+  <data key="d1">22.166666666666668</data>
+</edge>
+<edge source="add" target="monitor">
+  <data key="d1">18.5</data>
+</edge>
+<edge source="add" target="oil">
+  <data key="d1">16.0</data>
+</edge>
+<edge source="add" target="em">
+  <data key="d1">16.0</data>
+</edge>
+<edge source="add" target="say">
+  <data key="d1">33.66666666666667</data>
+</edge>
+<edge source="monitor" target="news">
+  <data key="d1">18.5</data>
+</edge>
+<edge source="oil" target="ease">
+  <data key="d1">39.0</data>
+</edge>
+<edge source="oil" target="prices">
+  <data key="d1">39.0</data>
+</edge>
+<edge source="administration" target="confirm">
+  <data key="d1">21.0</data>
+</edge>
+<edge source="administration" target="explanation">
+  <data key="d1">16.5</data>
+</edge>
+<edge source="administration" target="aviation">
+  <data key="d1">21.0</data>
+</edge>
+<edge source="administration" target="trial">
+  <data key="d1">16.5</data>
+</edge>
+<edge source="confirm" target="flight">
+  <data key="d1">21.0</data>
+</edge>
+<edge source="explanation" target="happen">
+  <data key="d1">16.5</data>
+</edge>
+<edge source="advertising" target="fashionable">
+  <data key="d1">30.0</data>
+</edge>
+<edge source="advertising" target="website">
+  <data key="d1">30.0</data>
+</edge>
+<edge source="fashionable" target="version">
+  <data key="d1">30.0</data>
+</edge>
+<edge source="advise" target="citizen">
+  <data key="d1">16.0</data>
+</edge>
+<edge source="advise" target="resident">
+  <data key="d1">17.86111111111111</data>
+</edge>
+<edge source="advise" target="kong">
+  <data key="d1">17.86111111111111</data>
+</edge>
+<edge source="advise" target="minister">
+  <data key="d1">16.0</data>
+</edge>
+<edge source="citizen" target="relax">
+  <data key="d1">16.0</data>
+</edge>
+<edge source="resident" target="travel">
+  <data key="d1">17.86111111111111</data>
+</edge>
+<edge source="agency" target="xinhua">
+  <data key="d1">20.0</data>
+</edge>
+<edge source="agency" target="news">
+  <data key="d1">20.0</data>
+</edge>
+<edge source="xinhua" target="xi">
+  <data key="d1">20.0</data>
+</edge>
+<edge source="aircraft" target="carrier">
+  <data key="d1">21.166666666666668</data>
+</edge>
+<edge source="aircraft" target="medium">
+  <data key="d1">21.166666666666668</data>
+</edge>
+<edge source="carrier" target="virus">
+  <data key="d1">21.166666666666668</data>
+</edge>
+<edge source="airlines" target="brace">
+  <data key="d1">41.0</data>
+</edge>
+<edge source="airlines" target="flight">
+  <data key="d1">21.0</data>
+</edge>
+<edge source="airlines" target="chinese">
+  <data key="d1">41.0</data>
+</edge>
+<edge source="airlines" target="korean">
+  <data key="d1">21.0</data>
+</edge>
+<edge source="brace" target="cut">
+  <data key="d1">41.0</data>
+</edge>
+<edge source="flight" target="charter">
+  <data key="d1">21.0</data>
+</edge>
+<edge source="flight" target="appear">
+  <data key="d1">21.0</data>
+</edge>
+<edge source="flight" target="boeing">
+  <data key="d1">21.0</data>
+</edge>
+<edge source="flight" target="divert">
+  <data key="d1">21.0</data>
+</edge>
+<edge source="flight" target="friday">
+  <data key="d1">16.0</data>
+</edge>
+<edge source="flight" target="thursday">
+  <data key="d1">21.0</data>
+</edge>
+<edge source="flight" target="week">
+  <data key="d1">16.0</data>
+</edge>
+<edge source="flight" target="halt">
+  <data key="d1">16.0</data>
+</edge>
+<edge source="flight" target="operate">
+  <data key="d1">16.0</data>
+</edge>
+<edge source="airport" target="las">
+  <data key="d1">21.0</data>
+</edge>
+<edge source="airport" target="screening">
+  <data key="d1">32.59523809523809</data>
+</edge>
+<edge source="airport" target="expands">
+  <data key="d1">32.59523809523809</data>
+</edge>
+<edge source="airport" target="international">
+  <data key="d1">21.0</data>
+</edge>
+<edge source="las" target="vegas">
+  <data key="d1">21.0</data>
+</edge>
+<edge source="screening" target="virus">
+  <data key="d1">23.28571428571429</data>
+</edge>
+<edge source="allow" target="courtyard">
+  <data key="d1">22.0</data>
+</edge>
+<edge source="allow" target="say">
+  <data key="d1">22.0</data>
+</edge>
+<edge source="courtyard" target="outer">
+  <data key="d1">22.0</data>
+</edge>
+<edge source="amazon" target="verizon">
+  <data key="d1">27.0</data>
+</edge>
+<edge source="amazon" target="today">
+  <data key="d1">27.0</data>
+</edge>
+<edge source="verizon" target="visa">
+  <data key="d1">27.0</data>
+</edge>
+<edge source="american" target="begin">
+  <data key="d1">16.0</data>
+</edge>
+<edge source="american" target="mother">
+  <data key="d1">41.0</data>
+</edge>
+<edge source="american" target="fears">
+  <data key="d1">41.0</data>
+</edge>
+<edge source="begin" target="halt">
+  <data key="d1">16.0</data>
+</edge>
+<edge source="begin" target="trace">
+  <data key="d1">23.833333333333336</data>
+</edge>
+<edge source="begin" target="officials">
+  <data key="d1">23.833333333333336</data>
+</edge>
+<edge source="mother" target="desperate">
+  <data key="d1">41.0</data>
+</edge>
+<edge source="china" target="animal">
+  <data key="d1">19.0</data>
+</edge>
+<edge source="china" target="bound">
+  <data key="d1">18.0</data>
+</edge>
+<edge source="china" target="build">
+  <data key="d1">21.166666666666668</data>
+</edge>
+<edge source="china" target="bat">
+  <data key="d1">19.0</data>
+</edge>
+<edge source="china" target="hit">
+  <data key="d1">39.0</data>
+</edge>
+<edge source="china" target="home">
+  <data key="d1">23.833333333333336</data>
+</edge>
+<edge source="china" target="likely">
+  <data key="d1">21.0</data>
+</edge>
+<edge source="china" target="locks">
+  <data key="d1">41.0</data>
+</edge>
+<edge source="china" target="outbreak">
+  <data key="d1">39.0</data>
+</edge>
+<edge source="china" target="port">
+  <data key="d1">39.0</data>
+</edge>
+<edge source="china" target="public">
+  <data key="d1">21.166666666666668</data>
+</edge>
+<edge source="china" target="say">
+  <data key="d1">31.833333333333332</data>
+</edge>
+<edge source="china" target="strains">
+  <data key="d1">32.59523809523809</data>
+</edge>
+<edge source="china" target="view">
+  <data key="d1">29.5</data>
+</edge>
+<edge source="china" target="come">
+  <data key="d1">23.333333333333332</data>
+</edge>
+<edge source="china" target="contact">
+  <data key="d1">23.833333333333336</data>
+</edge>
+<edge source="china" target="disruption">
+  <data key="d1">32.5</data>
+</edge>
+<edge source="china" target="mainland">
+  <data key="d1">16.333333333333336</data>
+</edge>
+<edge source="china" target="miles">
+  <data key="d1">41.0</data>
+</edge>
+<edge source="china" target="official">
+  <data key="d1">29.5</data>
+</edge>
+<edge source="china" target="refer">
+  <data key="d1">21.0</data>
+</edge>
+<edge source="china" target="screened">
+  <data key="d1">32.59523809523809</data>
+</edge>
+<edge source="china" target="shipping">
+  <data key="d1">39.0</data>
+</edge>
+<edge source="china" target="travel">
+  <data key="d1">27.333333333333332</data>
+</edge>
+<edge source="evacuated" target="wuhan">
+  <data key="d1">41.0</data>
+</edge>
+<edge source="manifest" target="official">
+  <data key="d1">21.0</data>
+</edge>
+<edge source="wuhan" target="attempt">
+  <data key="d1">41.0</data>
+</edge>
+<edge source="wuhan" target="related">
+  <data key="d1">39.0</data>
+</edge>
+<edge source="wuhan" target="wait">
+  <data key="d1">16.0</data>
+</edge>
+<edge source="wuhan" target="daughter">
+  <data key="d1">41.0</data>
+</edge>
+<edge source="wuhan" target="department">
+  <data key="d1">21.0</data>
+</edge>
+<edge source="wuhan" target="hospitals">
+  <data key="d1">39.0</data>
+</edge>
+<edge source="wuhan" target="pass">
+  <data key="d1">41.0</data>
+</edge>
+<edge source="wuhan" target="video">
+  <data key="d1">16.0</data>
+</edge>
+<edge source="amid" target="efforts">
+  <data key="d1">32.59523809523809</data>
+</edge>
+<edge source="amid" target="fears">
+  <data key="d1">41.0</data>
+</edge>
+<edge source="amid" target="operations">
+  <data key="d1">41.0</data>
+</edge>
+<edge source="amid" target="rise">
+  <data key="d1">32.59523809523809</data>
+</edge>
+<edge source="efforts" target="contain">
+  <data key="d1">32.59523809523809</data>
+</edge>
+<edge source="fears" target="봞nd">
+  <data key="d1">41.0</data>
+</edge>
+<edge source="fears" target="virus">
+  <data key="d1">41.0</data>
+</edge>
+<edge source="animal" target="avoid">
+  <data key="d1">17.86111111111111</data>
+</edge>
+<edge source="animal" target="eat">
+  <data key="d1">17.86111111111111</data>
+</edge>
+<edge source="animal" target="live">
+  <data key="d1">17.86111111111111</data>
+</edge>
+<edge source="animal" target="wild">
+  <data key="d1">36.861111111111114</data>
+</edge>
+<edge source="avoid" target="market">
+  <data key="d1">17.86111111111111</data>
+</edge>
+<edge source="avoid" target="work">
+  <data key="d1">16.0</data>
+</edge>
+<edge source="avoid" target="relax">
+  <data key="d1">16.0</data>
+</edge>
+<edge source="eat" target="wild">
+  <data key="d1">17.86111111111111</data>
+</edge>
+<edge source="announce" target="fine">
+  <data key="d1">30.0</data>
+</edge>
+<edge source="fine" target="beijing">
+  <data key="d1">30.0</data>
+</edge>
+<edge source="appear" target="meet">
+  <data key="d1">21.0</data>
+</edge>
+<edge source="meet" target="immediate">
+  <data key="d1">21.0</data>
+</edge>
+<edge source="application" target="file">
+  <data key="d1">23.0</data>
+</edge>
+<edge source="application" target="perspective">
+  <data key="d1">23.0</data>
+</edge>
+<edge source="application" target="patent">
+  <data key="d1">23.0</data>
+</edge>
+<edge source="file" target="year">
+  <data key="d1">23.0</data>
+</edge>
+<edge source="perspective" target="protect">
+  <data key="d1">23.0</data>
+</edge>
+<edge source="applications" target="chinese">
+  <data key="d1">23.0</data>
+</edge>
+<edge source="applications" target="patent">
+  <data key="d1">23.0</data>
+</edge>
+<edge source="chinese" target="city">
+  <data key="d1">17.0</data>
+</edge>
+<edge source="chinese" target="internet">
+  <data key="d1">19.0</data>
+</edge>
+<edge source="chinese" target="operations">
+  <data key="d1">41.0</data>
+</edge>
+<edge source="chinese" target="researcher">
+  <data key="d1">23.0</data>
+</edge>
+<edge source="chinese" target="say">
+  <data key="d1">16.0</data>
+</edge>
+<edge source="chinese" target="new">
+  <data key="d1">41.0</data>
+</edge>
+<edge source="chinese" target="pay">
+  <data key="d1">19.0</data>
+</edge>
+<edge source="chinese" target="suspend">
+  <data key="d1">41.0</data>
+</edge>
+<edge source="chinese" target="use">
+  <data key="d1">16.0</data>
+</edge>
+<edge source="asia" target="link">
+  <data key="d1">19.0</data>
+</edge>
+<edge source="asia" target="native">
+  <data key="d1">19.0</data>
+</edge>
+<edge source="link" target="sars">
+  <data key="d1">19.0</data>
+</edge>
+<edge source="asked" target="motivate">
+  <data key="d1">16.142857142857142</data>
+</edge>
+<edge source="asked" target="driver">
+  <data key="d1">16.142857142857142</data>
+</edge>
+<edge source="assess" target="financial">
+  <data key="d1">32.59523809523809</data>
+</edge>
+<edge source="assess" target="try">
+  <data key="d1">32.59523809523809</data>
+</edge>
+<edge source="financial" target="condition">
+  <data key="d1">16.0</data>
+</edge>
+<edge source="financial" target="impact">
+  <data key="d1">32.59523809523809</data>
+</edge>
+<edge source="financial" target="services">
+  <data key="d1">27.0</data>
+</edge>
+<edge source="financial" target="technology">
+  <data key="d1">27.0</data>
+</edge>
+<edge source="financial" target="force">
+  <data key="d1">27.0</data>
+</edge>
+<edge source="financial" target="house">
+  <data key="d1">27.0</data>
+</edge>
+<edge source="financial" target="tighter">
+  <data key="d1">16.0</data>
+</edge>
+<edge source="assign" target="blame">
+  <data key="d1">29.5</data>
+</edge>
+<edge source="assign" target="good">
+  <data key="d1">29.5</data>
+</edge>
+<edge source="blame" target="lower">
+  <data key="d1">29.5</data>
+</edge>
+<edge source="attempt" target="desperate">
+  <data key="d1">41.0</data>
+</edge>
+<edge source="attention" target="pay">
+  <data key="d1">19.0</data>
+</edge>
+<edge source="attention" target="considerable">
+  <data key="d1">19.0</data>
+</edge>
+<edge source="australia" target="evacuation">
+  <data key="d1">41.0</data>
+</edge>
+<edge source="australia" target="revenue">
+  <data key="d1">41.0</data>
+</edge>
+<edge source="evacuation" target="plan">
+  <data key="d1">41.0</data>
+</edge>
+<edge source="evacuation" target="second">
+  <data key="d1">39.0</data>
+</edge>
+<edge source="author" target="plague">
+  <data key="d1">16.0</data>
+</edge>
+<edge source="author" target="orent">
+  <data key="d1">16.0</data>
+</edge>
+<edge source="plague" target="mysterious">
+  <data key="d1">16.0</data>
+</edge>
+<edge source="authority" target="continue">
+  <data key="d1">30.0</data>
+</edge>
+<edge source="authority" target="hong">
+  <data key="d1">17.86111111111111</data>
+</edge>
+<edge source="authority" target="health">
+  <data key="d1">43.111111111111114</data>
+</edge>
+<edge source="authority" target="warn">
+  <data key="d1">30.0</data>
+</edge>
+<edge source="continue" target="fluctuate">
+  <data key="d1">16.5</data>
+</edge>
+<edge source="continue" target="operate">
+  <data key="d1">16.0</data>
+</edge>
+<edge source="continue" target="step">
+  <data key="d1">30.0</data>
+</edge>
+<edge source="continue" target="happen">
+  <data key="d1">16.5</data>
+</edge>
+<edge source="continue" target="say">
+  <data key="d1">16.0</data>
+</edge>
+<edge source="hong" target="kong">
+  <data key="d1">105.86904761904762</data>
+</edge>
+<edge source="hong" target="priority">
+  <data key="d1">21.615079365079364</data>
+</edge>
+<edge source="hong" target="safety">
+  <data key="d1">21.615079365079364</data>
+</edge>
+<edge source="aviation" target="federal">
+  <data key="d1">21.0</data>
+</edge>
+<edge source="market" target="extent">
+  <data key="d1">18.5</data>
+</edge>
+<edge source="market" target="faith">
+  <data key="d1">23.28571428571429</data>
+</edge>
+<edge source="market" target="sell">
+  <data key="d1">17.86111111111111</data>
+</edge>
+<edge source="market" target="slide">
+  <data key="d1">18.5</data>
+</edge>
+<edge source="market" target="tests">
+  <data key="d1">23.28571428571429</data>
+</edge>
+<edge source="work" target="service">
+  <data key="d1">21.615079365079364</data>
+</edge>
+<edge source="work" target="home">
+  <data key="d1">29.448412698412696</data>
+</edge>
+<edge source="work" target="overtime">
+  <data key="d1">16.0</data>
+</edge>
+<edge source="away" target="severe">
+  <data key="d1">39.0</data>
+</edge>
+<edge source="away" target="turn">
+  <data key="d1">39.0</data>
+</edge>
+<edge source="severe" target="outbreak">
+  <data key="d1">21.0</data>
+</edge>
+<edge source="severe" target="cases">
+  <data key="d1">39.0</data>
+</edge>
+<edge source="severe" target="track">
+  <data key="d1">17.5</data>
+</edge>
+<edge source="background" target="use">
+  <data key="d1">16.0</data>
+</edge>
+<edge source="background" target="voice">
+  <data key="d1">16.0</data>
+</edge>
+<edge source="bat" target="civet">
+  <data key="d1">19.0</data>
+</edge>
+<edge source="civet" target="cat">
+  <data key="d1">19.0</data>
+</edge>
+<edge source="battle" target="lyme">
+  <data key="d1">16.0</data>
+</edge>
+<edge source="battle" target="virus">
+  <data key="d1">41.0</data>
+</edge>
+<edge source="battle" target="residents">
+  <data key="d1">41.0</data>
+</edge>
+<edge source="battle" target="ticked">
+  <data key="d1">16.0</data>
+</edge>
+<edge source="lyme" target="disease">
+  <data key="d1">16.0</data>
+</edge>
+<edge source="virus" target="contain">
+  <data key="d1">42.345238095238095</data>
+</edge>
+<edge source="virus" target="fear">
+  <data key="d1">16.142857142857142</data>
+</edge>
+<edge source="virus" target="firewall">
+  <data key="d1">21.166666666666668</data>
+</edge>
+<edge source="virus" target="companies">
+  <data key="d1">32.59523809523809</data>
+</edge>
+<edge source="virus" target="lead">
+  <data key="d1">22.166666666666668</data>
+</edge>
+<edge source="virus" target="mr">
+  <data key="d1">16.142857142857142</data>
+</edge>
+<edge source="virus" target="protection">
+  <data key="d1">21.166666666666668</data>
+</edge>
+<edge source="virus" target="research">
+  <data key="d1">21.166666666666668</data>
+</edge>
+<edge source="virus" target="spread">
+  <data key="d1">26.0</data>
+</edge>
+<edge source="virus" target="tests">
+  <data key="d1">23.28571428571429</data>
+</edge>
+<edge source="beaumont" target="mr">
+  <data key="d1">18.0</data>
+</edge>
+<edge source="beaumont" target="office">
+  <data key="d1">18.0</data>
+</edge>
+<edge source="mr" target="han">
+  <data key="d1">16.142857142857142</data>
+</edge>
+<edge source="mr" target="strahan">
+  <data key="d1">18.0</data>
+</edge>
+<edge source="beef" target="legitimacy">
+  <data key="d1">29.5</data>
+</edge>
+<edge source="beef" target="opportunity">
+  <data key="d1">29.5</data>
+</edge>
+<edge source="legitimacy" target="portray">
+  <data key="d1">29.5</data>
+</edge>
+<edge source="trace" target="washington">
+  <data key="d1">23.833333333333336</data>
+</edge>
+<edge source="beijing" target="dlyu3">
+  <data key="d1">34.46969696969697</data>
+</edge>
+<edge source="beijing" target="drugstore">
+  <data key="d1">30.0</data>
+</edge>
+<edge source="beijing" target="lyu">
+  <data key="d1">34.46969696969697</data>
+</edge>
+<edge source="dlyu3" target="bloomberg">
+  <data key="d1">34.46969696969697</data>
+</edge>
+<edge source="drugstore" target="government">
+  <data key="d1">30.0</data>
+</edge>
+<edge source="ben" target="director">
+  <data key="d1">21.0</data>
+</edge>
+<edge source="ben" target="say">
+  <data key="d1">21.0</data>
+</edge>
+<edge source="director" target="global">
+  <data key="d1">21.0</data>
+</edge>
+<edge source="betsy" target="mckay">
+  <data key="d1">27.49122807017544</data>
+</edge>
+<edge source="big" target="global">
+  <data key="d1">30.5</data>
+</edge>
+<edge source="big" target="likely">
+  <data key="d1">21.0</data>
+</edge>
+<edge source="global" target="faith">
+  <data key="d1">23.28571428571429</data>
+</edge>
+<edge source="global" target="economy">
+  <data key="d1">26.619047619047628</data>
+</edge>
+<edge source="global" target="macro">
+  <data key="d1">21.0</data>
+</edge>
+<edge source="global" target="repercussion">
+  <data key="d1">21.0</data>
+</edge>
+<edge source="lower" target="level">
+  <data key="d1">29.5</data>
+</edge>
+<edge source="bloomberg" target="net">
+  <data key="d1">240.33333333333334</data>
+</edge>
+<edge source="bloomberg" target="news">
+  <data key="d1">43.96969696969697</data>
+</edge>
+<edge source="bloomberg" target="contact">
+  <data key="d1">34.46969696969697</data>
+</edge>
+<edge source="bloomberg" target="epfanner1">
+  <data key="d1">34.46969696969697</data>
+</edge>
+<edge source="bloomberg" target="jgu3">
+  <data key="d1">34.46969696969697</data>
+</edge>
+<edge source="bloomberg" target="mcortez">
+  <data key="d1">51.22727272727273</data>
+</edge>
+<edge source="bloomberg" target="mschoifet">
+  <data key="d1">34.46969696969697</data>
+</edge>
+<edge source="bloomberg" target="schen462">
+  <data key="d1">16.757575757575758</data>
+</edge>
+<edge source="bloomberg" target="wchang98">
+  <data key="d1">34.46969696969697</data>
+</edge>
+<edge source="net" target="contact">
+  <data key="d1">51.22727272727273</data>
+</edge>
+<edge source="net" target="dong">
+  <data key="d1">34.46969696969697</data>
+</edge>
+<edge source="net" target="eric">
+  <data key="d1">34.46969696969697</data>
+</edge>
+<edge source="net" target="jacob">
+  <data key="d1">34.46969696969697</data>
+</edge>
+<edge source="net" target="john">
+  <data key="d1">16.757575757575758</data>
+</edge>
+<edge source="net" target="kenneth">
+  <data key="d1">34.46969696969697</data>
+</edge>
+<edge source="net" target="mark">
+  <data key="d1">34.46969696969697</data>
+</edge>
+<edge source="news" target="report">
+  <data key="d1">18.5</data>
+</edge>
+<edge source="news" target="saturday">
+  <data key="d1">22.0</data>
+</edge>
+<edge source="news" target="staff">
+  <data key="d1">34.46969696969697</data>
+</edge>
+<edge source="news" target="sky">
+  <data key="d1">22.0</data>
+</edge>
+<edge source="news" target="state">
+  <data key="d1">20.0</data>
+</edge>
+<edge source="boeing" target="fly">
+  <data key="d1">21.0</data>
+</edge>
+<edge source="fly" target="seoul">
+  <data key="d1">21.0</data>
+</edge>
+<edge source="bond" target="push">
+  <data key="d1">16.0</data>
+</edge>
+<edge source="bond" target="government">
+  <data key="d1">16.0</data>
+</edge>
+<edge source="push" target="value">
+  <data key="d1">16.0</data>
+</edge>
+<edge source="bound" target="box">
+  <data key="d1">18.0</data>
+</edge>
+<edge source="box" target="gun">
+  <data key="d1">18.0</data>
+</edge>
+<edge source="cut" target="revenue">
+  <data key="d1">41.0</data>
+</edge>
+<edge source="breadth" target="economic">
+  <data key="d1">18.5</data>
+</edge>
+<edge source="breadth" target="depth">
+  <data key="d1">18.5</data>
+</edge>
+<edge source="economic" target="impact">
+  <data key="d1">18.5</data>
+</edge>
+<edge source="breakthrough" target="build">
+  <data key="d1">21.166666666666668</data>
+</edge>
+<edge source="breakthrough" target="significant">
+  <data key="d1">21.166666666666668</data>
+</edge>
+<edge source="brunt" target="hit">
+  <data key="d1">39.0</data>
+</edge>
+<edge source="brunt" target="taking">
+  <data key="d1">39.0</data>
+</edge>
+<edge source="hit" target="outbreak">
+  <data key="d1">21.0</data>
+</edge>
+<edge source="bull" target="session">
+  <data key="d1">27.0</data>
+</edge>
+<edge source="bull" target="funnies">
+  <data key="d1">27.0</data>
+</edge>
+<edge source="business" target="confidence">
+  <data key="d1">16.0</data>
+</edge>
+<edge source="business" target="consumer">
+  <data key="d1">16.0</data>
+</edge>
+<edge source="confidence" target="send">
+  <data key="d1">16.0</data>
+</edge>
+<edge source="businesses" target="suspend">
+  <data key="d1">41.0</data>
+</edge>
+<edge source="businesses" target="related">
+  <data key="d1">41.0</data>
+</edge>
+<edge source="cameron" target="mcwhirter">
+  <data key="d1">16.385964912280702</data>
+</edge>
+<edge source="mcwhirter" target="contribute">
+  <data key="d1">16.385964912280702</data>
+</edge>
+<edge source="car" target="driver">
+  <data key="d1">16.142857142857142</data>
+</edge>
+<edge source="car" target="try">
+  <data key="d1">16.142857142857142</data>
+</edge>
+<edge source="care" target="essential">
+  <data key="d1">21.615079365079364</data>
+</edge>
+<edge source="care" target="health">
+  <data key="d1">30.115079365079364</data>
+</edge>
+<edge source="essential" target="public">
+  <data key="d1">21.615079365079364</data>
+</edge>
+<edge source="carry" target="state">
+  <data key="d1">20.0</data>
+</edge>
+<edge source="state" target="defense">
+  <data key="d1">21.166666666666668</data>
+</edge>
+<edge source="state" target="department">
+  <data key="d1">37.166666666666664</data>
+</edge>
+<edge source="state" target="medium">
+  <data key="d1">21.166666666666668</data>
+</edge>
+<edge source="state" target="washington">
+  <data key="d1">23.833333333333336</data>
+</edge>
+<edge source="case" target="short">
+  <data key="d1">29.5</data>
+</edge>
+<edge source="case" target="thursday">
+  <data key="d1">18.0</data>
+</edge>
+<edge source="case" target="middle">
+  <data key="d1">18.0</data>
+</edge>
+<edge source="case" target="number">
+  <data key="d1">44.666666666666664</data>
+</edge>
+<edge source="case" target="suspected">
+  <data key="d1">21.083333333333332</data>
+</edge>
+<edge source="short" target="time">
+  <data key="d1">29.5</data>
+</edge>
+<edge source="thursday" target="extra">
+  <data key="d1">21.0</data>
+</edge>
+<edge source="thursday" target="morning">
+  <data key="d1">18.0</data>
+</edge>
+<edge source="cases" target="threatens">
+  <data key="d1">39.0</data>
+</edge>
+<edge source="threatens" target="popular">
+  <data key="d1">39.0</data>
+</edge>
+<edge source="cat" target="mammal">
+  <data key="d1">19.0</data>
+</edge>
+<edge source="mammal" target="native">
+  <data key="d1">19.0</data>
+</edge>
+<edge source="center" target="tell">
+  <data key="d1">22.0</data>
+</edge>
+<edge source="center" target="quarantine">
+  <data key="d1">22.0</data>
+</edge>
+<edge source="tell" target="cnn">
+  <data key="d1">22.0</data>
+</edge>
+<edge source="tell" target="sky">
+  <data key="d1">22.0</data>
+</edge>
+<edge source="disease" target="communicable">
+  <data key="d1">23.833333333333336</data>
+</edge>
+<edge source="disease" target="dangerous">
+  <data key="d1">16.0</data>
+</edge>
+<edge source="disease" target="control">
+  <data key="d1">17.5</data>
+</edge>
+<edge source="disease" target="epidemiologist">
+  <data key="d1">23.833333333333336</data>
+</edge>
+<edge source="disease" target="national">
+  <data key="d1">22.166666666666668</data>
+</edge>
+<edge source="disease" target="say">
+  <data key="d1">16.0</data>
+</edge>
+<edge source="disease" target="south">
+  <data key="d1">16.0</data>
+</edge>
+<edge source="disease" target="ticked">
+  <data key="d1">16.0</data>
+</edge>
+<edge source="disease" target="free">
+  <data key="d1">16.0</data>
+</edge>
+<edge source="disease" target="infectious">
+  <data key="d1">22.166666666666668</data>
+</edge>
+<edge source="chang" target="wchang98">
+  <data key="d1">34.46969696969697</data>
+</edge>
+<edge source="chang" target="rachel">
+  <data key="d1">34.46969696969697</data>
+</edge>
+<edge source="charter" target="say">
+  <data key="d1">21.0</data>
+</edge>
+<edge source="chen" target="schen462">
+  <data key="d1">16.757575757575758</data>
+</edge>
+<edge source="chen" target="sharon">
+  <data key="d1">16.757575757575758</data>
+</edge>
+<edge source="home" target="criticisms">
+  <data key="d1">32.59523809523809</data>
+</edge>
+<edge source="home" target="know">
+  <data key="d1">32.59523809523809</data>
+</edge>
+<edge source="home" target="lunar">
+  <data key="d1">21.615079365079364</data>
+</edge>
+<edge source="home" target="say">
+  <data key="d1">16.142857142857142</data>
+</edge>
+<edge source="home" target="year">
+  <data key="d1">16.142857142857142</data>
+</edge>
+<edge source="locks" target="cities">
+  <data key="d1">41.0</data>
+</edge>
+<edge source="outbreak" target="control">
+  <data key="d1">29.5</data>
+</edge>
+<edge source="outbreak" target="determine">
+  <data key="d1">24.666666666666664</data>
+</edge>
+<edge source="outbreak" target="impact">
+  <data key="d1">18.5</data>
+</edge>
+<edge source="outbreak" target="constitute">
+  <data key="d1">24.666666666666664</data>
+</edge>
+<edge source="outbreak" target="decrease">
+  <data key="d1">29.5</data>
+</edge>
+<edge source="outbreak" target="ms">
+  <data key="d1">18.5</data>
+</edge>
+<edge source="outbreak" target="opportunity">
+  <data key="d1">29.5</data>
+</edge>
+<edge source="outbreak" target="prompts">
+  <data key="d1">39.0</data>
+</edge>
+<edge source="outbreak" target="sars">
+  <data key="d1">25.5</data>
+</edge>
+<edge source="outbreak" target="view">
+  <data key="d1">29.5</data>
+</edge>
+<edge source="port" target="traffic">
+  <data key="d1">39.0</data>
+</edge>
+<edge source="public" target="health">
+  <data key="d1">74.00000000000001</data>
+</edge>
+<edge source="public" target="service">
+  <data key="d1">21.615079365079364</data>
+</edge>
+<edge source="say" target="commission">
+  <data key="d1">18.0</data>
+</edge>
+<edge source="say" target="department">
+  <data key="d1">21.0</data>
+</edge>
+<edge source="say" target="divert">
+  <data key="d1">21.0</data>
+</edge>
+<edge source="say" target="foundation">
+  <data key="d1">22.166666666666668</data>
+</edge>
+<edge source="say" target="han">
+  <data key="d1">16.142857142857142</data>
+</edge>
+<edge source="say" target="huang">
+  <data key="d1">29.5</data>
+</edge>
+<edge source="say" target="infect">
+  <data key="d1">23.833333333333336</data>
+</edge>
+<edge source="say" target="institute">
+  <data key="d1">23.0</data>
+</edge>
+<edge source="say" target="nixon">
+  <data key="d1">18.5</data>
+</edge>
+<edge source="say" target="repercussion">
+  <data key="d1">21.0</data>
+</edge>
+<edge source="say" target="researcher">
+  <data key="d1">23.0</data>
+</edge>
+<edge source="say" target="claim">
+  <data key="d1">29.5</data>
+</edge>
+<edge source="say" target="covid">
+  <data key="d1">22.166666666666668</data>
+</edge>
+<edge source="say" target="dr">
+  <data key="d1">23.833333333333336</data>
+</edge>
+<edge source="say" target="em">
+  <data key="d1">16.0</data>
+</edge>
+<edge source="say" target="impossible">
+  <data key="d1">17.5</data>
+</edge>
+<edge source="say" target="korean">
+  <data key="d1">21.0</data>
+</edge>
+<edge source="say" target="make">
+  <data key="d1">23.0</data>
+</edge>
+<edge source="say" target="official">
+  <data key="d1">29.5</data>
+</edge>
+<edge source="say" target="prevent">
+  <data key="d1">16.0</data>
+</edge>
+<edge source="say" target="scared">
+  <data key="d1">16.142857142857142</data>
+</edge>
+<edge source="say" target="want">
+  <data key="d1">21.0</data>
+</edge>
+<edge source="say" target="subdued">
+  <data key="d1">22.0</data>
+</edge>
+<edge source="say" target="time">
+  <data key="d1">29.5</data>
+</edge>
+<edge source="say" target="united">
+  <data key="d1">16.0</data>
+</edge>
+<edge source="strains" target="stamp">
+  <data key="d1">32.59523809523809</data>
+</edge>
+<edge source="view" target="consider">
+  <data key="d1">23.0</data>
+</edge>
+<edge source="view" target="know">
+  <data key="d1">23.0</data>
+</edge>
+<edge source="city" target="multiple">
+  <data key="d1">16.0</data>
+</edge>
+<edge source="city" target="touch">
+  <data key="d1">17.86111111111111</data>
+</edge>
+<edge source="city" target="landscape">
+  <data key="d1">16.0</data>
+</edge>
+<edge source="city" target="travel">
+  <data key="d1">17.86111111111111</data>
+</edge>
+<edge source="internet" target="western">
+  <data key="d1">19.0</data>
+</edge>
+<edge source="chuin" target="wei">
+  <data key="d1">16.385964912280702</data>
+</edge>
+<edge source="wei" target="yap">
+  <data key="d1">16.385964912280702</data>
+</edge>
+<edge source="cities" target="residents">
+  <data key="d1">41.0</data>
+</edge>
+<edge source="multiple" target="voice">
+  <data key="d1">16.0</data>
+</edge>
+<edge source="touch" target="live">
+  <data key="d1">17.86111111111111</data>
+</edge>
+<edge source="civil" target="servant">
+  <data key="d1">21.615079365079364</data>
+</edge>
+<edge source="civil" target="encourage">
+  <data key="d1">21.615079365079364</data>
+</edge>
+<edge source="servant" target="deliver">
+  <data key="d1">21.615079365079364</data>
+</edge>
+<edge source="claim" target="winner">
+  <data key="d1">29.5</data>
+</edge>
+<edge source="coca" target="cola">
+  <data key="d1">27.0</data>
+</edge>
+<edge source="coca" target="visa">
+  <data key="d1">27.0</data>
+</edge>
+<edge source="cola" target="steel">
+  <data key="d1">27.0</data>
+</edge>
+<edge source="steel" target="raytheon">
+  <data key="d1">27.0</data>
+</edge>
+<edge source="coming" target="day">
+  <data key="d1">18.5</data>
+</edge>
+<edge source="coming" target="report">
+  <data key="d1">18.5</data>
+</edge>
+<edge source="communicable" target="lindquist">
+  <data key="d1">23.833333333333336</data>
+</edge>
+<edge source="companies" target="try">
+  <data key="d1">32.59523809523809</data>
+</edge>
+<edge source="try" target="ll">
+  <data key="d1">16.142857142857142</data>
+</edge>
+<edge source="company" target="office">
+  <data key="d1">18.0</data>
+</edge>
+<edge source="company" target="report">
+  <data key="d1">27.0</data>
+</edge>
+<edge source="company" target="morning">
+  <data key="d1">18.0</data>
+</edge>
+<edge source="company" target="notable">
+  <data key="d1">27.0</data>
+</edge>
+<edge source="office" target="make">
+  <data key="d1">30.333333333333336</data>
+</edge>
+<edge source="office" target="quarantine">
+  <data key="d1">30.333333333333336</data>
+</edge>
+<edge source="report" target="contribute">
+  <data key="d1">30.75</data>
+</edge>
+<edge source="report" target="earnings">
+  <data key="d1">27.0</data>
+</edge>
+<edge source="compound" target="pending">
+  <data key="d1">23.0</data>
+</edge>
+<edge source="compound" target="know">
+  <data key="d1">23.0</data>
+</edge>
+<edge source="pending" target="patent">
+  <data key="d1">23.0</data>
+</edge>
+<edge source="concerns" target="ease">
+  <data key="d1">39.0</data>
+</edge>
+<edge source="concerns" target="investors">
+  <data key="d1">39.0</data>
+</edge>
+<edge source="send" target="investor">
+  <data key="d1">16.0</data>
+</edge>
+<edge source="consider" target="filing">
+  <data key="d1">23.0</data>
+</edge>
+<edge source="consumer" target="reading">
+  <data key="d1">16.0</data>
+</edge>
+<edge source="contact" target="editor">
+  <data key="d1">51.22727272727273</data>
+</edge>
+<edge source="contact" target="reporter">
+  <data key="d1">16.757575757575758</data>
+</edge>
+<edge source="contact" target="man">
+  <data key="d1">23.833333333333336</data>
+</edge>
+<edge source="editor" target="responsible">
+  <data key="d1">51.22727272727273</data>
+</edge>
+<edge source="reporter" target="story">
+  <data key="d1">16.757575757575758</data>
+</edge>
+<edge source="fluctuate" target="hard">
+  <data key="d1">16.5</data>
+</edge>
+<edge source="step" target="enforcement">
+  <data key="d1">30.0</data>
+</edge>
+<edge source="contribute" target="article">
+  <data key="d1">145.85714285714286</data>
+</edge>
+<edge source="control" target="prevention">
+  <data key="d1">17.5</data>
+</edge>
+<edge source="control" target="wise">
+  <data key="d1">29.5</data>
+</edge>
+<edge source="cortez" target="minneapolis">
+  <data key="d1">51.22727272727273</data>
+</edge>
+<edge source="cortez" target="fay">
+  <data key="d1">51.22727272727273</data>
+</edge>
+<edge source="minneapolis" target="mcortez">
+  <data key="d1">51.22727272727273</data>
+</edge>
+<edge source="cough" target="sneeze">
+  <data key="d1">18.333333333333332</data>
+</edge>
+<edge source="country" target="people">
+  <data key="d1">21.166666666666668</data>
+</edge>
+<edge source="country" target="protection">
+  <data key="d1">21.166666666666668</data>
+</edge>
+<edge source="people" target="identify">
+  <data key="d1">23.833333333333336</data>
+</edge>
+<edge source="people" target="kong">
+  <data key="d1">21.615079365079364</data>
+</edge>
+<edge source="people" target="hotel">
+  <data key="d1">21.615079365079364</data>
+</edge>
+<edge source="people" target="infect">
+  <data key="d1">23.833333333333336</data>
+</edge>
+<edge source="people" target="safety">
+  <data key="d1">20.0</data>
+</edge>
+<edge source="people" target="stress">
+  <data key="d1">20.0</data>
+</edge>
+<edge source="outer" target="perimeter">
+  <data key="d1">22.0</data>
+</edge>
+<edge source="credit" target="wendy">
+  <data key="d1">16.0</data>
+</edge>
+<edge source="wendy" target="orent">
+  <data key="d1">16.0</data>
+</edge>
+<edge source="criticisms" target="stamp">
+  <data key="d1">32.59523809523809</data>
+</edge>
+<edge source="crude" target="trade">
+  <data key="d1">39.0</data>
+</edge>
+<edge source="crude" target="popular">
+  <data key="d1">39.0</data>
+</edge>
+<edge source="trade" target="stocks">
+  <data key="d1">39.0</data>
+</edge>
+<edge source="curb" target="excessive">
+  <data key="d1">30.0</data>
+</edge>
+<edge source="curb" target="effort">
+  <data key="d1">30.0</data>
+</edge>
+<edge source="excessive" target="rapid">
+  <data key="d1">30.0</data>
+</edge>
+<edge source="current" target="impeachment">
+  <data key="d1">16.5</data>
+</edge>
+<edge source="current" target="trump">
+  <data key="d1">16.5</data>
+</edge>
+<edge source="impeachment" target="trial">
+  <data key="d1">16.5</data>
+</edge>
+<edge source="customer" target="employee">
+  <data key="d1">16.0</data>
+</edge>
+<edge source="customer" target="week">
+  <data key="d1">16.0</data>
+</edge>
+<edge source="dangerous" target="world">
+  <data key="d1">16.0</data>
+</edge>
+<edge source="daybook" target="today">
+  <data key="d1">27.0</data>
+</edge>
+<edge source="deadly" target="decade">
+  <data key="d1">17.5</data>
+</edge>
+<edge source="deadly" target="season">
+  <data key="d1">17.5</data>
+</edge>
+<edge source="death" target="united">
+  <data key="d1">22.166666666666668</data>
+</edge>
+<edge source="death" target="thousand">
+  <data key="d1">22.166666666666668</data>
+</edge>
+<edge source="united" target="delta">
+  <data key="d1">16.0</data>
+</edge>
+<edge source="united" target="states">
+  <data key="d1">75.0</data>
+</edge>
+<edge source="decisive" target="wise">
+  <data key="d1">29.5</data>
+</edge>
+<edge source="decisive" target="portray">
+  <data key="d1">29.5</data>
+</edge>
+<edge source="decrease" target="number">
+  <data key="d1">29.5</data>
+</edge>
+<edge source="deepen" target="international">
+  <data key="d1">20.0</data>
+</edge>
+<edge source="deepen" target="information">
+  <data key="d1">20.0</data>
+</edge>
+<edge source="international" target="cooperation">
+  <data key="d1">20.0</data>
+</edge>
+<edge source="international" target="mccarran">
+  <data key="d1">21.0</data>
+</edge>
+<edge source="defense" target="health">
+  <data key="d1">21.166666666666668</data>
+</edge>
+<edge source="deliver" target="health">
+  <data key="d1">21.615079365079364</data>
+</edge>
+<edge source="health" target="department">
+  <data key="d1">23.833333333333336</data>
+</edge>
+<edge source="health" target="good">
+  <data key="d1">22.0</data>
+</edge>
+<edge source="health" target="emergency">
+  <data key="d1">24.666666666666664</data>
+</edge>
+<edge source="health" target="minister">
+  <data key="d1">16.0</data>
+</edge>
+<edge source="health" target="organization">
+  <data key="d1">39.833333333333336</data>
+</edge>
+<edge source="health" target="priority">
+  <data key="d1">20.0</data>
+</edge>
+<edge source="health" target="screens">
+  <data key="d1">41.0</data>
+</edge>
+<edge source="health" target="threat">
+  <data key="d1">17.166666666666664</data>
+</edge>
+<edge source="health" target="indonesia">
+  <data key="d1">16.0</data>
+</edge>
+<edge source="health" target="initial">
+  <data key="d1">41.0</data>
+</edge>
+<edge source="health" target="safety">
+  <data key="d1">20.0</data>
+</edge>
+<edge source="health" target="world">
+  <data key="d1">39.833333333333336</data>
+</edge>
+<edge source="delivery" target="risk">
+  <data key="d1">30.0</data>
+</edge>
+<edge source="delivery" target="warn">
+  <data key="d1">30.0</data>
+</edge>
+<edge source="risk" target="delay">
+  <data key="d1">30.0</data>
+</edge>
+<edge source="delta" target="friday">
+  <data key="d1">16.0</data>
+</edge>
+<edge source="demand" target="website">
+  <data key="d1">30.0</data>
+</edge>
+<edge source="demand" target="mask">
+  <data key="d1">30.0</data>
+</edge>
+<edge source="department" target="release">
+  <data key="d1">20.0</data>
+</edge>
+<edge source="department" target="relevant">
+  <data key="d1">20.0</data>
+</edge>
+<edge source="release" target="information">
+  <data key="d1">20.0</data>
+</edge>
+<edge source="depend" target="length">
+  <data key="d1">18.5</data>
+</edge>
+<edge source="depend" target="time">
+  <data key="d1">18.5</data>
+</edge>
+<edge source="length" target="depth">
+  <data key="d1">18.5</data>
+</edge>
+<edge source="epidemiologist" target="washington">
+  <data key="d1">23.833333333333336</data>
+</edge>
+<edge source="national" target="institute">
+  <data key="d1">23.0</data>
+</edge>
+<edge source="national" target="science">
+  <data key="d1">22.166666666666668</data>
+</edge>
+<edge source="national" target="protect">
+  <data key="d1">23.0</data>
+</edge>
+<edge source="south" target="korea">
+  <data key="d1">24.11111111111111</data>
+</edge>
+<edge source="divert" target="lax">
+  <data key="d1">21.0</data>
+</edge>
+<edge source="divert" target="vegas">
+  <data key="d1">21.0</data>
+</edge>
+<edge source="lax" target="land">
+  <data key="d1">21.0</data>
+</edge>
+<edge source="dollar" target="lead">
+  <data key="d1">16.0</data>
+</edge>
+<edge source="dollar" target="value">
+  <data key="d1">16.0</data>
+</edge>
+<edge source="lead" target="thousand">
+  <data key="d1">22.166666666666668</data>
+</edge>
+<edge source="lead" target="tighter">
+  <data key="d1">16.0</data>
+</edge>
+<edge source="dong" target="lyu">
+  <data key="d1">34.46969696969697</data>
+</edge>
+<edge source="dr" target="scott">
+  <data key="d1">23.833333333333336</data>
+</edge>
+<edge source="scott" target="lindquist">
+  <data key="d1">23.833333333333336</data>
+</edge>
+<edge source="drew" target="armstrong">
+  <data key="d1">34.46969696969697</data>
+</edge>
+<edge source="drew" target="wong">
+  <data key="d1">34.46969696969697</data>
+</edge>
+<edge source="government" target="flood">
+  <data key="d1">16.0</data>
+</edge>
+<edge source="government" target="encourage">
+  <data key="d1">21.615079365079364</data>
+</edge>
+<edge source="government" target="notice">
+  <data key="d1">30.0</data>
+</edge>
+<edge source="government" target="kong">
+  <data key="d1">21.615079365079364</data>
+</edge>
+<edge source="déjà" target="vu">
+  <data key="d1">16.5</data>
+</edge>
+<edge source="déjà" target="feel">
+  <data key="d1">16.5</data>
+</edge>
+<edge source="earnings" target="house">
+  <data key="d1">27.0</data>
+</edge>
+<edge source="easy" target="immunity">
+  <data key="d1">16.0</data>
+</edge>
+<edge source="easy" target="prevent">
+  <data key="d1">16.0</data>
+</edge>
+<edge source="immunity" target="good">
+  <data key="d1">16.0</data>
+</edge>
+<edge source="wild" target="eating">
+  <data key="d1">19.0</data>
+</edge>
+<edge source="eating" target="press">
+  <data key="d1">19.0</data>
+</edge>
+<edge source="impact" target="lunar">
+  <data key="d1">32.59523809523809</data>
+</edge>
+<edge source="economics" target="refer">
+  <data key="d1">21.0</data>
+</edge>
+<edge source="economics" target="oxford">
+  <data key="d1">21.0</data>
+</edge>
+<edge source="economy" target="stocks">
+  <data key="d1">23.28571428571429</data>
+</edge>
+<edge source="stocks" target="rally">
+  <data key="d1">39.0</data>
+</edge>
+<edge source="stocks" target="rise">
+  <data key="d1">32.59523809523809</data>
+</edge>
+<edge source="responsible" target="story">
+  <data key="d1">51.22727272727273</data>
+</edge>
+<edge source="effort" target="make">
+  <data key="d1">30.0</data>
+</edge>
+<edge source="emerges" target="lawyer">
+  <data key="d1">16.5</data>
+</edge>
+<edge source="emerges" target="starr">
+  <data key="d1">16.5</data>
+</edge>
+<edge source="lawyer" target="president">
+  <data key="d1">16.5</data>
+</edge>
+<edge source="end" target="illuminated">
+  <data key="d1">16.0</data>
+</edge>
+<edge source="end" target="tuesday">
+  <data key="d1">21.615079365079364</data>
+</edge>
+<edge source="end" target="holiday">
+  <data key="d1">21.615079365079364</data>
+</edge>
+<edge source="end" target="video">
+  <data key="d1">16.0</data>
+</edge>
+<edge source="illuminated" target="night">
+  <data key="d1">16.0</data>
+</edge>
+<edge source="enforcement" target="make">
+  <data key="d1">30.0</data>
+</edge>
+<edge source="enforcement" target="prices">
+  <data key="d1">30.0</data>
+</edge>
+<edge source="enforcement" target="protective">
+  <data key="d1">30.0</data>
+</edge>
+<edge source="make" target="patent">
+  <data key="d1">23.0</data>
+</edge>
+<edge source="prices" target="rebound">
+  <data key="d1">39.0</data>
+</edge>
+<edge source="prices" target="surgical">
+  <data key="d1">30.0</data>
+</edge>
+<edge source="epfanner1" target="pfanner">
+  <data key="d1">34.46969696969697</data>
+</edge>
+<edge source="washington" target="man">
+  <data key="d1">23.833333333333336</data>
+</edge>
+<edge source="eric" target="pfanner">
+  <data key="d1">34.46969696969697</data>
+</edge>
+<edge source="plan" target="tiny">
+  <data key="d1">41.0</data>
+</edge>
+<edge source="rapid" target="rise">
+  <data key="d1">30.0</data>
+</edge>
+<edge source="expert" target="infectious">
+  <data key="d1">22.166666666666668</data>
+</edge>
+<edge source="expert" target="modeling">
+  <data key="d1">22.166666666666668</data>
+</edge>
+<edge source="extra" target="seat">
+  <data key="d1">21.0</data>
+</edge>
+<edge source="seat" target="canadians">
+  <data key="d1">21.0</data>
+</edge>
+<edge source="facility" target="good">
+  <data key="d1">22.0</data>
+</edge>
+<edge source="facility" target="provide">
+  <data key="d1">21.166666666666668</data>
+</edge>
+<edge source="facility" target="research">
+  <data key="d1">21.166666666666668</data>
+</edge>
+<edge source="facility" target="saturday">
+  <data key="d1">22.0</data>
+</edge>
+<edge source="good" target="factor">
+  <data key="d1">29.5</data>
+</edge>
+<edge source="good" target="spirit">
+  <data key="d1">22.0</data>
+</edge>
+<edge source="provide" target="firewall">
+  <data key="d1">21.166666666666668</data>
+</edge>
+<edge source="factor" target="resilient">
+  <data key="d1">29.5</data>
+</edge>
+<edge source="version" target="warn">
+  <data key="d1">30.0</data>
+</edge>
+<edge source="fay" target="michelle">
+  <data key="d1">51.22727272727273</data>
+</edge>
+<edge source="봞nd" target="boredom">
+  <data key="d1">41.0</data>
+</edge>
+<edge source="feel" target="middle">
+  <data key="d1">18.0</data>
+</edge>
+<edge source="feel" target="hard">
+  <data key="d1">16.5</data>
+</edge>
+<edge source="feel" target="situation">
+  <data key="d1">18.0</data>
+</edge>
+<edge source="year" target="new">
+  <data key="d1">86.63888888888889</data>
+</edge>
+<edge source="year" target="states">
+  <data key="d1">22.166666666666668</data>
+</edge>
+<edge source="year" target="gilead">
+  <data key="d1">23.0</data>
+</edge>
+<edge source="year" target="holiday">
+  <data key="d1">21.615079365079364</data>
+</edge>
+<edge source="year" target="visitors">
+  <data key="d1">32.59523809523809</data>
+</edge>
+<edge source="filing" target="gilead">
+  <data key="d1">23.0</data>
+</edge>
+<edge source="services" target="task">
+  <data key="d1">27.0</data>
+</edge>
+<edge source="technology" target="hold">
+  <data key="d1">27.0</data>
+</edge>
+<edge source="flood" target="investor">
+  <data key="d1">16.0</data>
+</edge>
+<edge source="play" target="season">
+  <data key="d1">17.5</data>
+</edge>
+<edge source="season" target="track">
+  <data key="d1">17.5</data>
+</edge>
+<edge source="seoul" target="mccarran">
+  <data key="d1">21.0</data>
+</edge>
+<edge source="force" target="task">
+  <data key="d1">27.0</data>
+</edge>
+<edge source="foundation" target="science">
+  <data key="d1">22.166666666666668</data>
+</edge>
+<edge source="free" target="stay">
+  <data key="d1">16.0</data>
+</edge>
+<edge source="fresh" target="meat">
+  <data key="d1">17.86111111111111</data>
+</edge>
+<edge source="fresh" target="sell">
+  <data key="d1">17.86111111111111</data>
+</edge>
+<edge source="meat" target="live">
+  <data key="d1">17.86111111111111</data>
+</edge>
+<edge source="funnies" target="payment">
+  <data key="d1">27.0</data>
+</edge>
+<edge source="future" target="world">
+  <data key="d1">16.0</data>
+</edge>
+<edge source="future" target="terrifying">
+  <data key="d1">16.0</data>
+</edge>
+<edge source="gambling" target="hub">
+  <data key="d1">32.59523809523809</data>
+</edge>
+<edge source="gambling" target="visitors">
+  <data key="d1">32.59523809523809</data>
+</edge>
+<edge source="hub" target="macau">
+  <data key="d1">32.59523809523809</data>
+</edge>
+<edge source="macro" target="research">
+  <data key="d1">21.0</data>
+</edge>
+<edge source="spirit" target="subdued">
+  <data key="d1">22.0</data>
+</edge>
+<edge source="notice" target="warn">
+  <data key="d1">30.0</data>
+</edge>
+<edge source="grace" target="zhu">
+  <data key="d1">29.2719298245614</data>
+</edge>
+<edge source="grace" target="huang">
+  <data key="d1">16.385964912280702</data>
+</edge>
+<edge source="zhu" target="rachel">
+  <data key="d1">16.385964912280702</data>
+</edge>
+<edge source="gu" target="new">
+  <data key="d1">34.46969696969697</data>
+</edge>
+<edge source="gu" target="jacob">
+  <data key="d1">34.46969696969697</data>
+</edge>
+<edge source="new" target="know">
+  <data key="d1">41.0</data>
+</edge>
+<edge source="new" target="lunar">
+  <data key="d1">54.210317460317455</data>
+</edge>
+<edge source="new" target="york">
+  <data key="d1">68.93939393939394</data>
+</edge>
+<edge source="new" target="scared">
+  <data key="d1">16.142857142857142</data>
+</edge>
+<edge source="new" target="schoifet">
+  <data key="d1">34.46969696969697</data>
+</edge>
+<edge source="gun" target="thermometer">
+  <data key="d1">18.0</data>
+</edge>
+<edge source="hail" target="significant">
+  <data key="d1">21.166666666666668</data>
+</edge>
+<edge source="hail" target="lab">
+  <data key="d1">21.166666666666668</data>
+</edge>
+<edge source="priority" target="urge">
+  <data key="d1">20.0</data>
+</edge>
+<edge source="priority" target="worker">
+  <data key="d1">21.615079365079364</data>
+</edge>
+<edge source="screens" target="know">
+  <data key="d1">41.0</data>
+</edge>
+<edge source="hearing" target="rise">
+  <data key="d1">27.0</data>
+</edge>
+<edge source="hearing" target="hold">
+  <data key="d1">27.0</data>
+</edge>
+<edge source="rise" target="mobile">
+  <data key="d1">27.0</data>
+</edge>
+<edge source="rise" target="protective">
+  <data key="d1">30.0</data>
+</edge>
+<edge source="hits" target="shipping">
+  <data key="d1">39.0</data>
+</edge>
+<edge source="hits" target="remedies">
+  <data key="d1">39.0</data>
+</edge>
+<edge source="know" target="let">
+  <data key="d1">17.666666666666664</data>
+</edge>
+<edge source="hospitals" target="turn">
+  <data key="d1">39.0</data>
+</edge>
+<edge source="hotel" target="worker">
+  <data key="d1">21.615079365079364</data>
+</edge>
+<edge source="huang" target="official">
+  <data key="d1">29.5</data>
+</edge>
+<edge source="huang" target="raffaele">
+  <data key="d1">27.49122807017544</data>
+</edge>
+<edge source="macau" target="screened">
+  <data key="d1">32.59523809523809</data>
+</edge>
+<edge source="hubei" target="province">
+  <data key="d1">26.11111111111111</data>
+</edge>
+<edge source="identify" target="order">
+  <data key="d1">23.833333333333336</data>
+</edge>
+<edge source="night" target="landscape">
+  <data key="d1">16.0</data>
+</edge>
+<edge source="immediate" target="need">
+  <data key="d1">21.0</data>
+</edge>
+<edge source="impossible" target="predict">
+  <data key="d1">17.5</data>
+</edge>
+<edge source="initial" target="pass">
+  <data key="d1">41.0</data>
+</edge>
+<edge source="western" target="tabloid">
+  <data key="d1">19.0</data>
+</edge>
+<edge source="investors" target="records">
+  <data key="d1">39.0</data>
+</edge>
+<edge source="island" target="miles">
+  <data key="d1">41.0</data>
+</edge>
+<edge source="island" target="tiny">
+  <data key="d1">41.0</data>
+</edge>
+<edge source="jgu3" target="york">
+  <data key="d1">34.46969696969697</data>
+</edge>
+<edge source="john" target="neil">
+  <data key="d1">16.757575757575758</data>
+</edge>
+<edge source="neil" target="paul">
+  <data key="d1">16.757575757575758</data>
+</edge>
+<edge source="list" target="seasonal">
+  <data key="d1">22.166666666666668</data>
+</edge>
+<edge source="jon" target="emont">
+  <data key="d1">21.93859649122807</data>
+</edge>
+<edge source="joyu" target="wang">
+  <data key="d1">22.407894736842106</data>
+</edge>
+<edge source="ken" target="starr">
+  <data key="d1">16.5</data>
+</edge>
+<edge source="kenneth" target="wong">
+  <data key="d1">34.46969696969697</data>
+</edge>
+<edge source="kharn" target="lambert">
+  <data key="d1">22.0</data>
+</edge>
+<edge source="lambert" target="quarantine">
+  <data key="d1">22.0</data>
+</edge>
+<edge source="korea" target="japan">
+  <data key="d1">24.11111111111111</data>
+</edge>
+<edge source="korea" target="north">
+  <data key="d1">32.5</data>
+</edge>
+<edge source="lab" target="open">
+  <data key="d1">21.166666666666668</data>
+</edge>
+<edge source="land" target="incident">
+  <data key="d1">21.0</data>
+</edge>
+<edge source="president" target="trump">
+  <data key="d1">31.0</data>
+</edge>
+<edge source="patrol" target="police">
+  <data key="d1">22.0</data>
+</edge>
+<edge source="level" target="official">
+  <data key="d1">29.5</data>
+</edge>
+<edge source="sars" target="syndrome">
+  <data key="d1">21.0</data>
+</edge>
+<edge source="live" target="poultry">
+  <data key="d1">17.86111111111111</data>
+</edge>
+<edge source="liyan" target="qi">
+  <data key="d1">21.724310776942357</data>
+</edge>
+<edge source="liza" target="lin">
+  <data key="d1">19.24812030075188</data>
+</edge>
+<edge source="ll" target="train">
+  <data key="d1">16.142857142857142</data>
+</edge>
+<edge source="research" target="oxford">
+  <data key="d1">21.0</data>
+</edge>
+<edge source="mark" target="schoifet">
+  <data key="d1">34.46969696969697</data>
+</edge>
+<edge source="slide" target="time">
+  <data key="d1">18.5</data>
+</edge>
+<edge source="mask" target="surgical">
+  <data key="d1">30.0</data>
+</edge>
+<edge source="mathematical" target="modeling">
+  <data key="d1">22.166666666666668</data>
+</edge>
+<edge source="mathematical" target="scheiner">
+  <data key="d1">22.166666666666668</data>
+</edge>
+<edge source="megumi" target="fujikawa">
+  <data key="d1">24.24561403508772</data>
+</edge>
+<edge source="michelle" target="story">
+  <data key="d1">51.22727272727273</data>
+</edge>
+<edge source="miho" target="inada">
+  <data key="d1">17.49561403508772</data>
+</edge>
+<edge source="mobile" target="payment">
+  <data key="d1">27.0</data>
+</edge>
+<edge source="strahan" target="team">
+  <data key="d1">18.0</data>
+</edge>
+<edge source="ms" target="nixon">
+  <data key="d1">18.5</data>
+</edge>
+<edge source="mschoifet" target="york">
+  <data key="d1">34.46969696969697</data>
+</edge>
+<edge source="mysterious" target="past">
+  <data key="d1">16.0</data>
+</edge>
+<edge source="past" target="terrifying">
+  <data key="d1">16.0</data>
+</edge>
+<edge source="negative" target="reading">
+  <data key="d1">16.0</data>
+</edge>
+<edge source="paul" target="geitner">
+  <data key="d1">16.757575757575758</data>
+</edge>
+<edge source="staff" target="story">
+  <data key="d1">34.46969696969697</data>
+</edge>
+<edge source="notable" target="raytheon">
+  <data key="d1">27.0</data>
+</edge>
+<edge source="nytimes" target="com">
+  <data key="d1">16.8</data>
+</edge>
+<edge source="prompts" target="patients">
+  <data key="d1">39.0</data>
+</edge>
+<edge source="perimeter" target="prevent">
+  <data key="d1">22.0</data>
+</edge>
+<edge source="overtime" target="stay">
+  <data key="d1">16.0</data>
+</edge>
+<edge source="pack" target="thermometer">
+  <data key="d1">18.0</data>
+</edge>
+<edge source="pack" target="team">
+  <data key="d1">18.0</data>
+</edge>
+<edge source="patients" target="scramble">
+  <data key="d1">39.0</data>
+</edge>
+<edge source="scramble" target="remedies">
+  <data key="d1">39.0</data>
+</edge>
+<edge source="traffic" target="slides">
+  <data key="d1">39.0</data>
+</edge>
+<edge source="press" target="tabloid">
+  <data key="d1">19.0</data>
+</edge>
+<edge source="rebound" target="taking">
+  <data key="d1">39.0</data>
+</edge>
+<edge source="urge" target="relevant">
+  <data key="d1">20.0</data>
+</edge>
+<edge source="rachel" target="pannett">
+  <data key="d1">16.385964912280702</data>
+</edge>
+<edge source="rachel" target="story">
+  <data key="d1">34.46969696969697</data>
+</edge>
+<edge source="rally" target="records">
+  <data key="d1">39.0</data>
+</edge>
+<edge source="real" target="situation">
+  <data key="d1">18.0</data>
+</edge>
+<edge source="story" target="sharon">
+  <data key="d1">16.757575757575758</data>
+</edge>
+<edge source="resiliency" target="resilient">
+  <data key="d1">29.5</data>
+</edge>
+<edge source="sam" target="scheiner">
+  <data key="d1">22.166666666666668</data>
+</edge>
+<edge source="second" target="sets">
+  <data key="d1">39.0</data>
+</edge>
+<edge source="sets" target="slides">
+  <data key="d1">39.0</data>
+</edge>
+<edge source="stress" target="xi">
+  <data key="d1">20.0</data>
+</edge>
+<edge source="update" target="reflect">
+  <data key="d1">17.0</data>
+</edge>
+<edge source="wenxin" target="fan">
+  <data key="d1">33.91979949874687</data>
+</edge>
+<edge source="yin" target="yijun">
+  <data key="d1">29.414786967418546</data>
+</edge>
+</graph></graphml>
