@@ -52,6 +52,7 @@ if __name__ == "__main__":
                                       str(current_date.month).zfill(2),
                                       str(current_date.day).zfill(2))
         if os.path.exists(dateFilePath):
+            #getSentimentScoreByFile or getKeywordSentimentScoreByFile
             average_score, all_scores = getSentimentScoreByFile(dateFilePath, windowSize)
             scoreArray.append([current_date.strftime("%Y-%m-%d"), average_score, "/".join(all_scores)])
             os.remove(dateFilePath)
