@@ -157,7 +157,7 @@ def getKeywordSentimentScoreByFile(filePath, windowSize=1):
         # filter sentences by keyword
         if windowSize > 1:
             sentences = []
-            keyword = ["mask"]
+            keyword = ["Korea", "Koreans", "Korean"]
 
             for sent in document:
                 num = 0
