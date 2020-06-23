@@ -167,9 +167,9 @@ def getKeywordSentimentScoreByFile(filePath, windowSize=1):
                     while k < len(keyword):
                         if keyword[k] in sent[num]:
                             if document.index(sent) > windowSize:
-                                sents = document[document.index(sent) - windowSize:document.index(sent) + windowSize]
+                                sents = document[document.index(sent)-windowSize:document.index(sent)+windowSize]
                             else:
-                                sents = document[0:document.index(sent) + windowSize]
+                                sents = document[0:document.index(sent)+windowSize]
                             sentences1.extend(sentences)
                             sentences.extend(sents)
                             break
