@@ -1,4 +1,4 @@
-﻿# Text Mining Final Project - Group 1
+﻿# Text Mining Final Project - Group 1 (completed)
 
 ## Our schedule (tentative)
 - [x] Getting Started
@@ -7,9 +7,9 @@
 - [x] Count Occurrence (Word Cloud)
 - [x] Co-occurrence
 - [x] Sentiment Analysis
-- [ ] Topic Modelling
-- [ ] Result Interpretation
-- [ ] Visualization
+- [x] Topic Modelling
+- [x] Result Interpretation
+- [x] Visualization
 
 ## Major Changes & Updates
 *  ALL MAJOR CHANGES MUST BE CLEARLY EXPLAINED IN THIS FILE
@@ -77,3 +77,24 @@
    * created `original` folder to save only the original data
 1. edited `mongo_insert.py` file
 1. updated *lemmatizer* and *ngram* module in `preprocess` folder
+
+### 0619
+1. 0611 version이었으나 업로드 되지 않았던 내용 추가 + 새 graphml output들 공유
+1. created 'Cooccurrence' folder
+   * created `graphmlmaker.py` to run create graphml files
+   * ouput file들 중에서 최종 결과물에 사용된 것은 'graphmls_NVJ' folder에 있는 것들
+1. created `test_englishDictionarySentimentAnalyzer.py` file in `preprocess` folder
+   * created `cooccurrence` folder to run 'graphmlmaker.py'
+   * created `graphml` folder to run 'graphmlmaker.py'
+1. changed  '__init__' of `preprocess' folder
+   * added lines that import modules above
+
+### 0622
+1. updated `englishDictionarySentimentAnalyzer.py` file
+   * can filter sentences containing certain keywords
+1. updated `test_englishDictionarySentimentAnalyzer.py` file accordingly
+
+### 0623
+1. created `englishDictionarySentimentAnalyzer2.py` file (second version)
+   * can filter sentences containing certain keywords
+1. created `test_englishDictionarySentimentAnalyzer2.py` file (second version)

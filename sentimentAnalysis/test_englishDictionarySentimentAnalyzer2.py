@@ -1,20 +1,25 @@
 from controlDB import *
 from mongoengine import *
-from sentimentAnalysis.englishDictionarySentimentAnalyzer import *
+from sentimentAnalysis.englishDictionarySentimentAnalyzer2 import *
 import datetime
 import os
 
 # TODO: Choose a range of dates to calculate sentiment score
 startYear = "2020"
-startMonth = "04"
-startDay = "16"
+startMonth = "01"
+startDay = "01"
 
 endYear = "2020"
-endMonth = "05"
-endDay = "27"
+endMonth = "02"
+endDay = "18"
 
 # TODO: You may change the size of the window
-windowSize = 5
+windowSize = 7
+
+# TODO: You may select only sentences that contain specific keywords (case-insensitive)
+filterByKeyword = True
+keyword1 = "Korea"
+keyword2 = "Korea"
 
 
 # Filter news articles by date from MongoDB
@@ -52,8 +57,11 @@ if __name__ == "__main__":
                                       str(current_date.month).zfill(2),
                                       str(current_date.day).zfill(2))
         if os.path.exists(dateFilePath):
-            #getSentimentScoreByFile or getKeywordSentimentScoreByFile
-            average_score, all_scores = getSentimentScoreByFile(dateFilePath, windowSize)
+            average_score, all_scores = getSentimentScoreByFile(dateFilePath,
+                                                                windowSize,
+                                                                filterByKeyword,
+                                                                keyword1,
+                                                                keyword2)
             scoreArray.append([current_date.strftime("%Y-%m-%d"), average_score, "/".join(all_scores)])
             os.remove(dateFilePath)
         else:
@@ -64,7 +72,7 @@ if __name__ == "__main__":
     scoreFilePath = "../result/[Sentiment-" + str(windowSize) + "]date_from" +\
                     start_date.strftime("%Y%m%d") + "to" + end_date.strftime("%Y%m%d") +\
                     "_result.txt"
-    with open(scoreFilePath, "w", encoding='utf-8') as file:
+    with open(scoreFilePath, "w", encoding='utf-8') as scoreFile:
         for element in scoreArray:
             line = "\t".join(element) + "\n"
-            file.write(line)
+            scoreFile.write(line)
