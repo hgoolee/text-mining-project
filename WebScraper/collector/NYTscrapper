@@ -1,0 +1,33 @@
+#url list 에서 기사 본문 가져오기
+import time
+from selenium import webdriver
+from bs4 import BeautifulSoup
+import requests
+from fake_useragent import UserAgent
+import bs4
+import os
+
+
+driver = webdriver.Chrome('C:\chromedriver.exe')
+urls = open('C:\\Users\\0206m\\PycharmProjects\\pyTextMiner\\pyTextMiner\\data_harvester\\data\\url\\south korea
+ coronavirus_NYT_rest2.txt', 'r').read().split('\n')
+
+user_agent = UserAgent()
+import sys
+out = open("nyt_result_rest2.txt", mode='w', encoding='utf8')
+
+for url in urls:
+   page = requests.get(url, headers={"user-agent": user_agent.chrome})
+   html = page.content
+   soup = bs4.BeautifulSoup(html, "html.parser")
+   contents = soup.find_all("p", {'class': 'css-exrw3m evys1bk0'})
+   datetime = soup.find("time")
+   print(datetime.get_text(), end="\t", file=out)
+   for content in contents:
+       print(content.get_text(), end=" ", file=out)
+       time.sleep(0.01)
+   print('', file=out)
+   time.sleep(0.01)
+
+out.close()
+driver.close()
