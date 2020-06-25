@@ -1,4 +1,4 @@
-﻿# Text Mining Final Project - Group 1 (completed)
+# Text Mining Final Project - Group 1 (completed)
 
 ## Our schedule (tentative)
 - [x] Getting Started
