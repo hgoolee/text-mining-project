@@ -1,10 +1,14 @@
 from preprocess.counter import *
 from preprocess.helper import *
 from preprocess.lemmatizer import *
+from preprocess.ngram import *
 from preprocess.splitter import *
 from preprocess.stemmer import *
+from preprocess.tagger import *
 from preprocess.tokenizer import *
-# from preprocess.ngram import *
+from preprocess.cooccurrence import *
+from preprocess.graphml import *
+# can add as needed
 
 from os import listdir
 from nltk.corpus import stopwords
@@ -115,5 +119,15 @@ class CorpusFromDirectory(Corpus):
 
             # add to list
             array.append(data)
+
+        self.docs = array
+
+class CorpusFromFieldDelimitedFile_enter(Corpus):
+    def __init__(self, file, index):
+        #self.docs = open(file, encoding='utf-8').readlines()
+        array = []
+        with open(file, encoding='utf-8') as ins:
+            for line in ins:
+                array.append(line.split('\n')[index])
 
         self.docs = array

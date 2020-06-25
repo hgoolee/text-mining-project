@@ -1,0 +1,55 @@
+#get full text from proquest
+import csv
+
+#f = open('C:\\Users.txt', 'w', encoding='utf-8')
+
+write_out = open('C:\\Users.txt', 'w', encoding='utf-8', newline='')
+writer = csv.writer(write_out)
+
+
+filepath = 'C:\\Users.txt') Targeted News Service.txt'
+with open(filepath, encoding='utf-8') as fp:
+    count = 0
+    author = ''
+    abs = ''
+    full_text = ''
+    title = ''
+    pub_date = ''
+    for line in fp:
+        if line.startswith('______'):
+            if len(author) > 0 and len(full_text) > 0 and len(pub_date) > 0:
+                writer.writerow([author, abs, full_text, title, pub_date])
+            count += 1
+            author = ''
+            abs = ''
+            full_text = ''
+            title = ''
+            pub_date = ''
+        else:
+            if line.startswith("Author:"):
+                author = line.split('Author:')[1].strip()
+                print('author ' + author)
+            elif line.startswith("Abstract:"):
+                abs = line.split('Abstract:')[1].strip()
+            elif line.startswith("Full text:"):
+                full_text = line.split('Full text:')[1].strip()
+                for line in fp:  # This keeps reading the file
+                    if line.startswith("Subject:"):
+                        break
+                    else:
+                        full_text +=  ' ' + line.strip()
+
+                print(full_text)
+
+            elif line.startswith('Title:'):
+                title = line.split('Title:')[1].strip()
+            elif line.startswith('Publication date:'):
+                pub_date = line.split('Publication date:')[1].strip()
+
+    if len(author) > 0 and len(full_text) > 0 and len(pub_date) > 0:
+        writer.writerow([author, abs, full_text, title, pub_date])
+
+
+    print("Size " + str(count))
+
+
